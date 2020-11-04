@@ -8,7 +8,7 @@ vzorec = (
     r'class="GO-Results-Naziv bg-dark px-3 py-2 font-weight-bold text-truncate text-white text-decoration-none">\s*'
     r'<span>(?P<Znamka>\S+)\s*(?P<Model>.*?)</span>.*?'
     r'<td class="w-25 d-none d-md-block pl-3">1.registracija</td>\n\n\s*<td class="w-75 pl-3">(?P<Prva>\d+?)</td>.*?'
-    r'<td class="pl-3">(?P<prevoženi>\d*) km</td>.*?'
+    r'<td class="pl-3">(?P<prevozeni>\d*) km</td>.*?'
     r'<td class="d-none d-md-block pl-3">Gorivo</td>.*?'
     r'<td class="pl-3">(?P<gorivo>.*?)</td>.*?' #gorivo
     r'<td class="d-none d-md-block pl-3">Menjalnik</td>.*?<td class="pl-3 text-truncate">(?P<menjalnik>.*?)</td>.*?' #menjalnik
@@ -28,7 +28,7 @@ for stran in range(STEVILO_STRANI):
 
     with open('test.html', 'a', encoding='utf-8') as f:
         for zadetek in re.finditer(vzorec, vsebina, flags=re.DOTALL):
-            print(zadetek.groupdict(), file=f, end=",")
+            print(zadetek.groupdict(), file=f, end=",\n")
             najdeni_filmi += 1
     
 
