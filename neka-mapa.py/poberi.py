@@ -2,17 +2,18 @@ import orodja
 import re
 import requests
 
-STEVILO_STRANI =2
+STEVILO_STRANI =21
 
 vzorec = (
     r'class="GO-Results-Naziv bg-dark px-3 py-2 font-weight-bold text-truncate text-white text-decoration-none">\s*'
     r'<span>(?P<Znamka>\S+)\s*(?P<Model>.*?)</span>.*?'
     r'<td class="w-25 d-none d-md-block pl-3">1.registracija</td>\n\n\s*<td class="w-75 pl-3">(?P<Prva>\d+?)</td>.*?'
-    r'<td class="pl-3">(?P<prevoženi>\d*) km</td>'
+    r'<td class="pl-3">(?P<prevoženi>\d*) km</td>.*?'
     r'<td class="d-none d-md-block pl-3">Gorivo</td>.*?'
-    r'<td class="pl-3">(?P<gorivo>.*?)</td>' #gorivo
+    r'<td class="pl-3">(?P<gorivo>.*?)</td>.*?' #gorivo
     r'<td class="d-none d-md-block pl-3">Menjalnik</td>.*?<td class="pl-3 text-truncate">(?P<menjalnik>.*?)</td>.*?' #menjalnik
-    r'<td class="d-none d-md-block pl-3">Motor</td>.*?<td class="pl-3 text-truncate">(?P<motor>.*?)</td>' #motor
+    r'<td class="d-none d-md-block pl-3">Motor</td>.*?<td class="pl-3 text-truncate">\n\n\s*(?P<motor>.*?)\n\n\s*</td>.*?' #motor
+    r'<div class="GO-Results-*?-Price-TXT-.*?">(?P<cena>\d.*?)\s' #cena
 )
 
 
@@ -25,9 +26,10 @@ for stran in range(STEVILO_STRANI):
     orodja.shrani_spletno_stran(url, datoteka)
     vsebina = orodja.vsebina_datoteke(datoteka)
 
-    with open('podatki.html', 'a', encoding='UTF-8') as f:
+    with open('test.html', 'a', encoding='utf-8') as f:
         for zadetek in re.finditer(vzorec, vsebina, flags=re.DOTALL):
-            print(zadetek.groupdict(), file=f)
+            print(zadetek.groupdict(), file=f, end=",")
             najdeni_filmi += 1
+    
 
 print(najdeni_filmi)

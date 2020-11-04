@@ -23,6 +23,7 @@ def shrani_spletno_stran(url, ime_datoteke, vsili_prenos=False):
         s = requests.Session()
         s.headers['User-Agent'] = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36'
         r = s.get(url)
+        #print(r.encoding)
     except requests.exceptions.ConnectionError:
         print('stran ne obstaja!')
     else:
@@ -53,3 +54,4 @@ def zapisi_json(objekt, ime_datoteke):
     pripravi_imenik(ime_datoteke)
     with open(ime_datoteke, 'w', encoding='utf-8') as json_datoteka:
         json.dump(objekt, json_datoteka, indent=4, ensure_ascii=False)
+
