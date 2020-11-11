@@ -1,3 +1,5 @@
+#kopija orodij s predavanj z manjšim popravkom
+
 import csv
 import json
 import os

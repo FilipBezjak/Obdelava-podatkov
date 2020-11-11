@@ -30,6 +30,6 @@ for stran in range(STEVILO_STRANI):
         for zadetek in re.finditer(vzorec, vsebina, flags=re.DOTALL):
             print(zadetek.groupdict(), file=f, end=",\n")
             najdeni_filmi += 1
-    
+
 
 print(najdeni_filmi)

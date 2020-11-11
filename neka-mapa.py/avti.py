@@ -101,7 +101,7 @@ def cena(oglas):
 #            print(vrstica, end=',', file=v)
 
 funkcija1('test.html', 'ocisceno.html')
-zapise_v_json('ocisceno.html', 'avti.json')
+zapise_v_json('olepsano.html', 'avti.json')
 with open('ocisceno.html', 'r', encoding='utf-8') as f:
     slovarji = f.read()
     slovarji = ast.literal_eval(slovarji)
