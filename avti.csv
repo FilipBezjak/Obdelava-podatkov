@@ -1,946 +1,1892 @@
-Znamka,Model,cena,Prevozeni Km,Prva registracija,gorivo,menjalnik,prostornina motorja,moc v KM,moc v KW,ID
-Opel,Astra,22990,136000,2003,bencinski motor,ročni menjalnik,1598,101,74,1
-Honda,Accord,1200,246300,2002,bencinski motor,ročni menjalnik,1850,136,100,2
-Volkswagen,Passat,13990,121000,2016,diesel motor,avtomatski menjalnik,1598,120,88,3
-BMW,serija 3:,14490,155120,2014,diesel motor,avtomatski menjalnik,1995,184,135,4
-Volkswagen,Passat,2990,232000,2008,diesel motor,ročni menjalnik,1968,140,103,5
-Volkswagen,Jetta,6666,143000,2011,bencinski motor,ročni menjalnik,1197,105,77,6
-Volkswagen,Bora,7999,380000,2000,diesel motor,"1896 ccm, 66 kW / 90 KM",2987,218,160,7
-Mercedes-Benz,CLS-Razred,64900,49000,2018,diesel motor,avtomatski menjalnik,2995,286,210,8
-BMW,serija 5:,35600,69000,2017,diesel motor,avtomatski menjalnik,1995,190,140,9
-Audi,A4,8790,232563,2009,diesel motor,avtomatski menjalnik,1968,143,105,10
-BMW,serija 7:,44890,178657,2016,diesel motor,avtomatski menjalnik,2993,265,195,11
-BMW,serija 3:,4890,281563,2007,diesel motor,ročni menjalnik,1995,163,120,12
-Infiniti,Q50,13800,39800,2015,diesel motor,ročni menjalnik,2170,170,125,13
-Audi,A4,18999,153770,2017,diesel motor,avtomatski menjalnik,1968,150,110,14
-Audi,A4,43490,17900,2020,diesel motor,avtomatski menjalnik,1968,190,140,15
-Volkswagen,Passat,5100,265000,2007,diesel motor,ročni menjalnik,1968,140,103,16
-Peugeot,407,3490,198398,2009,diesel motor,ročni menjalnik,1997,140,103,17
-Volkswagen,Passat,799,245000,1998,bencinski motor,avtomatski menjalnik,1781,150,110,18
-Volkswagen,Passat,2000,240000,2003,diesel motor,ročni menjalnik,1896,131,96,19
-BMW,serija 7:,13990,303680,2010,diesel motor,avtomatski menjalnik,2993,245,180,20
-Mercedes-Benz,C-Razred,20500,68000,2015,diesel motor,avtomatski menjalnik,2143,170,125,21
-BMW,serija 5:,6490,351193,2004,diesel motor,ročni menjalnik,2497,177,130,22
-Seat,Cordoba,200,275532,1997,bencinski motor,ročni menjalnik,1390,60,44,23
-BMW,serija 3:,16900,161092,2012,diesel motor,ročni menjalnik,1995,184,135,24
-BMW,serija 3:,2999,290000,1998,bencinski motor,ročni menjalnik,2494,170,125,25
-Volvo,S80,5490,270000,2008,diesel motor,avtomatski menjalnik,2400,185,136,26
-BMW,serija 3:,12999,214035,2014,diesel motor,ročni menjalnik,1995,184,135,27
-Renault,Clio,150,115000,2000,bencinski motor,ročni menjalnik,,58,43,28
-Audi,A4,11490,265972,2008,diesel motor,avtomatski menjalnik,2698,190,140,29
-Mercedes-Benz,E-Razred,20900,96000,2014,diesel motor,avtomatski menjalnik,2143,170,125,30
-BMW,serija 5:,15900,274000,2014,diesel motor,avtomatski menjalnik,1995,184,135,31
-Kia,Rio,5190,135000,2012,bencinski motor,ročni menjalnik,1396,109,80,32
-Audi,A6,20490,81982,2015,diesel motor,ročni menjalnik,1968,190,140,33
-Volkswagen,Passat,6490,306399,2006,diesel motor,ročni menjalnik,1968,140,103,34
-Renault,Megane,650,240000,2004,diesel motor,ročni menjalnik,1461,82,60,35
-BMW,serija 5:,13990,241617,2010,diesel motor,ročni menjalnik,1995,184,135,36
-Mercedes-Benz,E-Razred,10840,269000,2011,diesel motor,avtomatski menjalnik,2143,136,100,37
-Mercedes-Benz,S-Razred,8990,172369,1980,bencinski motor,avtomatski menjalnik,2798,185,136,38
-Renault,Clio,2950,121430,2009,diesel motor,ročni menjalnik,1461,68,50,39
-Volvo,S60,1200,310000,2002,bencinski motor,ročni menjalnik,2435,200,147,40
-Volkswagen,Passat,9650,179000,2013,diesel motor,ročni menjalnik,1968,140,103,41
-Alfa Romeo,156,850,117900,2002,bencinski motor,ročni menjalnik,1598,120,88,42
-Mercedes-Benz,C-Razred,18990,175000,2016,diesel motor,avtomatski menjalnik,2143,170,125,43
-BMW,serija 5:,5000,502000,2003,diesel motor,avtomatski menjalnik,2993,218,160,44
-Renault,Megane,850,20200,2003,diesel motor,ročni menjalnik,1900,120,88,45
-Opel,Corsa,1200,217000,2004,diesel motor,ročni menjalnik,,69,51,46
-Volkswagen,Polo,1500,225000,2004,diesel motor,ročni menjalnik,,75,55,47
-Škoda,Fabia,333,165000,2001,bencinski motor,ročni menjalnik,1397,68,50,48
-BMW,serija 5:,2800,340000,2005,diesel motor,avtomatski menjalnik,3000,218,160,49
-Audi,A6,6590,294800,2008,diesel motor,ročni menjalnik,1968,140,103,50
-Volkswagen,Golf,500,230000,2001,bencinski motor,ročni menjalnik,,102,75,51
-Renault,Megane,330,182600,2002,bencinski motor,ročni menjalnik,1598,107,79,52
-Peugeot,407,1400,300000,2008,bencinski motor,ročni menjalnik,1997,140,103,53
-Chevrolet,Aveo,2250,85760,2010,bencinski motor,ročni menjalnik,1206,84,62,54
-Audi,A4,9900,274026,2008,diesel motor,ročni menjalnik,1968,143,105,55
-Audi,A4,370,325426,1996,bencinski motor,ročni menjalnik,1781,125,92,56
-Jaguar,XJ,18990,250000,2010,diesel motor,avtomatski menjalnik,2993,275,202,57
-Volkswagen,Passat,14990,239817,2017,diesel motor,avtomatski menjalnik,1598,120,88,58
-Audi,A4,9950,259000,2013,diesel motor,ročni menjalnik,1968,120,88,59
-BMW,serija 3:,5300,250405,2008,diesel motor,ročni menjalnik,1995,177,130,60
-Audi,A4,10800,163800,2011,diesel motor,avtomatski menjalnik,2967,239,176,61
-Audi,A6,3150,350000,2005,diesel motor,avtomatski menjalnik,2967,224,165,62
-BMW,serija 5:,3800,388000,2003,diesel motor,ročni menjalnik,2993,218,160,63
-Seat,Cordoba,450,263000,1995,diesel motor,ročni menjalnik,1896,75,55,64
-Audi,A4,14490,141800,2014,diesel motor,ročni menjalnik,1968,120,88,65
-Opel,Vectra,1390,350000,2004,diesel motor,ročni menjalnik,1896,101,74,66
-Audi,A6,14490,269910,2012,diesel motor,avtomatski menjalnik,1968,177,130,67
-Volkswagen,Passat,15680,128139,2017,diesel motor,ročni menjalnik,1968,150,110,68
-Volkswagen,Arteon,35950,57000,2018,bencinski motor,avtomatski menjalnik,1984,280,206,69
-Honda,Accord,1900,410000,2005,diesel motor,ročni menjalnik,2204,140,103,70
-Mercedes-Benz,C-Razred,5200,195000,2005,diesel motor,ročni menjalnik,2148,122,90,71
-Audi,S5,49000,48000,2017,bencinski motor,avtomatski menjalnik,,354,260,72
-BMW,serija 5:,8990,374964,2011,diesel motor,ročni menjalnik,1995,184,135,73
-BMW,serija 5:,15400,299143,2010,diesel motor,avtomatski menjalnik,1995,184,135,74
-Seat,Toledo,6450,239000,2014,diesel motor,ročni menjalnik,1598,105,77,75
-BMW,serija 5:,39990,111460,2017,diesel motor,avtomatski menjalnik,2993,265,195,76
-Audi,A6,10490,199488,2010,diesel motor,ročni menjalnik,1968,170,125,77
-Volkswagen,Polo,360,206000,2001,bencinski motor,ročni menjalnik,,50,37,78
-Audi,A4,940,270000,2001,bencinski motor,ročni menjalnik,1595,102,75,79
-Hyundai,Elantra,250,169000,2003,bencinski motor,ročni menjalnik,1599,107,79,80
-Audi,A6,6490,322477,2007,diesel motor,ročni menjalnik,2698,179,132,81
-BMW,serija 5:,15990,330447,2011,diesel motor,avtomatski menjalnik,2993,245,180,82
-BMW,serija 3:,13990,196524,2015,diesel motor,polavtomatski menjalnik,1995,143,105,83
-Audi,A4,4990,189100,2006,bencinski motor,ročni menjalnik,1595,102,75,84
-Volkswagen,Arteon,31900,47000,2018,diesel motor,avtomatski menjalnik,1968,239,176,85
-Mercedes-Benz,A-Razred,37452,9,2019,diesel motor,avtomatski menjalnik,1461,116,85,86
-Mercedes-Benz,E-Razred,15990,259885,2013,diesel motor,avtomatski menjalnik,2143,136,100,87
-BMW,serija 3:,21990,245102,2012,diesel motor,ročni menjalnik,1995,143,105,88
-Mercedes-Benz,C-Razred,41357,24,2019,diesel motor,avtomatski menjalnik,1950,194,143,89
-Volvo,S80,1000,224381,2000,LPG avtoplin,ročni menjalnik,2435,170,125,90
-Volvo,S80,5999,269855,2008,diesel motor,avtomatski menjalnik,2400,185,136,91
-Volkswagen,Passat,5990,247862,2008,diesel motor,ročni menjalnik,1968,140,103,92
-Mercedes-Benz,C-Razred,41057,25,2019,diesel motor,avtomatski menjalnik,1950,194,143,93
-Nissan,Primera,450,311000,1998,bencinski motor,ročni menjalnik,1998,150,110,94
-BMW,serija 7:,6000,331125,2007,diesel motor,avtomatski menjalnik,2993,231,170,95
-Hyundai,i40,8990,184569,2015,diesel motor,ročni menjalnik,1685,116,85,96
-Škoda,Octavia,1150,175610,2002,bencinski motor,ročni menjalnik,,116,85,97
-BMW,serija 5:,16790,283275,2010,diesel motor,avtomatski menjalnik,2993,245,180,98
-Škoda,Superb,15990,114686,2016,diesel motor,avtomatski menjalnik,1968,150,110,99
-Audi,A4,300,430,1997,bencinski motor,ročni menjalnik,1781,125,92,100
-Škoda,Superb,14500,161000,2015,diesel motor,ročni menjalnik,1968,150,110,101
-Audi,A4,10900,238000,2013,diesel motor,ročni menjalnik,1968,143,105,102
-Volkswagen,CC,12390,175470,2013,diesel motor,avtomatski menjalnik,1968,140,103,103
-Hyundai,Ioniq,31900,625,2020,elektro pogon,avtomatski menjalnik,,,100,104
-Audi,A6,3500,300000,2005,diesel motor,avtomatski menjalnik,2967,224,165,105
-Mercedes-Benz,C-Razred,9900,153000,2011,diesel motor,ročni menjalnik,2143,120,88,106
-Mazda,Mazda6,2590,88000,2003,bencinski motor,ročni menjalnik,1798,120,88,107
-BMW,serija 3:,1450,300000,2001,diesel motor,ročni menjalnik,1951,136,100,108
-Ford,Focus,17900,61810,2019,diesel motor,ročni menjalnik,1499,120,88,109
-BMW,serija 3:,7000,192874,2010,diesel motor,ročni menjalnik,1995,177,130,110
-BMW,serija 5:,14990,299420,2012,diesel motor,ročni menjalnik,1995,184,135,111
-Mazda,Mazda6,2000,220000,2006,bencinski motor,ročni menjalnik,2261,260,191,112
-Audi,A3,14980,168900,2017,diesel motor,avtomatski menjalnik,1598,110,81,113
-Audi,A3,3500,215000,2005,diesel motor,ročni menjalnik,19,105,77,114
-Lexus,GS,6000,500000,2006,hibridni pogon,avtomatski menjalnik,3456,296,218,115
-Mazda,Mazda3,1150,205358,2004,bencinski motor,ročni menjalnik,1349,84,62,116
-Volkswagen,Vento,150,300000,1995,bencinski motor,ročni menjalnik,1781,90,66,117
-BMW,serija 3:,4900,296000,2005,bencinski motor,ročni menjalnik,2996,258,190,118
-Audi,A6,1850,148000,1998,diesel motor,ročni menjalnik,1896,110,81,119
-Mercedes-Benz,E-Razred,7100,310000,2007,diesel motor,avtomatski menjalnik,2148,170,125,120
-Seat,Cordoba,650,176400,1997,bencinski motor,ročni menjalnik,1390,60,44,121
-Volvo,S60,8000,333000,2011,diesel motor,avtomatski menjalnik,1984,163,120,122
-Audi,A3,17980,118334,2017,diesel motor,avtomatski menjalnik,1968,150,110,123
-BMW,serija 3:,5700,201000,2005,bencinski motor,ročni menjalnik,2497,218,160,124
-BMW,serija 5:,2890,247000,2004,diesel motor,ročni menjalnik,1896,101,74,125
-Daewoo,Lanos,400,156500,1998,bencinski motor,ročni menjalnik,1498,86,63,126
-Audi,A4,9900,318948,2008,diesel motor,ročni menjalnik,1968,143,105,127
-Mercedes-Benz,E-Razred,1300,257200,2002,diesel motor,ročni menjalnik,2685,177,130,128
-Mercedes-Benz,S-Razred,4700,300000,2004,bencinski motor,avtomatski menjalnik,4966,306,225,129
-Mercedes-Benz,C-Razred,16890,173205,2014,diesel motor,avtomatski menjalnik,2143,170,125,130
-BMW,serija 3:,6500,238000,2010,diesel motor,ročni menjalnik,1995,116,85,131
-Mercedes-Benz,E-Razred,31999,173658,2016,diesel motor,avtomatski menjalnik,1950,194,143,132
-Audi,A4,9950,152000,2011,diesel motor,ročni menjalnik,1968,120,88,133
-Volkswagen,Bora,1390,223213,2002,diesel motor,ročni menjalnik,1896,90,66,134
-BMW,serija 3:,9500,120000,2011,diesel motor,ročni menjalnik,1995,184,135,135
-Volkswagen,Bora,1290,223000,2002,diesel motor,ročni menjalnik,1896,90,66,136
-BMW,serija 3:,6450,289000,2010,diesel motor,ročni menjalnik,1995,184,135,137
-Renault,Talisman,5950,138000,2011,bencinski motor,ročni menjalnik,1796,140,103,138
-BMW,serija 3:,2390,308350,2003,bencinski motor,ročni menjalnik,1995,143,105,139
-Volkswagen,Hroč,6200,56000,1973,bencinski motor,ročni menjalnik,,46,34,140
-Audi,80,570,280000,1998,diesel motor,ročni menjalnik,1896,75,55,141
-Volkswagen,Passat,5450,277000,2010,diesel motor,ročni menjalnik,1968,140,103,142
-Peugeot,508,8990,136951,2014,diesel motor,ročni menjalnik,1560,114,84,143
-BMW,serija 3:,16900,132000,2015,diesel motor,avtomatski menjalnik,2000,184,135,144
-Volkswagen,Passat,11850,248000,2014,diesel motor,ročni menjalnik,1968,177,130,145
-Volkswagen,Passat,14650,147000,2017,diesel motor,ročni menjalnik,1968,150,110,146
-Seat,Toledo,3000,307000,2004,diesel motor,ročni menjalnik,2148,150,110,147
-Kia,Optima,8900,180000,2012,diesel motor,ročni menjalnik,1685,136,100,148
-Audi,A4,2850,301456,2004,diesel motor,ročni menjalnik,2496,163,120,149
-Audi,A4,2100,270000,2002,bencinski motor,ročni menjalnik,1781,150,110,150
-BMW,serija 5:,19450,209000,2014,diesel motor,avtomatski menjalnik,1995,218,160,151
-Volkswagen,Passat,16980,116908,2016,diesel motor,ročni menjalnik,1968,150,110,152
-Audi,A6,15600,219000,2012,diesel motor,avtomatski menjalnik,2967,245,180,153
-BMW,serija 7:,33321,146000,2013,diesel motor,avtomatski menjalnik,2993,381,280,154
-Mazda,Mazda6,4590,217000,2008,diesel motor,ročni menjalnik,1998,140,103,155
-Audi,A6,4150,285000,2005,diesel motor,avtomatski menjalnik,2967,224,165,156
-Ford,Mondeo,650,320000,2005,diesel motor,ročni menjalnik,1998,116,85,157
-Volkswagen,Passat,28990,24900,2019,diesel motor,avtomatski menjalnik,1968,150,110,158
-Mercedes-Benz,E-Razred,29500,115000,2016,diesel motor,avtomatski menjalnik,1950,194,143,159
-Chevrolet,Cruze,3490,256000,2009,diesel motor,ročni menjalnik,1991,125,92,160
-BMW,serija 5:,1400,285000,1999,bencinski motor,ročni menjalnik,2494,170,125,161
-BMW,serija 3:,11990,144000,2012,diesel motor,ročni menjalnik,1995,116,85,162
-Saab,9-5,5700,300000,2004,diesel motor,ročni menjalnik,1995,143,105,163
-Mercedes-Benz,E-Razred,12500,165000,2011,diesel motor,avtomatski menjalnik,2143,204,150,164
-BMW,serija 3:,5300,450000,2008,diesel motor,avtomatski menjalnik,2993,245,180,165
-Volkswagen,Passat,1890,308000,2001,diesel motor,ročni menjalnik,1896,131,96,166
-BMW,serija 5:,13990,199000,2013,diesel motor,avtomatski menjalnik,1995,184,135,167
-Volkswagen,Polo,550,125000,1997,bencinski motor,ročni menjalnik,1595,75,55,168
-Citroen,C-Elysee,4600,140000,2014,diesel motor,ročni menjalnik,1560,92,68,169
-BMW,serija 3:,2000,225000,2006,bencinski motor,ročni menjalnik,2497,218,160,170
-Ford,Escort,800,53754,1993,bencinski motor,ročni menjalnik,1392,71,52,171
-Audi,A6,13850,268000,2013,diesel motor,avtomatski menjalnik,2967,204,150,172
-Mercedes-Benz,E-Razred,2300,242000,1991,bencinski motor,ročni menjalnik,1997,122,90,173
-Audi,A6,14000,240000,2014,diesel motor,ročni menjalnik,1968,190,140,174
-BMW,serija 3:,3990,330000,2005,diesel motor,avtomatski menjalnik,1995,163,120,175
-Audi,A4,1200,347000,1999,diesel motor,ročni menjalnik,1896,110,81,176
-Audi,A4,8950,226000,2011,diesel motor,ročni menjalnik,1968,143,105,177
-BMW,serija 3:,26900,90000,2017,diesel motor,avtomatski menjalnik,2993,258,190,178
-BMW,serija 3:,15650,189000,2008,diesel motor,ročni menjalnik,1968,150,110,179
-BMW,serija 3:,4100,299001,2005,diesel motor,avtomatski menjalnik,1995,163,120,180
-Ford,Mondeo,12800,112000,2016,diesel motor,ročni menjalnik,1499,120,88,181
-Mercedes-Benz,E-Razred,8750,187000,2008,bencinski motor,avtomatski menjalnik,2496,204,150,182
-Opel,Astra,8750,165282,2017,bencinski motor,ročni menjalnik,1362,140,103,183
-Mercedes-Benz,E-Razred,8990,386614,2012,diesel motor,avtomatski menjalnik,2143,170,125,184
-BMW,serija 5:,14850,264000,2013,diesel motor,avtomatski menjalnik,1995,184,135,185
-Audi,A6,4500,348000,2005,diesel motor,avtomatski menjalnik,2967,224,165,186
-Volkswagen,Passat,990,380000,2000,diesel motor,ročni menjalnik,1896,90,66,187
-Kia,Optima,9290,135450,2013,diesel motor,ročni menjalnik,1685,136,100,188
-Volkswagen,Passat,3850,388000,2007,diesel motor,ročni menjalnik,1968,140,103,189
-Seat,Cordoba,600,163115,2003,bencinski motor,ročni menjalnik,,60,44,190
-Chevrolet,Cruze,3990,171852,2012,bencinski motor,ročni menjalnik,1598,124,91,191
-Mercedes-Benz,C-Razred,6990,100000,2000,bencinski motor,avtomatski menjalnik,1998,163,120,192
-Honda,Accord,3200,208188,2004,diesel motor,ročni menjalnik,2204,140,103,193
-Renault,Laguna,1150,260000,2006,bencinski motor,ročni menjalnik,,111,82,194
-Audi,A6,790,350000,1995,diesel motor,ročni menjalnik,1896,90,66,195
-Opel,Astra,2500,237000,2008,bencinski motor,ročni menjalnik,1598,116,85,196
-Audi,A4,4650,259000,2004,diesel motor,ročni menjalnik,1896,101,74,197
-Mercedes-Benz,E-Razred,15990,173000,2013,diesel motor,avtomatski menjalnik,2143,170,125,198
-Cadillac,CTS,5990,53000,2005,bencinski motor,avtomatski menjalnik,3175,218,160,199
-Audi,A4,16290,119102,2016,diesel motor,ročni menjalnik,1968,150,110,200
-Audi,A4,29990,81000,2016,diesel motor,avtomatski menjalnik,1968,150,110,201
-BMW,serija 3:,900,240000,1993,bencinski motor,ročni menjalnik,1596,102,75,202
-Mercedes-Benz,E-Razred,35990,110712,2018,diesel motor,avtomatski menjalnik,1950,194,143,203
-Volkswagen,Passat,14390,163560,2017,diesel motor,ročni menjalnik,1968,150,110,204
-Mercedes-Benz,C-Razred,38999,85000,2018,bencinski motor,avtomatski menjalnik,2996,333,245,205
-BMW,serija 5:,3999,290000,2004,diesel motor,avtomatski menjalnik,2993,218,160,206
-Renault,Megane,1490,190000,2007,bencinski motor,ročni menjalnik,1390,98,72,207
-Audi,A6,21477,186500,2015,diesel motor,avtomatski menjalnik,1968,190,140,208
-Volvo,S80,6650,256000,2006,diesel motor,avtomatski menjalnik,2400,185,136,209
-Audi,A6,15950,264000,2012,diesel motor,avtomatski menjalnik,2967,204,150,210
-Volkswagen,Passat,5990,291200,2008,diesel motor,ročni menjalnik,1896,105,77,211
-Chrysler,Sebring,2790,250000,2010,bencinski motor,avtomatski menjalnik,2360,170,125,212
-Renault,Laguna,5990,225000,1997,diesel motor,ročni menjalnik,2231,177,130,213
-Peugeot,301,4490,99000,2013,bencinski motor,ročni menjalnik,1587,116,85,214
-Mazda,Mazda6,1500,179000,2009,diesel motor,ročni menjalnik,,121,89,215
-Jaguar,X-Type,3500,188000,2003,bencinski motor,avtomatski menjalnik,2495,196,144,216
-Audi,A6,14800,270000,2012,diesel motor,avtomatski menjalnik,2967,245,180,217
-BMW,serija 5:,35280,53520,2017,diesel motor,avtomatski menjalnik,1995,190,140,218
-Mercedes-Benz,E-Razred,4190,403000,2005,diesel motor,avtomatski menjalnik,3222,177,130,219
-Audi,A6,5750,262325,2005,diesel motor,ročni menjalnik,1968,140,103,220
-BMW,serija 3:,10999,191000,2012,diesel motor,ročni menjalnik,1995,116,85,221
-Honda,Accord,500,247000,2002,bencinski motor,ročni menjalnik,1590,116,85,222
-Peugeot,307,1200,165588,2002,bencinski motor,ročni menjalnik,,109,80,223
-Renault,Thalia,650,223000,2003,diesel motor,ročni menjalnik,1461,65,48,224
-Opel,Corsa,4550,416458,2001,diesel motor,ročni menjalnik,1995,143,105,225
-Kia,Cerato,850,196000,2006,diesel motor,ročni menjalnik,1493,102,75,226
-Mercedes-Benz,E-Razred,7590,323421,2008,diesel motor,avtomatski menjalnik,2987,224,165,227
-Audi,A4,1190,203400,2000,diesel motor,ročni menjalnik,1896,110,81,228
-Volkswagen,Passat,3000,252929,2005,diesel motor,ročni menjalnik,1968,136,100,229
-Volvo,S80,13650,169000,2000,diesel motor,avtomatski menjalnik,1995,218,160,230
-BMW,serija 3:,4500,267000,2008,diesel motor,ročni menjalnik,1995,143,105,231
-Mercedes-Benz,E-Razred,4350,309000,2005,diesel motor,avtomatski menjalnik,3222,204,150,232
-Opel,Insignia,8950,179000,2015,diesel motor,ročni menjalnik,1956,131,96,233
-Hyundai,Accent,650,135000,2001,bencinski motor,ročni menjalnik,1495,90,66,234
-Nissan,-,24990,42000,2017,diesel motor,avtomatski menjalnik,2143,170,125,235
-BMW,serija 3:,29980,151305,2017,hibridni pogon,avtomatski menjalnik,1998,184,135,236
-Volkswagen,Hroč,6500,46000,1975,bencinski motor,ročni menjalnik,1300,44,32,237
-Audi,A6,44999,14650,2019,bencinski motor,avtomatski menjalnik,1984,245,180,238
-BMW,serija 3:,4790,278000,2007,diesel motor,ročni menjalnik,1995,122,90,239
-Chrysler,300,5590,275000,2006,diesel motor,avtomatski menjalnik,2987,218,160,240
-Audi,A3,15850,122000,2014,diesel motor,ročni menjalnik,1968,150,110,241
-BMW,serija 5:,4000,329000,2006,diesel motor,ročni menjalnik,2497,177,130,242
-Audi,A4,380,233000,1995,bencinski motor,ročni menjalnik,1781,125,92,243
-Chevrolet,Lacetti,1299,165000,2009,diesel motor,ročni menjalnik,1991,121,89,244
-BMW,serija 5:,33900,72900,2017,diesel motor,avtomatski menjalnik,1995,190,140,245
-Volkswagen,Passat,20000,124700,2017,diesel motor,avtomatski menjalnik,1968,190,140,246
-Volkswagen,Passat,9650,249000,2012,diesel motor,ročni menjalnik,1968,140,103,247
-Mercedes-Benz,E-Razred,5000,336205,2005,diesel motor,avtomatski menjalnik,2987,224,165,248
-Mercedes-Benz,C-Razred,28900,9480,2019,diesel motor,avtomatski menjalnik,1597,122,90,249
-BMW,serija 5:,11600,229000,2011,diesel motor,ročni menjalnik,1995,184,135,250
-Renault,Fluence,3499,272000,2010,diesel motor,ročni menjalnik,1461,110,81,251
-Volkswagen,Arteon,30699,28854,2019,diesel motor,ročni menjalnik,1968,150,110,252
-Volkswagen,Passat,3399,391000,2008,diesel motor,ročni menjalnik,1896,105,77,253
-Audi,A6,37500,17000,2019,diesel motor,avtomatski menjalnik,1968,204,150,254
-Audi,A8,13490,205407,2008,diesel motor,avtomatski menjalnik,2967,232,171,255
-Volkswagen,Passat,13500,198000,2016,diesel motor,ročni menjalnik,1968,150,110,256
-Mercedes-Benz,E-Razred,26950,169000,2016,diesel motor,avtomatski menjalnik,1950,194,143,257
-Lexus,IS,16990,135758,2013,hibridni pogon,avtomatski menjalnik,2494,223,164,258
-Volkswagen,Passat,1400,311678,2001,diesel motor,ročni menjalnik,1896,131,96,259
-Mercedes-Benz,E-Razred,9000,260000,2010,diesel motor,ročni menjalnik,2143,204,150,260
-Volvo,S90,30600,30000,2018,bencinski motor,avtomatski menjalnik,1969,250,184,261
-BMW,serija 7:,86990,35000,2019,diesel motor,avtomatski menjalnik,2993,265,195,262
-BMW,serija 3:,10000,190000,2013,diesel motor,ročni menjalnik,1995,163,120,263
-Volkswagen,Jetta,3400,290000,2006,bencinski motor,ročni menjalnik,1595,102,75,264
-Opel,Vectra,1480,207785,2002,bencinski motor,ročni menjalnik,1796,125,92,265
-Peugeot,301,4490,121000,2013,bencinski motor,ročni menjalnik,1587,116,85,266
-Ford,Scorpio,12900,144890,1995,diesel motor,ročni menjalnik,1598,110,81,267
-Opel,Ascona,700,92000,1976,bencinski motor,ročni menjalnik,,90,66,268
-Mercedes-Benz,C-Razred,500,264000,1995,bencinski motor,ročni menjalnik,1799,122,90,269
-Volvo,S60,3200,307000,2005,diesel motor,ročni menjalnik,2401,163,120,270
-BMW,serija 3:,7940,107000,2010,diesel motor,avtomatski menjalnik,1995,143,105,271
-Mercedes-Benz,E-Razred,47500,18769,2019,diesel motor,avtomatski menjalnik,1950,194,143,272
-BMW,serija 7:,78400,27980,2019,diesel motor,avtomatski menjalnik,2993,265,195,273
-Opel,Insignia,11999,119100,2016,diesel motor,avtomatski menjalnik,1956,170,125,274
-Renault,Megane,450,162000,1999,bencinski motor,ročni menjalnik,1598,107,79,275
-Renault,Megane,1000,132000,2005,bencinski motor,ročni menjalnik,1598,113,83,276
-BMW,serija 5:,14000,266000,2011,diesel motor,avtomatski menjalnik,1995,184,135,277
-Peugeot,607,2600,252000,2006,diesel motor,ročni menjalnik,2179,170,125,278
-BMW,serija 3:,2600,271000,2000,bencinski motor,ročni menjalnik,1991,150,110,279
-Alfa Romeo,159,2790,165000,2006,diesel motor,ročni menjalnik,1910,150,110,280
-Audi,A8,78400,24700,2019,diesel motor,avtomatski menjalnik,2967,286,210,281
-Mercedes-Benz,E-Razred,9990,219765,2013,diesel motor,avtomatski menjalnik,2143,136,100,282
-Alfa Romeo,166,1250,145000,2006,diesel motor,ročni menjalnik,2387,175,129,283
-Peugeot,405,200,200000,1991,bencinski motor,ročni menjalnik,1360,75,55,284
-Škoda,Superb,7990,176000,2009,bencinski motor,avtomatski menjalnik,3580,260,191,285
-Audi,A8,31788,130500,2015,diesel motor,avtomatski menjalnik,2967,258,190,286
-Honda,Accord,9990,135000,2010,diesel motor,avtomatski menjalnik,2199,150,110,287
-BMW,serija 7:,50000,139000,2017,diesel motor,avtomatski menjalnik,2993,320,235,288
-BMW,serija 5:,13950,195000,2014,diesel motor,avtomatski menjalnik,1995,184,135,289
-Seat,Cordoba,600,20000,2001,bencinski motor,ročni menjalnik,1595,101,74,290
-BMW,serija 5:,9500,280000,2011,diesel motor,avtomatski menjalnik,2993,245,180,291
-Audi,A4,3900,249000,2006,diesel motor,ročni menjalnik,1896,116,85,292
-Mercedes-Benz,C-Razred,18999,90911,2014,diesel motor,avtomatski menjalnik,2143,170,125,293
-Chevrolet,Cruze,5890,44779,2009,bencinski motor,ročni menjalnik,1598,113,83,294
-BMW,serija 3:,2750,257568,2003,bencinski motor,ročni menjalnik,1796,116,85,295
-BMW,serija 5:,13750,223000,2012,diesel motor,avtomatski menjalnik,1995,184,135,296
-Škoda,Superb,19320,160007,2017,diesel motor,avtomatski menjalnik,1968,150,110,297
-BMW,serija 3:,2200,241000,2005,bencinski motor,ročni menjalnik,1796,116,85,298
-Smart,-,1800,115000,2004,bencinski motor,ročni menjalnik,7499,61,45,299
-Citroen,C-Elysee,6200,80561,2016,bencinski motor,ročni menjalnik,1587,116,85,300
-BMW,serija 3:,14300,167349,2013,diesel motor,ročni menjalnik,1995,116,85,301
-Volkswagen,Polo,2300,150000,2005,bencinski motor,ročni menjalnik,,61,45,302
-Audi,A4,12500,65333,2003,bencinski motor,avtomatski menjalnik,1598,170,125,303
-BMW,serija 5:,13990,171011,2012,diesel motor,avtomatski menjalnik,1995,184,135,304
-BMW,serija 5:,29900,37800,2017,diesel motor,ročni menjalnik,1995,190,140,305
-Audi,A4,4950,232048,2005,diesel motor,ročni menjalnik,1968,140,103,306
-Audi,A4,1490,172185,1996,bencinski motor,ročni menjalnik,1781,125,92,307
-Alfa Romeo,159,3950,203804,2006,diesel motor,ročni menjalnik,1910,150,110,308
-Audi,A4,10450,226000,2011,diesel motor,ročni menjalnik,1968,170,125,309
-BMW,serija 3:,4800,320000,2007,diesel motor,ročni menjalnik,1995,163,120,310
-Lexus,IS,6400,234000,2008,diesel motor,ročni menjalnik,,177,130,311
-Mercedes-Benz,E-Razred,3300,371000,2005,diesel motor,avtomatski menjalnik,2148,122,90,312
-BMW,serija 3:,770,285000,1999,bencinski motor,ročni menjalnik,1895,118,87,313
-Renault,Thalia,400,173000,2002,bencinski motor,ročni menjalnik,1390,98,72,314
-Renault,Thalia,1020,90000,2003,diesel motor,ročni menjalnik,1461,65,48,315
-BMW,serija 5:,6350,240000,2008,bencinski motor,avtomatski menjalnik,2497,190,140,316
-Ford,Mondeo,20500,25000,2019,hibridni pogon,avtomatski menjalnik,1999,188,138,317
-Mercedes-Benz,C-Razred,6300,280000,2007,diesel motor,ročni menjalnik,2148,170,125,318
-BMW,serija 7:,12490,377000,2009,diesel motor,avtomatski menjalnik,2993,245,180,319
-Honda,Civic,4000,202000,1999,bencinski motor,ročni menjalnik,1595,160,118,320
-Volkswagen,Passat,15200,74000,2015,diesel motor,ročni menjalnik,1968,150,110,321
-Audi,A4,8500,226000,2009,diesel motor,ročni menjalnik,1968,143,105,322
-Volkswagen,Passat,12500,187000,2013,diesel motor,ročni menjalnik,196,140,103,323
-Mercedes-Benz,C-Razred,2650,355000,2005,diesel motor,ročni menjalnik,2148,122,90,324
-Renault,Talisman,14750,148000,2016,diesel motor,avtomatski menjalnik,1598,160,118,325
-Alfa Romeo,159,2999,248254,2008,diesel motor,ročni menjalnik,1910,120,88,326
-Volkswagen,Polo,150,153421,1995,bencinski motor,ročni menjalnik,1391,60,44,327
-Volkswagen,Hroč,1190,12000,1976,bencinski motor,ročni menjalnik,,34,25,328
-Mercedes-Benz,S-Razred,76950,99000,2018,diesel motor,avtomatski menjalnik,2925,340,250,329
-Volvo,460,650,250000,1996,bencinski motor,ročni menjalnik,,190,140,330
-BMW,serija 5:,12490,181000,2010,bencinski motor,avtomatski menjalnik,2996,204,150,331
-Mercedes-Benz,E-Razred,24999,74500,2016,diesel motor,avtomatski menjalnik,1950,194,143,332
-BMW,serija 3:,1000,270000,2001,bencinski motor,ročni menjalnik,1895,105,77,333
-Volkswagen,Passat,8500,240000,2008,diesel motor,avtomatski menjalnik,1968,140,103,334
-Saab,9-3,8990,200383,2008,bencinski motor,avtomatski menjalnik,2792,280,206,335
-Ford,Mondeo,4850,254761,2008,diesel motor,ročni menjalnik,1753,125,92,336
-Jaguar,XE,19850,106000,2016,diesel motor,avtomatski menjalnik,1999,179,132,337
-Alfa Romeo,159,2000,230000,2006,diesel motor,ročni menjalnik,1910,116,85,338
-Seat,Cordoba,390,262352,2000,bencinski motor,ročni menjalnik,1391,60,44,339
-Volkswagen,Passat,2200,371000,2002,diesel motor,ročni menjalnik,1896,131,96,340
-BMW,serija 3:,5590,189000,2005,bencinski motor,avtomatski menjalnik,2497,218,160,341
-Audi,A6,4850,227000,2006,bencinski motor,ročni menjalnik,2393,177,130,342
-Volvo,S80,4950,440073,2006,diesel motor,avtomatski menjalnik,2400,185,136,343
-Honda,Accord,1500,299000,2005,diesel motor,ročni menjalnik,2204,140,103,344
-Audi,A3,900,237000,2002,bencinski motor,ročni menjalnik,,101,74,345
-Zastava,750,2500,69000,1979,bencinski motor,ročni menjalnik,767,30,22,346
-Opel,Astra,1700,248500,2005,diesel motor,ročni menjalnik,1686,101,74,347
-Audi,A6,20900,155000,2016,diesel motor,avtomatski menjalnik,1968,190,140,348
-Volkswagen,Passat,8200,178000,2013,diesel motor,ročni menjalnik,1598,105,77,349
-Audi,A6,5890,329000,2006,diesel motor,avtomatski menjalnik,2967,224,165,350
-Mercedes-Benz,C-Razred,10900,229000,2013,diesel motor,avtomatski menjalnik,2143,136,100,351
-Audi,A3,15650,149000,2016,diesel motor,ročni menjalnik,1968,150,110,352
-Audi,A4,14700,98500,2013,diesel motor,ročni menjalnik,1968,177,130,353
-Audi,A3,13699,195260,2014,diesel motor,ročni menjalnik,1968,150,110,354
-Volkswagen,Polo,650,240000,2005,bencinski motor,ročni menjalnik,,101,74,355
-Volkswagen,Phaeton,2700,300000,2005,diesel motor,avtomatski menjalnik,2967,224,165,356
-Volkswagen,Polo,990,126000,2000,bencinski motor,ročni menjalnik,1390,60,44,357
-Volkswagen,Jetta,7890,125800,2012,diesel motor,ročni menjalnik,1598,105,77,358
-BMW,serija 7:,15490,275225,2009,diesel motor,avtomatski menjalnik,2993,245,180,359
-Audi,A6,3700,285000,2004,diesel motor,avtomatski menjalnik,2967,224,165,360
-Volkswagen,Passat,14650,219000,2016,diesel motor,ročni menjalnik,1968,190,140,361
-Audi,A4,5370,262254,2007,diesel motor,ročni menjalnik,1968,140,103,362
-Mercedes-Benz,E-Razred,4999,320000,2004,diesel motor,ročni menjalnik,2148,122,90,363
-Audi,A4,4500,295000,2005,diesel motor,ročni menjalnik,1968,140,103,364
-Renault,Megane,2250,210000,2007,bencinski motor,ročni menjalnik,1598,111,82,365
-Citroen,Visa,1500,113000,1985,bencinski motor,ročni menjalnik,1124,49,36,366
-Citroen,C5,4590,299000,2008,diesel motor,avtomatski menjalnik,2720,204,150,367
-Peugeot,407,2500,309780,2005,diesel motor,ročni menjalnik,1997,136,100,368
-Audi,A6,4650,306000,2006,diesel motor,avtomatski menjalnik,2698,179,132,369
-Škoda,Superb,46990,99000,2019,diesel motor,avtomatski menjalnik,2993,265,195,370
-Renault,Fluence,4150,133665,2010,bencinski motor,ročni menjalnik,1598,110,81,371
-Renault,Megane,790,293000,2004,diesel motor,ročni menjalnik,1461,82,60,372
-Audi,A3,16590,148080,2016,diesel motor,ročni menjalnik,1968,150,110,373
-Peugeot,301,4850,134688,2013,bencinski motor,ročni menjalnik,1587,116,85,374
-Renault,Megane,180,170000,1997,bencinski motor,ročni menjalnik,1598,90,66,375
-Peugeot,307,1100,273000,2004,diesel motor,ročni menjalnik,,75,55,376
-Audi,A4,5750,215000,2007,diesel motor,ročni menjalnik,1896,116,85,377
-Renault,Thalia,700,141000,2005,bencinski motor,ročni menjalnik,1390,75,55,378
-Peugeot,301,4690,235000,2013,diesel motor,ročni menjalnik,1560,92,68,379
-Jaguar,X-Type,6290,122000,2009,diesel motor,ročni menjalnik,2198,145,107,380
-Volkswagen,Passat,3900,230000,2006,diesel motor,ročni menjalnik,1968,140,103,381
-Audi,A6,8900,219000,2008,diesel motor,avtomatski menjalnik,2967,232,171,382
-Ford,Mondeo,5000,223000,1997,diesel motor,ročni menjalnik,1598,105,77,383
-Opel,Corsa,1200,174000,2006,diesel motor,ročni menjalnik,1300,68,50,384
-Audi,A4,3999,245000,2006,bencinski motor,ročni menjalnik,1984,131,96,385
-Volkswagen,Passat,5500,250000,2007,diesel motor,avtomatski menjalnik,1968,170,125,386
-Volkswagen,Passat,300,180000,1993,bencinski motor,ročni menjalnik,1781,90,66,387
-BMW,serija 5:,35990,57000,2017,diesel motor,avtomatski menjalnik,1995,190,140,388
-BMW,serija 5:,62800,51000,2018,bencinski motor,avtomatski menjalnik,4395,462,340,389
-Renault,Clio,2950,122000,2007,bencinski motor,ročni menjalnik,1149,75,55,390
-Citroen,C5,8333,149000,2015,diesel motor,ročni menjalnik,1560,114,84,391
-BMW,serija 5:,6990,251400,2004,diesel motor,ročni menjalnik,2993,218,160,392
-Toyota,Corolla,11590,48161,2016,diesel motor,ročni menjalnik,1364,90,66,393
-Citroen,C5,10950,160000,2016,diesel motor,avtomatski menjalnik,1997,181,133,394
-BMW,serija 3:,5400,230000,2009,diesel motor,ročni menjalnik,1995,163,120,395
-Audi,A4,3999,284700,2007,diesel motor,ročni menjalnik,2967,232,171,396
-Mercedes-Benz,S-Razred,10000,265000,1992,bencinski motor,avtomatski menjalnik,,326,240,397
-Audi,A4,2550,320000,2003,diesel motor,ročni menjalnik,1896,131,96,398
-Opel,Vectra,1100,318500,2002,diesel motor,ročni menjalnik,1995,101,74,399
-Renault,Thalia,450,180000,2001,bencinski motor,ročni menjalnik,1390,75,55,400
-Opel,Insignia,6000,136000,2009,diesel motor,ročni menjalnik,1956,160,118,401
-BMW,serija 3:,699,328000,2000,bencinski motor,ročni menjalnik,1895,118,87,402
-Audi,A6,1200,270000,2000,diesel motor,ročni menjalnik,2496,150,110,403
-BMW,serija 5:,29950,142818,2017,diesel motor,avtomatski menjalnik,1995,190,140,404
-Mercedes-Benz,190,990,300000,1992,bencinski motor,ročni menjalnik,1797,109,80,405
-Mercedes-Benz,S-Razred,2200,380000,1993,diesel motor,ročni menjalnik,2996,179,132,406
-BMW,serija 5:,2500,310000,1998,bencinski motor,avtomatski menjalnik,2793,193,142,407
-Mercedes-Benz,E-Razred,970,513000,2002,diesel motor,ročni menjalnik,2148,150,110,408
-Volkswagen,Golf,2950,166000,2003,bencinski motor,ročni menjalnik,,95,70,409
-Mercedes-Benz,S-Razred,10750,299000,2007,diesel motor,ročni menjalnik,1995,184,135,410
-Opel,Corsa,1200,206000,2005,diesel motor,ročni menjalnik,1686,101,74,411
-Volkswagen,Golf,17000,214000,2014,diesel motor,ročni menjalnik,1998,184,135,412
-BMW,serija 3:,6400,215000,2011,diesel motor,ročni menjalnik,1995,116,85,413
-Ford,Focus,2590,159400,2006,bencinski motor,ročni menjalnik,1596,101,74,414
-BMW,serija 5:,15500,217000,2014,diesel motor,avtomatski menjalnik,1995,184,135,415
-Volkswagen,Arteon,34000,53000,2019,diesel motor,avtomatski menjalnik,1968,190,140,416
-Volvo,S60,5600,255000,2002,diesel motor,avtomatski menjalnik,2987,190,140,417
-Mercedes-Benz,E-Razred,3300,475500,1990,diesel motor,ročni menjalnik,,90,66,418
-BMW,serija 5:,4350,417000,2004,diesel motor,avtomatski menjalnik,2993,218,160,419
-BMW,serija 7:,51800,66800,2017,diesel motor,avtomatski menjalnik,2993,265,195,420
-Opel,Insignia,3900,345000,2010,diesel motor,ročni menjalnik,1956,160,118,421
-BMW,serija 3:,12950,177000,2016,diesel motor,ročni menjalnik,1995,116,85,422
-BMW,serija 3:,1200,290000,2000,bencinski motor,ročni menjalnik,2171,170,125,423
-Citroen,C5,1400,335000,2004,diesel motor,ročni menjalnik,1997,136,100,424
-BMW,serija 5:,2999,359000,2002,diesel motor,ročni menjalnik,2926,193,142,425
-Citroen,C5,13500,335000,2004,diesel motor,ročni menjalnik,1997,136,100,426
-Mazda,Mazda6,690,249000,2005,diesel motor,ročni menjalnik,1998,121,89,427
-Audi,A4,2150,355000,2001,diesel motor,ročni menjalnik,1896,131,96,428
-Renault,Megane,500,301616,2003,diesel motor,ročni menjalnik,1461,86,63,429
-Audi,A6,20900,146000,2016,diesel motor,avtomatski menjalnik,1968,190,140,430
-Volkswagen,Passat,2890,250188,2004,diesel motor,ročni menjalnik,1896,131,96,431
-Jaguar,X-Type,750,284000,2004,diesel motor,ročni menjalnik,1998,131,96,432
-BMW,serija 3:,4950,278000,2006,diesel motor,avtomatski menjalnik,1995,163,120,433
-Peugeot,407,1590,247000,2007,diesel motor,ročni menjalnik,1560,109,80,434
-Audi,A6,14850,249000,2014,diesel motor,avtomatski menjalnik,1968,177,130,435
-Saab,9-3,900,289000,2003,diesel motor,ročni menjalnik,2171,125,92,436
-BMW,serija 3:,11890,218000,2012,diesel motor,avtomatski menjalnik,1995,116,85,437
-Volkswagen,Passat,3890,302400,2006,diesel motor,ročni menjalnik,1968,140,103,438
-BMW,serija 5:,12850,219000,2012,diesel motor,avtomatski menjalnik,1995,184,135,439
-Volkswagen,Passat,4100,314000,2007,diesel motor,ročni menjalnik,1968,140,103,440
-Mercedes-Benz,E-Razred,36650,135000,2016,diesel motor,avtomatski menjalnik,1950,194,143,441
-Mercedes-Benz,CLS-Razred,21499,268656,2013,diesel motor,avtomatski menjalnik,2143,204,150,442
-Suzuki,Baleno,2490,77000,1996,bencinski motor,ročni menjalnik,1590,99,73,443
-Jaguar,XF,2800,271000,2010,diesel motor,ročni menjalnik,1896,131,96,444
-Peugeot,306,250,133250,1994,bencinski motor,ročni menjalnik,1360,75,55,445
-Lada,1300,3333,64333,1991,bencinski motor,ročni menjalnik,1294,65,48,446
-Volkswagen,Jetta,2400,140000,1984,diesel motor,ročni menjalnik,1588,50,37,447
-Chrysler,Sebring,3150,268000,2010,bencinski motor,avtomatski menjalnik,2360,170,125,448
-Citroen,C5,7650,189711,2010,diesel motor,ročni menjalnik,1997,140,103,449
-Audi,A6,13950,189000,2012,diesel motor,ročni menjalnik,2967,204,150,450
-BMW,serija 3:,2190,277129,2002,bencinski motor,ročni menjalnik,1995,143,105,451
-Mercedes-Benz,CLS-Razred,18990,218000,2013,diesel motor,avtomatski menjalnik,2143,204,150,452
-BMW,serija 3:,7780,177000,2009,diesel motor,ročni menjalnik,1995,143,105,453
-Honda,Accord,3190,255600,2006,diesel motor,ročni menjalnik,2204,140,103,454
-Mercedes-Benz,E-Razred,5000,500000,1988,diesel motor,ročni menjalnik,3000,116,85,455
-Mercedes-Benz,C-Razred,22800,91460,2016,diesel motor,avtomatski menjalnik,2143,136,100,456
-Mercedes-Benz,C-Razred,24950,139307,2017,diesel motor,avtomatski menjalnik,2143,136,100,457
-BMW,serija 5:,2300,365000,2004,diesel motor,avtomatski menjalnik,2993,218,160,458
-Toyota,Avensis,3490,130000,2005,bencinski motor,ročni menjalnik,1794,129,95,459
-Nissan,Maxima,4000,132000,2001,bencinski motor,ročni menjalnik,1995,140,103,460
-Volkswagen,Passat,7850,159000,2012,bencinski motor,ročni menjalnik,1798,160,118,461
-Saab,9-3,350,269999,2001,bencinski motor,ročni menjalnik,1985,150,110,462
-Audi,A6,19800,229000,2016,diesel motor,avtomatski menjalnik,1968,190,140,463
-Fiat,Tipo,9480,164215,2016,diesel motor,ročni menjalnik,1598,120,88,464
-Renault,Talisman,35900,2000,2020,diesel motor,avtomatski menjalnik,1997,200,147,465
-Honda,Civic,350,256766,2000,bencinski motor,ročni menjalnik,1396,90,66,466
-Mercedes-Benz,C-Razred,20900,32281,2013,diesel motor,avtomatski menjalnik,1995,116,85,467
-Mercedes-Benz,S-Razred,4500,331885,2003,diesel motor,avtomatski menjalnik,3222,204,150,468
-Škoda,Superb,9888,157000,2012,diesel motor,ročni menjalnik,1968,170,125,469
-BMW,serija 5:,16990,123000,2012,diesel motor,avtomatski menjalnik,1995,218,160,470
-Honda,Accord,1700,272000,2004,diesel motor,ročni menjalnik,2204,140,103,471
-Volkswagen,Passat,14630,103055,2016,diesel motor,ročni menjalnik,1598,120,88,472
-Volvo,S90,26990,58000,2017,diesel motor,avtomatski menjalnik,1969,190,140,473
-Citroen,C5,4490,159063,2010,diesel motor,avtomatski menjalnik,1997,163,120,474
-Mercedes-Benz,E-Razred,10000,215000,2008,bencinski motor,avtomatski menjalnik,2496,204,150,475
-Audi,A6,1400,250000,2001,diesel motor,ročni menjalnik,1900,110,81,476
-Mercedes-Benz,S-Razred,4290,290000,2002,diesel motor,avtomatski menjalnik,3222,197,145,477
-BMW,M3 Competition,61000,76365,2016,bencinski motor,avtomatski menjalnik,2979,450,331,478
-Audi,A4,5900,140000,2005,bencinski motor,ročni menjalnik,1984,131,96,479
-Mercedes-Benz,C-Razred,10850,209000,2012,diesel motor,avtomatski menjalnik,2143,136,100,480
-BMW,serija 5:,4490,330000,2004,diesel motor,avtomatski menjalnik,2993,218,160,481
-Renault,Laguna,2500,219003,2004,diesel motor,ročni menjalnik,1896,105,77,482
-Volvo,S60,15500,73500,2015,diesel motor,ročni menjalnik,1969,150,110,483
-Opel,Insignia,24990,98325,2018,diesel motor,avtomatski menjalnik,1956,170,125,484
-Volkswagen,Passat,7950,167000,2012,diesel motor,ročni menjalnik,1598,105,77,485
-Mercedes-Benz,C-Razred,29990,133000,2017,diesel motor,avtomatski menjalnik,2143,170,125,486
-BMW,serija 3:,2100,320000,2004,diesel motor,ročni menjalnik,2993,204,150,487
-BMW,serija 3:,6000,245742,2010,diesel motor,ročni menjalnik,1995,143,105,488
-BMW,serija 5:,5999,336000,2004,diesel motor,ročni menjalnik,2497,175,129,489
-Audi,A6,15800,217450,2012,diesel motor,avtomatski menjalnik,2967,204,150,490
-BMW,serija 5:,16850,154000,2014,diesel motor,avtomatski menjalnik,1995,190,140,491
-Audi,A4,800,2803,1999,diesel motor,ročni menjalnik,1896,110,81,492
-Mercedes-Benz,C-Razred,1800,370000,2001,diesel motor,avtomatski menjalnik,1950,194,143,493
-BMW,serija 5:,74990,10000,2020,diesel motor,avtomatski menjalnik,2993,265,195,494
-BMW,serija 3:,23880,40000,2018,diesel motor,avtomatski menjalnik,1995,150,110,495
-Mercedes-Benz,CLS-Razred,19550,250000,2012,diesel motor,avtomatski menjalnik,2987,265,195,496
-Volkswagen,Passat,4300,298000,2008,diesel motor,ročni menjalnik,1896,105,77,497
-Audi,A6,4800,270000,2006,diesel motor,avtomatski menjalnik,2967,232,171,498
-BMW,serija 5:,10700,199500,2010,diesel motor,ročni menjalnik,1995,184,135,499
-Peugeot,407,2400,190000,2008,diesel motor,ročni menjalnik,1560,109,80,500
-Mercedes-Benz,C-Razred,20990,79000,2016,diesel motor,avtomatski menjalnik,2143,170,125,501
-BMW,serija 3:,700,328594,1999,diesel motor,ročni menjalnik,1951,136,100,502
-Nissan,Primera,540,270000,2001,bencinski motor,ročni menjalnik,1769,114,84,503
-Audi,A4,480,270000,2001,bencinski motor,ročni menjalnik,1595,102,75,504
-Mercedes-Benz,E-Razred,10400,238458,2013,diesel motor,ročni menjalnik,2143,170,125,505
-Audi,A6,46990,15000,2019,diesel motor,avtomatski menjalnik,1968,204,150,506
-Mercedes-Benz,S-Razred,4600,280000,2004,diesel motor,avtomatski menjalnik,3222,204,150,507
-Renault,Clio,800,304000,1999,diesel motor,ročni menjalnik,1896,110,81,508
-Peugeot,306,500,144000,1996,bencinski motor,ročni menjalnik,1360,75,55,509
-Audi,A4,1990,346713,2001,diesel motor,ročni menjalnik,1896,131,96,510
-Opel,Insignia,8750,141660,2014,diesel motor,ročni menjalnik,1956,140,103,511
-Volkswagen,Passat,8500,309000,2009,diesel motor,avtomatski menjalnik,1968,170,125,512
-Audi,A6,3250,315000,2005,diesel motor,avtomatski menjalnik,2967,224,165,513
-Mercedes-Benz,C-Razred,16500,124565,2011,diesel motor,ročni menjalnik,2143,170,125,514
-BMW,serija 3:,15450,180000,2017,diesel motor,ročni menjalnik,1995,150,110,515
-Ford,Fiesta,690,200000,2002,bencinski motor,ročni menjalnik,1388,80,59,516
-Alfa Romeo,156,690,260000,2004,diesel motor,ročni menjalnik,1910,140,103,517
-Volkswagen,Passat,1100,371000,2001,diesel motor,ročni menjalnik,1896,131,96,518
-BMW,serija 3:,5290,133600,2006,bencinski motor,ročni menjalnik,1995,129,95,519
-Volkswagen,Passat,9950,228000,2013,diesel motor,ročni menjalnik,1968,140,103,520
-Mercedes-Benz,E-Razred,8900,145800,2008,bencinski motor,avtomatski menjalnik,2496,204,150,521
-Mercedes-Benz,A-Razred,33400,281,2020,bencinski motor,avtomatski menjalnik,1991,190,140,522
-BMW,serija 5:,22000,112332,2014,diesel motor,avtomatski menjalnik,1995,184,135,523
-Honda,Civic,500,196000,1995,bencinski motor,ročni menjalnik,,90,66,524
-Peugeot,407,2400,180000,2004,diesel motor,ročni menjalnik,1997,136,100,525
-Volkswagen,Passat,16950,33000,2016,diesel motor,ročni menjalnik,1968,150,110,526
-Audi,A4,27780,68978,2018,diesel motor,avtomatski menjalnik,1968,190,140,527
-BMW,serija 3:,17470,123042,2016,diesel motor,ročni menjalnik,1995,163,120,528
-BMW,serija 5:,16950,212000,2016,diesel motor,avtomatski menjalnik,1995,190,140,529
-BMW,serija 3:,14655,133421,2014,diesel motor,avtomatski menjalnik,1995,116,85,530
-Audi,A6,2000,314000,2000,diesel motor,ročni menjalnik,1896,110,81,531
-Mercedes-Benz,E-Razred,35550,140639,2017,diesel motor,avtomatski menjalnik,1950,194,143,532
-BMW,serija 5:,4500,378000,2004,diesel motor,ročni menjalnik,2993,218,160,533
-Mercedes-Benz,E-Razred,26999,157854,2016,diesel motor,avtomatski menjalnik,1950,194,143,534
-Audi,A4,8490,203104,2010,diesel motor,ročni menjalnik,1968,143,105,535
-Audi,A4,5950,154320,2007,diesel motor,ročni menjalnik,1968,140,103,536
-BMW,serija 5:,5450,298000,2010,diesel motor,ročni menjalnik,1995,163,120,537
-Mercedes-Benz,E-Razred,7450,182000,2007,diesel motor,ročni menjalnik,2148,136,100,538
-BMW,serija 5:,30990,57000,2017,diesel motor,avtomatski menjalnik,1995,190,140,539
-Opel,Insignia,8850,189000,2015,diesel motor,ročni menjalnik,1956,140,103,540
-Opel,Astra,550,166000,2000,bencinski motor,ročni menjalnik,1389,90,66,541
-Audi,A4,12950,268000,2015,diesel motor,ročni menjalnik,1968,150,110,542
-Volkswagen,Passat,2999,313000,2004,diesel motor,ročni menjalnik,1896,131,96,543
-Mercedes-Benz,E-Razred,14950,289000,2015,diesel motor,avtomatski menjalnik,2143,170,125,544
-Mercedes-Benz,C-Razred,1250,287000,1998,bencinski motor,ročni menjalnik,1799,122,90,545
-BMW,serija 5:,34950,80000,2017,diesel motor,avtomatski menjalnik,1995,190,140,546
-Mercedes-Benz,E-Razred,40900,25000,2019,diesel motor,avtomatski menjalnik,1950,194,143,547
-Opel,Insignia,10999,138000,2015,diesel motor,ročni menjalnik,1956,140,103,548
-Audi,A4,750,201000,2000,bencinski motor,ročni menjalnik,1595,101,74,549
-Mercedes-Benz,C-Razred,1111,230899,2002,bencinski motor,ročni menjalnik,1796,143,105,550
-Audi,A4,1850,219000,2003,bencinski motor,avtomatski menjalnik,2976,220,162,551
-BMW,serija 5:,13200,183400,2010,diesel motor,avtomatski menjalnik,2993,245,180,552
-Ford,Mondeo,500,270000,2004,diesel motor,ročni menjalnik,1998,131,96,553
-Audi,A4,8600,229000,2011,diesel motor,ročni menjalnik,1968,120,88,554
-Audi,A4,3190,335600,2004,diesel motor,ročni menjalnik,1896,131,96,555
-Seat,Cordoba,500,220000,1997,diesel motor,ročni menjalnik,1896,64,47,556
-Audi,A4,1200,260000,1996,bencinski motor,ročni menjalnik,1781,150,110,557
-Honda,Accord,3100,280000,2007,diesel motor,ročni menjalnik,2204,140,103,558
-Volkswagen,Passat,3950,348000,2007,diesel motor,ročni menjalnik,1968,140,103,559
-BMW,serija 3:,1100,400000,2001,diesel motor,ročni menjalnik,1951,136,100,560
-BMW,serija 3:,2250,283000,2003,diesel motor,ročni menjalnik,1995,116,85,561
-Audi,A6,1111,213000,1995,bencinski motor,ročni menjalnik,2598,150,110,562
-Citroen,C-Elysee,4490,213000,2014,bencinski motor,ročni menjalnik,1587,116,85,563
-BMW,serija 5:,32000,146000,2017,diesel motor,avtomatski menjalnik,1995,190,140,564
-Renault,Megane,899,287000,2005,diesel motor,ročni menjalnik,1461,106,78,565
-Mercedes-Benz,E-Razred,2200,385000,1991,diesel motor,ročni menjalnik,,75,55,566
-Opel,Astra,450,170000,1998,bencinski motor,ročni menjalnik,1400,90,66,567
-BMW,serija 7:,2900,390000,2004,diesel motor,avtomatski menjalnik,3901,258,190,568
-Alfa Romeo,Giulia,17250,138000,2017,diesel motor,ročni menjalnik,2143,150,110,569
-Audi,A6,19990,158000,2017,diesel motor,ročni menjalnik,1968,190,140,570
-Mercedes-Benz,E-Razred,33990,35968,2016,diesel motor,avtomatski menjalnik,1950,194,143,571
-Hyundai,Ioniq,32290,4057,2020,elektro pogon,avtomatski menjalnik,,,100,572
-Toyota,Avensis,1999,250000,2005,diesel motor,ročni menjalnik,1995,116,85,573
-BMW,serija 3:,2700,184000,2006,bencinski motor,ročni menjalnik,1390,80,59,574
-Mazda,Mazda6,7500,222000,2010,bencinski motor,ročni menjalnik,1798,120,88,575
-Citroen,C-Elysee,12490,206700,2014,diesel motor,ročni menjalnik,1995,184,135,576
-Jaguar,XF,24990,145441,2016,diesel motor,avtomatski menjalnik,1999,179,132,577
-BMW,serija 5:,4990,282000,2003,bencinski motor,avtomatski menjalnik,2979,231,170,578
-Renault,Latitude,4790,186000,2011,diesel motor,ročni menjalnik,1995,173,127,579
-BMW,serija 3:,11490,183622,2013,diesel motor,avtomatski menjalnik,1995,184,135,580
-BMW,serija 5:,13850,112000,2011,diesel motor,avtomatski menjalnik,1995,184,135,581
-BMW,serija 5:,21000,140000,2014,bencinski motor,avtomatski menjalnik,2979,306,225,582
-Škoda,Rapid,10250,43670,2017,bencinski motor,ročni menjalnik,1197,90,66,583
-Jaguar,XJ,4000,259000,2001,bencinski motor,avtomatski menjalnik,3996,284,209,584
-BMW,serija 5:,4750,231000,2005,diesel motor,avtomatski menjalnik,2993,272,200,585
-Honda,Civic,2600,330000,2006,diesel motor,ročni menjalnik,2204,140,103,586
-Mercedes-Benz,C-Razred,6990,242000,2009,diesel motor,ročni menjalnik,2148,136,100,587
-BMW,serija 7:,99992,18580,2020,diesel motor,avtomatski menjalnik,2993,320,235,588
-Volvo,S90,31900,91000,2016,bencinski motor,avtomatski menjalnik,1969,254,187,589
-BMW,serija 5:,28900,162000,2012,diesel motor,avtomatski menjalnik,2993,381,280,590
-Mercedes-Benz,C-Razred,7390,208000,2008,bencinski motor,ročni menjalnik,1796,156,115,591
-Mercedes-Benz,E-Razred,3700,430000,2004,diesel motor,avtomatski menjalnik,3222,204,150,592
-Seat,Ibiza,550,264660,2003,bencinski motor,ročni menjalnik,1400,75,55,593
-Alfa Romeo,166,890,293000,2002,diesel motor,ročni menjalnik,2387,136,100,594
-Tesla,Model S,49500,116000,2016,elektro pogon,avtomatski menjalnik,,,345,595
-Volkswagen,Passat,1250,385700,2004,diesel motor,ročni menjalnik,1896,101,74,596
-Mercedes-Benz,E-Razred,1200,169241,1990,bencinski motor,ročni menjalnik,,94,69,597
-BMW,serija 3:,11450,220000,2013,diesel motor,avtomatski menjalnik,1995,163,120,598
-Audi,A4,1750,388960,2007,diesel motor,ročni menjalnik,1896,131,96,599
-Ford,Focus,690,215000,2000,bencinski motor,ročni menjalnik,1596,101,74,600
-Renault,Megane,15800,320000,2006,diesel motor,avtomatski menjalnik,2967,250,184,601
-Mercedes-Benz,C-Razred,28990,162223,2017,diesel motor,ročni menjalnik,2143,170,125,602
-Fiat,Punto,1500,171000,2008,diesel motor,ročni menjalnik,1998,131,96,603
-Mercedes-Benz,E-Razred,11990,201068,2011,diesel motor,ročni menjalnik,2143,136,100,604
-Ford,Sierra,650,90000,1987,bencinski motor,ročni menjalnik,,82,60,605
-Mercedes-Benz,E-Razred,54900,55891,2018,diesel motor,avtomatski menjalnik,2987,258,190,606
-Citroen,C-Elysee,5790,28000,2014,bencinski motor,ročni menjalnik,1199,72,53,607
-Audi,A4,24990,36442,2016,diesel motor,avtomatski menjalnik,1968,150,110,608
-Mercedes-Benz,C-Razred,7950,151000,2009,bencinski motor,ročni menjalnik,1796,156,115,609
-BMW,serija 3:,6990,112000,1988,bencinski motor,ročni menjalnik,1596,102,75,610
-Hyundai,Elantra,6790,112250,2011,bencinski motor,ročni menjalnik,1591,132,97,611
-Chevrolet,Aveo,4800,57361,2013,bencinski motor,ročni menjalnik,1398,101,74,612
-Audi,A8,17800,372000,2010,diesel motor,avtomatski menjalnik,2967,250,184,613
-Alfa Romeo,156,1550,176000,2005,diesel motor,ročni menjalnik,1910,150,110,614
-Volkswagen,Passat,15160,157759,2015,diesel motor,ročni menjalnik,1968,150,110,615
-Chrysler,Sebring,3500,115684,2011,bencinski motor,avtomatski menjalnik,2360,170,125,616
-Volkswagen,Passat,3250,295800,2005,diesel motor,avtomatski menjalnik,1968,140,103,617
-BMW,serija 5:,39900,58000,2018,diesel motor,avtomatski menjalnik,1995,190,140,618
-Volkswagen,Passat,600,370000,1998,diesel motor,ročni menjalnik,1896,110,81,619
-Audi,A6,5900,268000,2008,diesel motor,avtomatski menjalnik,2967,232,171,620
-Audi,A4,1700,301234,2003,diesel motor,ročni menjalnik,1896,101,74,621
-BMW,serija 5:,6850,255000,2006,bencinski motor,ročni menjalnik,2497,218,160,622
-BMW,serija 3:,7850,266300,2011,diesel motor,ročni menjalnik,1995,143,105,623
-BMW,M3 -PERFORMANCE-KOT,49999,53735,2016,bencinski motor,avtomatski menjalnik,2979,431,317,624
-Škoda,Octavia,3000,26800,2007,diesel motor,ročni menjalnik,1896,105,77,625
-Mazda,121,1500,103000,1994,bencinski motor,ročni menjalnik,1324,73,54,626
-BMW,serija 5:,8100,350000,2005,diesel motor,avtomatski menjalnik,2993,272,200,627
-Škoda,Rapid,5000,170000,2013,bencinski motor,ročni menjalnik,1197,105,77,628
-Jaguar,XE,13990,160000,2017,diesel motor,ročni menjalnik,1999,163,120,629
-Volkswagen,Polo,350,39000,1997,diesel motor,ročni menjalnik,1400,75,55,630
-BMW,serija 5:,5700,295000,2004,diesel motor,avtomatski menjalnik,2993,218,160,631
-Chevrolet,Cruze,3200,102000,2011,diesel motor,ročni menjalnik,1600,124,91,632
-Audi,A6,4100,310000,2006,diesel motor,avtomatski menjalnik,2967,224,165,633
-Daewoo,Lanos,1000,63500,2000,bencinski motor,ročni menjalnik,1498,86,63,634
-Mercedes-Benz,C-Razred,5999,260000,2008,diesel motor,ročni menjalnik,2148,136,100,635
-Mercedes-Benz,C-Razred,33300,29600,2019,diesel motor,avtomatski menjalnik,1597,160,118,636
-Mercedes-Benz,C-Razred,14300,120000,2001,diesel motor,ročni menjalnik,1956,170,125,637
-Audi,A6,700,450000,2002,diesel motor,ročni menjalnik,2496,163,120,638
-Mercedes-Benz,C-Razred,19800,165000,2015,diesel motor,avtomatski menjalnik,2143,170,125,639
-BMW,serija 5:,5500,315000,2005,diesel motor,avtomatski menjalnik,2993,218,160,640
-Lexus,IS,15300,196600,2016,bencinski motor,avtomatski menjalnik,2494,181,133,641
-Audi,A6,12999,229855,2012,diesel motor,ročni menjalnik,1968,177,130,642
-BMW,serija 3:,12999,123000,2013,diesel motor,avtomatski menjalnik,1995,143,105,643
-BMW,serija 3:,11990,193200,2012,bencinski motor,avtomatski menjalnik,1997,184,135,644
-Volkswagen,Arteon,24890,123210,2018,diesel motor,ročni menjalnik,1968,150,110,645
-BMW,serija 3:,17490,115000,2016,diesel motor,ročni menjalnik,1968,136,100,646
-Peugeot,407,1600,133000,2005,bencinski motor,ročni menjalnik,1749,116,85,647
-Audi,A6,7000,220000,2004,diesel motor,avtomatski menjalnik,2967,224,165,648
-Mercedes-Benz,E-Razred,12500,282000,2011,diesel motor,avtomatski menjalnik,2143,170,125,649
-Mazda,323,350,110000,1996,bencinski motor,ročni menjalnik,1324,73,54,650
-Chevrolet,Cruze,5900,52000,2010,bencinski motor,ročni menjalnik,1796,141,104,651
-Audi,A6,3550,370000,2005,bencinski motor,avtomatski menjalnik,3123,256,188,652
-Volkswagen,Arteon,20700,19700,2018,diesel motor,ročni menjalnik,,150,110,653
-Mercedes-Benz,E-Razred,17990,219000,2017,diesel motor,avtomatski menjalnik,1950,194,143,654
-Honda,Accord,3500,251000,2004,bencinski motor,ročni menjalnik,1998,155,114,655
-Mazda,Mazda6,250,220000,2003,diesel motor,ročni menjalnik,1998,121,89,656
-Fiat,-,2800,40000,1976,bencinski motor,ročni menjalnik,750,30,22,657
-Volkswagen,Golf,999,124000,1999,bencinski motor,ročni menjalnik,1390,75,55,658
-Renault,Clio,350,184942,2000,bencinski motor,ročni menjalnik,1149,57,42,659
-BMW,serija 5:,17980,178100,2015,diesel motor,avtomatski menjalnik,1995,190,140,660
-BMW,serija 7:,21730,220000,2014,diesel motor,avtomatski menjalnik,2993,258,190,661
-Audi,A4,2900,400000,2004,diesel motor,ročni menjalnik,1896,131,96,662
-BMW,serija 3:,12190,160593,2014,diesel motor,ročni menjalnik,1995,136,100,663
-Ford,Mondeo,12999,138998,2015,bencinski motor,ročni menjalnik,1596,160,118,664
-Mercedes-Benz,C-Razred,28650,93252,2018,diesel motor,avtomatski menjalnik,2143,204,150,665
-Audi,A4,399,500000,2000,diesel motor,ročni menjalnik,1896,90,66,666
-Mercedes-Benz,C-Razred,4850,315899,2007,diesel motor,ročni menjalnik,2148,122,90,667
-BMW,serija 3:,13950,220000,2014,diesel motor,avtomatski menjalnik,1995,184,135,668
-BMW,serija 3:,11370,219500,2012,diesel motor,avtomatski menjalnik,1995,143,105,669
-Mercedes-Benz,A-Razred,48332,7750,2019,bencinski motor,avtomatski menjalnik,1332,163,120,670
-Seat,Cordoba,1200,218000,2005,diesel motor,ročni menjalnik,1896,101,74,671
-BMW,serija 3:,18470,139600,2016,diesel motor,avtomatski menjalnik,1995,190,140,672
-Volkswagen,Passat,890,398000,2000,diesel motor,ročni menjalnik,1896,90,66,673
-Volkswagen,Passat,16950,113000,2018,diesel motor,ročni menjalnik,1968,150,110,674
-Mercedes-Benz,E-Razred,11900,206221,2011,diesel motor,ročni menjalnik,2143,136,100,675
-Citroen,C5,2300,213865,2005,diesel motor,ročni menjalnik,1997,136,100,676
-BMW,serija 3:,11850,159000,2013,diesel motor,avtomatski menjalnik,1995,143,105,677
-BMW,serija 3:,5200,290000,2003,diesel motor,avtomatski menjalnik,2993,204,150,678
-Daewoo,Nubira,1000,170399,2000,bencinski motor,ročni menjalnik,1598,106,78,679
-Tesla,Model 3,50007,18000,2020,elektro pogon,avtomatski menjalnik,,,330,680
-Mercedes-Benz,E-Razred,2750,280000,2003,diesel motor,avtomatski menjalnik,2148,150,110,681
-Mercedes-Benz,E-Razred,2500,370000,1998,diesel motor,ročni menjalnik,2874,129,95,682
-Cadillac,DeVille,5000,100000,1972,bencinski motor,avtomatski menjalnik,7777,204,150,683
-Audi,A4,890,357000,1999,bencinski motor,ročni menjalnik,1781,150,110,684
-Mercedes-Benz,E-Razred,30880,160000,2017,diesel motor,avtomatski menjalnik,1950,194,143,685
-Jaguar,XE,18900,60000,2016,diesel motor,avtomatski menjalnik,1999,179,132,686
-Volkswagen,Polo,600,195000,2000,bencinski motor,ročni menjalnik,,60,44,687
-Renault,Laguna,1750,228714,2007,diesel motor,ročni menjalnik,1870,131,96,688
-BMW,serija 3:,12900,221000,2013,diesel motor,avtomatski menjalnik,1995,143,105,689
-Mercedes-Benz,S-Razred,4999,305000,1994,bencinski motor,ročni menjalnik,2794,194,143,690
-Lancia,Kappa,650,295000,2004,diesel motor,ročni menjalnik,2387,136,100,691
-Škoda,Octavia,5850,112555,2010,bencinski motor,ročni menjalnik,1390,80,59,692
-Alfa Romeo,156,1200,180000,2000,bencinski motor,ročni menjalnik,1970,155,114,693
-Volkswagen,Polo,450,180000,2001,bencinski motor,ročni menjalnik,1390,60,44,694
-Volkswagen,Passat,7800,145000,2010,bencinski motor,avtomatski menjalnik,1798,160,118,695
-BMW,serija 5:,9745,329859,2006,diesel motor,avtomatski menjalnik,2993,272,200,696
-BMW,serija 7:,79885,21461,2020,diesel motor,avtomatski menjalnik,2993,265,195,697
-Honda,Accord,4500,188000,2007,bencinski motor,ročni menjalnik,1998,155,114,698
-Škoda,Rapid,4990,194785,2015,diesel motor,ročni menjalnik,1598,90,66,699
-Škoda,Superb,15990,108000,2018,diesel motor,avtomatski menjalnik,1598,120,88,700
-Mercedes-Benz,C-Razred,8990,256000,2010,diesel motor,ročni menjalnik,2143,136,100,701
-BMW,serija 3:,37485,26059,2020,diesel motor,avtomatski menjalnik,1995,190,140,702
-BMW,serija 5:,10950,309000,2012,diesel motor,ročni menjalnik,1995,184,135,703
-BMW,serija 3:,35885,19871,2020,diesel motor,avtomatski menjalnik,1995,190,140,704
-BMW,serija 5:,32885,101530,2018,diesel motor,avtomatski menjalnik,1995,190,140,705
-Ford,Granada,3000,100000,1976,bencinski motor,ročni menjalnik,,75,55,706
-BMW,serija 3:,5500,246000,2006,diesel motor,ročni menjalnik,1995,163,120,707
-Alfa Romeo,Giulia,26990,32300,2017,diesel motor,avtomatski menjalnik,2143,179,132,708
-Renault,Laguna,220,230000,1998,bencinski motor,ročni menjalnik,1600,107,79,709
-Peugeot,406,1600,266000,2003,diesel motor,ročni menjalnik,,144,106,710
-Peugeot,407,1490,153000,2005,diesel motor,ročni menjalnik,1997,136,100,711
-Mercedes-Benz,C-Razred,3900,326748,2006,diesel motor,avtomatski menjalnik,2148,150,110,712
-BMW,serija 5:,4300,268000,2003,diesel motor,ročni menjalnik,2993,218,160,713
-Chevrolet,Cruze,5500,80000,2012,bencinski motor,ročni menjalnik,1598,124,91,714
-Volkswagen,Passat,7950,210000,2012,diesel motor,ročni menjalnik,1598,105,77,715
-BMW,serija 5:,15999,251000,2012,diesel motor,avtomatski menjalnik,2993,313,230,716
-BMW,serija 5:,13888,143994,2012,diesel motor,ročni menjalnik,1995,184,135,717
-Kia,CeeD,3800,98200,2010,bencinski motor,ročni menjalnik,1396,90,66,718
-Opel,Insignia,18990,19630,2017,diesel motor,ročni menjalnik,,170,125,719
-Opel,Insignia,6990,212900,2012,diesel motor,ročni menjalnik,1956,160,118,720
-Mercedes-Benz,C-Razred,10200,103800,2009,diesel motor,ročni menjalnik,2148,136,100,721
-Volkswagen,Passat,19750,149844,2016,diesel motor,avtomatski menjalnik,1968,190,140,722
-BMW,serija 3:,5499,300000,2006,diesel motor,ročni menjalnik,1995,163,120,723
-Volkswagen,Hroč,2000,46000,1975,bencinski motor,ročni menjalnik,1296,44,32,724
-Volkswagen,Passat,4000,212000,2007,diesel motor,ročni menjalnik,1968,140,103,725
-Audi,80,1000,272000,1992,diesel motor,ročni menjalnik,,75,55,726
-Volkswagen,Passat,16200,200000,2017,diesel motor,ročni menjalnik,1968,150,110,727
-Volvo,S80,9500,242000,2012,diesel motor,ročni menjalnik,1984,163,120,728
-Volkswagen,Passat,12850,113000,2014,diesel motor,ročni menjalnik,1968,140,103,729
-Audi,A3,16750,149798,2016,diesel motor,ročni menjalnik,1968,150,110,730
-Daewoo,Racer,700,45000,1990,bencinski motor,ročni menjalnik,150,102,75,731
-Volkswagen,Passat,21490,112103,2016,diesel motor,avtomatski menjalnik,1968,239,176,732
-Volkswagen,Passat,13950,198000,2016,diesel motor,ročni menjalnik,1968,150,110,733
-Volkswagen,Passat,9990,112697,2014,diesel motor,ročni menjalnik,1598,105,77,734
-Audi,A6,13990,228000,2011,diesel motor,avtomatski menjalnik,1968,177,130,735
-Audi,A4,10600,163000,2011,diesel motor,ročni menjalnik,1968,136,100,736
-Volkswagen,Bora,700,312000,1999,diesel motor,ročni menjalnik,1896,110,81,737
-Peugeot,407,1390,172000,2006,diesel motor,ročni menjalnik,1560,109,80,738
-Volvo,S80,7300,156000,2008,bencinski motor,ročni menjalnik,2521,200,147,739
-Mazda,Mazda3,2500,144910,2007,bencinski motor,ročni menjalnik,1598,105,77,740
-Rover,75,6399,266000,2000,diesel motor,avtomatski menjalnik,2987,224,165,741
-BMW,serija 5:,15999,199000,2012,diesel motor,avtomatski menjalnik,1995,184,135,742
-Audi,A6,58990,40000,2019,diesel motor,avtomatski menjalnik,2967,231,170,743
-BMW,serija 3:,3500,276000,2003,bencinski motor,ročni menjalnik,2494,192,141,744
-Mazda,Mazda6,4150,233000,2008,diesel motor,ročni menjalnik,1998,140,103,745
-Volkswagen,Passat,2000,320000,2007,bencinski motor,ročni menjalnik,1991,150,110,746
-BMW,serija 3:,26000,130000,2017,diesel motor,avtomatski menjalnik,1995,190,140,747
-Mercedes-Benz,S-Razred,7890,249000,2006,bencinski motor,avtomatski menjalnik,3498,272,200,748
-Audi,A4,800,319000,1997,diesel motor,ročni menjalnik,1896,110,81,749
-BMW,serija 5:,14500,215000,2010,diesel motor,ročni menjalnik,2993,204,150,750
-BMW,serija 5:,27990,217350,2017,diesel motor,avtomatski menjalnik,1995,190,140,751
-BMW,serija 5:,37990,14900,2017,diesel motor,avtomatski menjalnik,1995,190,140,752
-Mazda,Mazda6,6990,163914,2003,diesel motor,ročni menjalnik,1461,90,66,753
-BMW,serija 3:,4800,142772,2006,bencinski motor,ročni menjalnik,1995,129,95,754
-BMW,serija 3:,1499,217000,2002,bencinski motor,ročni menjalnik,2171,170,125,755
-Audi,A4,990,350000,2000,diesel motor,ročni menjalnik,1896,90,66,756
-Audi,A6,3690,300000,2005,diesel motor,avtomatski menjalnik,2967,224,165,757
-Audi,A6,5700,320000,2004,diesel motor,ročni menjalnik,1968,140,103,758
-Volvo,S60,11990,149663,2014,diesel motor,ročni menjalnik,1984,136,100,759
-Hyundai,Accent,500,150000,2002,diesel motor,ročni menjalnik,,90,66,760
-BMW,M5 Avt.700,38950,249876,2012,bencinski motor,avtomatski menjalnik,4395,560,412,761
-BMW,serija 3:,8490,200548,2011,diesel motor,ročni menjalnik,1995,143,105,762
-BMW,serija 5:,3000,350000,2002,diesel motor,ročni menjalnik,2926,193,142,763
-Mercedes-Benz,C-Razred,18500,159000,2014,diesel motor,avtomatski menjalnik,2143,170,125,764
-Audi,A4,500,300000,1999,bencinski motor,ročni menjalnik,1781,125,92,765
-Audi,A4,1999,279000,2002,bencinski motor,ročni menjalnik,1781,150,110,766
-Honda,Civic,550,245000,2001,bencinski motor,ročni menjalnik,1396,90,66,767
-Volvo,S60,1500,239500,2002,bencinski motor,ročni menjalnik,2435,170,125,768
-Opel,Astra,500,231144,2001,bencinski motor,ročni menjalnik,1199,75,55,769
-Mercedes-Benz,C-Razred,2300,325600,2003,diesel motor,ročni menjalnik,2148,143,105,770
-Peugeot,406,2000,200000,1998,diesel motor,ročni menjalnik,1910,150,110,771
-Renault,Laguna,1200,235000,2006,diesel motor,ročni menjalnik,1995,150,110,772
-Audi,A4,1200,250000,1999,bencinski motor,ročni menjalnik,2771,193,142,773
-Chevrolet,Lacetti,1380,165000,2009,diesel motor,ročni menjalnik,1991,121,89,774
-Audi,A4,450,207000,1996,bencinski motor,ročni menjalnik,1781,125,92,775
-Opel,Insignia,12200,91000,2016,diesel motor,ročni menjalnik,1956,170,125,776
-BMW,serija 3:,16999,119191,2017,diesel motor,avtomatski menjalnik,1995,190,140,777
-Peugeot,607,350,196000,2001,diesel motor,ročni menjalnik,,133,98,778
-Audi,A4,1600,350000,2003,diesel motor,ročni menjalnik,1896,131,96,779
-Hyundai,Accent,299,203000,1997,bencinski motor,ročni menjalnik,1495,90,66,780
-Mercedes-Benz,C-Razred,6599,230000,2008,diesel motor,ročni menjalnik,2148,170,125,781
-Citroen,C5,999,291000,2005,diesel motor,ročni menjalnik,1595,109,80,782
-BMW,serija 5:,13650,237000,2013,diesel motor,avtomatski menjalnik,1995,184,135,783
-BMW,serija 7:,12750,360000,2009,diesel motor,avtomatski menjalnik,2993,245,180,784
-Audi,A4,3150,248000,2006,diesel motor,ročni menjalnik,2000,140,103,785
-Audi,A4,3850,355000,2006,diesel motor,ročni menjalnik,1968,140,103,786
-Volvo,S40,9000,237000,2005,diesel motor,ročni menjalnik,1968,140,103,787
-BMW,serija 7:,1100,230000,1987,bencinski motor,ročni menjalnik,,218,160,788
-BMW,serija 3:,14499,230000,2013,diesel motor,ročni menjalnik,1995,184,135,789
-Mercedes-Benz,C-Razred,1999,310000,2003,diesel motor,ročni menjalnik,1597,118,87,790
-Opel,Kadett,2200,69000,1978,bencinski motor,ročni menjalnik,1196,52,38,791
-Ford,Focus,990,150000,2003,bencinski motor,ročni menjalnik,1389,79,58,792
-Suzuki,SX4,7800,98500,2013,bencinski motor,ročni menjalnik,1598,120,88,793
-BMW,serija 5:,3990,260000,2006,diesel motor,avtomatski menjalnik,2497,177,130,794
-Volkswagen,Passat,15900,219000,2016,diesel motor,avtomatski menjalnik,1968,190,140,795
-Audi,A6,6300,320000,2006,diesel motor,avtomatski menjalnik,2967,224,165,796
-BMW,serija 5:,3000,236000,2004,bencinski motor,ročni menjalnik,2171,170,125,797
-Volkswagen,Passat,1700,218345,2001,diesel motor,ročni menjalnik,1896,131,96,798
-Citroen,Xsara,250,25000,1998,bencinski motor,ročni menjalnik,1587,88,65,799
-Volkswagen,Polo,2600,190000,2008,diesel motor,ročni menjalnik,1422,69,51,800
-Volkswagen,Jetta,7300,203000,2012,diesel motor,avtomatski menjalnik,1598,105,77,801
-Aixam,-,600,74000,2002,diesel motor,avtomatski menjalnik,400,5,4,802
-Honda,Accord,9700,149000,2010,diesel motor,avtomatski menjalnik,2199,150,110,803
-Mazda,Mazda6,500,240000,2002,bencinski motor,ročni menjalnik,,120,88,804
-BMW,serija 5:,1500,219000,2001,diesel motor,ročni menjalnik,2497,163,120,805
-Volkswagen,Golf,2000,190000,2005,bencinski motor,ročni menjalnik,1595,102,75,806
-Peugeot,206,750,127193,2001,bencinski motor,ročni menjalnik,1360,75,55,807
-Chevrolet,Lacetti,790,227000,2008,diesel motor,ročni menjalnik,1991,121,89,808
-Renault,Twingo,350,134892,1995,bencinski motor,ročni menjalnik,1239,54,40,809
-Chevrolet,Aveo,3900,65000,2012,bencinski motor,ročni menjalnik,1229,69,51,810
-Audi,A3,2800,290000,2003,diesel motor,ročni menjalnik,,150,110,811
-Audi,A6,4300,301000,2006,diesel motor,ročni menjalnik,1968,140,103,812
-Opel,Corsa,1850,140000,2008,bencinski motor,ročni menjalnik,1364,90,66,813
-Opel,Corsa,650,171747,2004,bencinski motor,ročni menjalnik,1199,75,55,814
-Audi,A6,9100,147000,2008,bencinski motor,ročni menjalnik,2393,177,130,815
-Seat,Toledo,450,250000,2000,bencinski motor,ročni menjalnik,1595,101,74,816
-Volkswagen,Passat,450,424000,1997,diesel motor,ročni menjalnik,1896,110,81,817
-BMW,serija 5:,2900,244328,1999,diesel motor,ročni menjalnik,2497,143,105,818
-Renault,Laguna,1600,188000,2004,bencinski motor,polavtomatski menjalnik,1998,135,99,819
-Renault,Clio,780,248000,2001,bencinski motor,ročni menjalnik,,102,75,820
-Peugeot,407,2500,220000,2007,diesel motor,ročni menjalnik,1997,136,100,821
-BMW,serija 5:,3900,400000,2004,diesel motor,ročni menjalnik,2993,218,160,822
-Peugeot,106,400,999999,2001,bencinski motor,ročni menjalnik,,15,11,823
-BMW,serija 3:,12950,189000,2013,diesel motor,avtomatski menjalnik,1995,143,105,824
-Volkswagen,Passat,550,457000,1998,diesel motor,ročni menjalnik,,110,81,825
-Volkswagen,Polo,1300,186200,2003,diesel motor,ročni menjalnik,1900,64,47,826
-Toyota,Avensis,9990,126800,2014,diesel motor,ročni menjalnik,1998,124,91,827
-Opel,Astra,700,121000,2003,bencinski motor,ročni menjalnik,1598,84,62,828
-BMW,serija 5:,14950,225000,2011,diesel motor,avtomatski menjalnik,2993,245,180,829
-BMW,serija 5:,12800,230000,2013,diesel motor,ročni menjalnik,1995,184,135,830
-Opel,Insignia,16880,144000,2018,diesel motor,avtomatski menjalnik,1598,136,100,831
-Volkswagen,Passat,8950,198000,2013,diesel motor,ročni menjalnik,1968,140,103,832
-Citroen,C-Elysee,4900,380000,2004,diesel motor,avtomatski menjalnik,2993,218,160,833
-BMW,serija 5:,5900,280000,2008,diesel motor,ročni menjalnik,1995,177,130,834
-BMW,serija 3:,2750,283650,1999,diesel motor,ročni menjalnik,1951,136,100,835
-Ford,Focus,150,280000,1999,bencinski motor,ročni menjalnik,1596,101,74,836
-Kia,Rio,5490,99600,2012,diesel motor,ročni menjalnik,1396,90,66,837
-Peugeot,407,2100,270000,2005,diesel motor,ročni menjalnik,1997,136,100,838
-BMW,serija 5:,15800,259000,2015,diesel motor,avtomatski menjalnik,1995,184,135,839
-Audi,A6,1800,245000,2000,bencinski motor,ročni menjalnik,2393,165,121,840
-Mercedes-Benz,C-Razred,1099,228000,2002,bencinski motor,ročni menjalnik,1998,129,95,841
-Alfa Romeo,159,3500,244000,2008,diesel motor,ročni menjalnik,1910,116,85,842
-Ford,B-Max,8500,109000,2016,diesel motor,ročni menjalnik,1499,95,70,843
-Mercedes-Benz,E-Razred,5800,231000,2005,diesel motor,ročni menjalnik,2685,177,130,844
-Mercedes-Benz,S-Razred,14990,199800,2008,bencinski motor,avtomatski menjalnik,5461,387,285,845
-Renault,Twizy,3650,19000,2015,elektro pogon,avtomatski menjalnik,,,8,846
-Audi,A6,4950,290000,2008,diesel motor,avtomatski menjalnik,1968,140,103,847
-Volkswagen,Passat,27490,99500,2005,diesel motor,avtomatski menjalnik,1995,190,140,848
-Mercedes-Benz,S-Razred,42900,183900,2015,diesel motor,avtomatski menjalnik,2987,258,190,849
-Citroen,DS,8500,1,1969,bencinski motor,ročni menjalnik,,131,96,850
-BMW,serija 5:,8000,253000,2007,diesel motor,avtomatski menjalnik,2993,235,173,851
-Chevrolet,Aveo,1800,120000,2009,bencinski motor,ročni menjalnik,1399,94,69,852
-BMW,serija 3:,26900,90000,2017,diesel motor,avtomatski menjalnik,2993,258,190,853
-Audi,A6,650,350000,2000,bencinski motor,ročni menjalnik,1800,150,110,854
-Audi,A4,1100,342351,2005,diesel motor,ročni menjalnik,1995,150,110,855
-Audi,A6,26000,68000,2016,diesel motor,avtomatski menjalnik,1968,190,140,856
-BMW,serija 3:,6000,223000,2000,diesel motor,ročni menjalnik,1995,163,120,857
-Audi,A6,7850,160000,2007,diesel motor,ročni menjalnik,1968,140,103,858
-Mercedes-Benz,C-Razred,21550,141000,2015,diesel motor,avtomatski menjalnik,2143,170,125,859
-Alfa Romeo,159,3200,150000,2007,diesel motor,ročni menjalnik,1910,150,110,860
-Mercedes-Benz,E-Razred,14500,98300,2010,diesel motor,ročni menjalnik,2143,136,100,861
-Audi,A4,8600,286248,2011,diesel motor,ročni menjalnik,1968,143,105,862
-Audi,A6,20500,172000,2016,diesel motor,avtomatski menjalnik,1968,190,140,863
-Volkswagen,Passat,8400,250000,2008,diesel motor,avtomatski menjalnik,1968,170,125,864
-Seat,Cordoba,380,225000,2000,diesel motor,ročni menjalnik,1896,68,50,865
-Mercedes-Benz,C-Razred,12900,288000,2009,diesel motor,avtomatski menjalnik,2987,224,165,866
-BMW,serija 5:,5300,83000,1980,bencinski motor,ročni menjalnik,,90,66,867
-Volvo,S40,3990,90000,2006,bencinski motor,ročni menjalnik,1798,125,92,868
-Infiniti,Q70,24990,42000,2017,diesel motor,avtomatski menjalnik,2143,170,125,869
-Audi,A4,890,244003,1998,bencinski motor,ročni menjalnik,1781,125,92,870
-Volkswagen,Passat,14990,119000,2017,diesel motor,ročni menjalnik,1598,120,88,871
-Opel,Astra,490,305000,1999,bencinski motor,ročni menjalnik,1598,101,74,872
-BMW,serija 3:,15500,90000,2013,diesel motor,ročni menjalnik,1995,163,120,873
-Volvo,S60,15999,67677,2015,diesel motor,ročni menjalnik,1969,150,110,874
-BMW,serija 7:,13990,279000,2010,diesel motor,avtomatski menjalnik,2993,245,180,875
-BMW,serija 5:,14990,341000,2011,diesel motor,avtomatski menjalnik,2993,258,190,876
-Volvo,S40,4250,165000,2006,diesel motor,ročni menjalnik,1560,109,80,877
-Volkswagen,Passat,13850,189000,2017,diesel motor,ročni menjalnik,1968,150,110,878
-Mercedes-Benz,S-Razred,11990,350000,2007,diesel motor,avtomatski menjalnik,2987,235,173,879
-Renault,Megane,7700,230000,2004,diesel motor,ročni menjalnik,1968,143,105,880
-Ford,-,14000,5000,1949,bencinski motor,ročni menjalnik,1100,46,34,881
-Audi,A6,9990,186800,2009,diesel motor,ročni menjalnik,1968,136,100,882
-Audi,A4,1990,338900,2001,bencinski motor,ročni menjalnik,1781,150,110,883
-Hyundai,Ioniq,26990,250,2020,hibridni pogon,avtomatski menjalnik,1580,145,107,884
-Mercedes-Benz,C-Razred,51065,7650,2020,bencinski motor,avtomatski menjalnik,1497,184,135,885
-Volkswagen,Passat,3990,291310,2006,diesel motor,ročni menjalnik,1968,140,103,886
-BMW,serija 5:,3900,450000,2000,diesel motor,ročni menjalnik,2926,184,135,887
-Mercedes-Benz,C-Razred,2000,280000,2002,LPG avtoplin,ročni menjalnik,1796,122,90,888
-Renault,Talisman,19250,155000,2015,diesel motor,avtomatski menjalnik,1968,150,110,889
-Maserati,Quattroporte,32000,102000,1999,bencinski motor,ročni menjalnik,3217,336,247,890
-Jaguar,X-Type,3500,165000,2005,diesel motor,ročni menjalnik,1998,131,96,891
-Mercedes-Benz,E-Razred,13990,221795,2014,diesel motor,avtomatski menjalnik,2143,136,100,892
-Alfa Romeo,Giulia,34490,9200,2020,diesel motor,avtomatski menjalnik,2143,160,118,893
-Mercedes-Benz,E-Razred,15990,185621,2014,diesel motor,ročni menjalnik,2143,136,100,894
-BMW,serija 5:,5900,29700,2003,bencinski motor,ročni menjalnik,2979,231,170,895
-Ford,Mondeo,2490,259000,2008,diesel motor,ročni menjalnik,1997,140,103,896
-BMW,serija 3:,17999,48640,2017,bencinski motor,ročni menjalnik,1499,136,100,897
-BMW,serija 5:,42980,34950,2018,diesel motor,avtomatski menjalnik,1995,190,140,898
-Mercedes-Benz,E-Razred,3590,331848,2003,diesel motor,avtomatski menjalnik,2685,177,130,899
-Hyundai,Elantra,799,220000,2002,bencinski motor,ročni menjalnik,1599,107,79,900
-Fiat,-,8500,50000,1934,bencinski motor,ročni menjalnik,,46,34,901
-Volkswagen,Bora,850,330500,1999,diesel motor,ročni menjalnik,1896,90,66,902
-Opel,Insignia,6950,149000,2012,bencinski motor,ročni menjalnik,1796,140,103,903
-BMW,serija 3:,2600,226000,2002,diesel motor,ročni menjalnik,1995,150,110,904
-Alfa Romeo,Giulia,21350,61800,2018,diesel motor,avtomatski menjalnik,2143,136,100,905
-Volkswagen,Passat,2300,245900,2003,diesel motor,ročni menjalnik,1896,101,74,906
-BMW,serija 3:,3290,326000,2009,bencinski motor,ročni menjalnik,1850,136,100,907
-Mercedes-Benz,E-Razred,39990,30848,2019,diesel motor,avtomatski menjalnik,1950,194,143,908
-Mercedes-Benz,C-Razred,34900,25,2019,diesel motor,ročni menjalnik,1597,160,118,909
-BMW,serija 5:,4598,312886,2005,diesel motor,avtomatski menjalnik,2993,218,160,910
-Audi,A4,3500,258000,2005,diesel motor,ročni menjalnik,1896,116,85,911
-BMW,serija 7:,4800,338125,2004,diesel motor,avtomatski menjalnik,2993,218,160,912
-Opel,Ascona,1500,66000,1982,bencinski motor,ročni menjalnik,,75,55,913
-Audi,A4,16980,140000,2015,diesel motor,avtomatski menjalnik,1968,190,140,914
-Volkswagen,Passat,18570,121284,2018,diesel motor,avtomatski menjalnik,1968,150,110,915
-Citroen,C5,1790,290000,2006,diesel motor,ročni menjalnik,1997,136,100,916
-Mercedes-Benz,C-Razred,940,148000,1995,bencinski motor,ročni menjalnik,1360,75,55,917
-Jaguar,X-Type,1300,260000,2002,bencinski motor,ročni menjalnik,2500,196,144,918
-Alfa Romeo,166,500,20000,2001,plin,ročni menjalnik,1970,155,114,919
-Alfa Romeo,159,6900,144000,2009,diesel motor,ročni menjalnik,1910,150,110,920
-Mercedes-Benz,C-Razred,8700,200400,2010,diesel motor,avtomatski menjalnik,2143,136,100,921
-Opel,Manta,3200,60000,1982,bencinski motor,ročni menjalnik,2000,110,81,922
-Audi,A4,690,283337,2000,bencinski motor,ročni menjalnik,1595,101,74,923
-BMW,serija 3:,1390,343467,2004,diesel motor,ročni menjalnik,1995,150,110,924
-Audi,A4,9500,253000,2011,diesel motor,ročni menjalnik,1968,170,125,925
-BMW,serija 5:,8400,237210,2009,diesel motor,avtomatski menjalnik,1995,163,120,926
-Chevrolet,Cruze,4490,62000,2011,bencinski motor,ročni menjalnik,1598,124,91,927
-Opel,Astra,550,172600,1999,diesel motor,ročni menjalnik,1700,68,50,928
-Mazda,Xedos,210,220000,1997,bencinski motor,ročni menjalnik,,132,97,929
-Mercedes-Benz,E-Razred,27000,177000,2017,diesel motor,avtomatski menjalnik,1950,150,110,930
-Renault,Thalia,555,214000,2001,bencinski motor,ročni menjalnik,1390,75,55,931
-Ford,Mondeo,20860,23578,2019,hibridni pogon,avtomatski menjalnik,1998,140,103,932
-Audi,A8,2000,2021,2008,diesel motor,ročni menjalnik,1997,72,53,933
-BMW,serija 3:,3400,315000,2007,diesel motor,ročni menjalnik,1995,163,120,934
-Audi,S3,30990,67000,2015,bencinski motor,avtomatski menjalnik,1984,300,221,935
-Volvo,S60,950,325000,2004,diesel motor,ročni menjalnik,2401,131,96,936
-Citroen,C5,2190,269000,2006,diesel motor,ročni menjalnik,1997,136,100,937
-Audi,A4,10950,217500,2013,diesel motor,ročni menjalnik,1968,120,88,938
-Peugeot,407,2600,225000,2005,diesel motor,avtomatski menjalnik,1997,136,100,939
-Nissan,Primera,1290,258559,2004,diesel motor,ročni menjalnik,2184,126,93,940
-Renault,Thalia,1300,133000,2004,bencinski motor,ročni menjalnik,1390,75,55,941
-Volkswagen,Passat,15490,87000,2015,diesel motor,ročni menjalnik,1968,150,110,942
-Chevrolet,Cruze,3990,118000,2010,bencinski motor,ročni menjalnik,1796,141,104,943
-Mercedes-Benz,C-Razred,20490,110000,2015,diesel motor,avtomatski menjalnik,2143,170,125,944
-BMW,serija 7:,6490,275000,2005,bencinski motor,avtomatski menjalnik,4000,306,225,945
+Znamka,Model,cena,Prevozeni Km,Prva registracija,gorivo,menjalnik,prostornina motorja,moc v KM,moc v KW,ID
+
+Opel,Astra,22990,136000,2003,bencinski motor,ročni menjalnik,1598,101,74,1
+
+Honda,Accord,1200,246300,2002,bencinski motor,ročni menjalnik,1850,136,100,2
+
+Volkswagen,Passat,13990,121000,2016,diesel motor,avtomatski menjalnik,1598,120,88,3
+
+BMW,serija 3:,14490,155120,2014,diesel motor,avtomatski menjalnik,1995,184,135,4
+
+Volkswagen,Passat,2990,232000,2008,diesel motor,ročni menjalnik,1968,140,103,5
+
+Volkswagen,Jetta,6666,143000,2011,bencinski motor,ročni menjalnik,1197,105,77,6
+
+Volkswagen,Bora,7999,380000,2000,diesel motor,ročni menjalnik,2987,218,160,7
+
+Mercedes-Benz,CLS-Razred,64900,49000,2018,diesel motor,avtomatski menjalnik,2995,286,210,8
+
+BMW,serija 5:,35600,69000,2017,diesel motor,avtomatski menjalnik,1995,190,140,9
+
+Audi,A4,8790,232563,2009,diesel motor,avtomatski menjalnik,1968,143,105,10
+
+BMW,serija 7:,44890,178657,2016,diesel motor,avtomatski menjalnik,2993,265,195,11
+
+BMW,serija 3:,4890,281563,2007,diesel motor,ročni menjalnik,1995,163,120,12
+
+Infiniti,Q50,13800,39800,2015,diesel motor,ročni menjalnik,2170,170,125,13
+
+Audi,A4,18999,153770,2017,diesel motor,avtomatski menjalnik,1968,150,110,14
+
+Audi,A4,43490,17900,2020,diesel motor,avtomatski menjalnik,1968,190,140,15
+
+Volkswagen,Passat,5100,265000,2007,diesel motor,ročni menjalnik,1968,140,103,16
+
+Peugeot,407,3490,198398,2009,diesel motor,ročni menjalnik,1997,140,103,17
+
+Volkswagen,Passat,799,245000,1998,bencinski motor,avtomatski menjalnik,1781,150,110,18
+
+Volkswagen,Passat,2000,240000,2003,diesel motor,ročni menjalnik,1896,131,96,19
+
+BMW,serija 7:,13990,303680,2010,diesel motor,avtomatski menjalnik,2993,245,180,20
+
+Mercedes-Benz,C-Razred,20500,68000,2015,diesel motor,avtomatski menjalnik,2143,170,125,21
+
+BMW,serija 5:,6490,351193,2004,diesel motor,ročni menjalnik,2497,177,130,22
+
+Seat,Cordoba,200,275532,1997,bencinski motor,ročni menjalnik,1390,60,44,23
+
+BMW,serija 3:,16900,161092,2012,diesel motor,ročni menjalnik,1995,184,135,24
+
+BMW,serija 3:,2999,290000,1998,bencinski motor,ročni menjalnik,2494,170,125,25
+
+Volvo,S80,5490,270000,2008,diesel motor,avtomatski menjalnik,2400,185,136,26
+
+BMW,serija 3:,12999,214035,2014,diesel motor,ročni menjalnik,1995,184,135,27
+
+Renault,Clio,150,115000,2000,bencinski motor,ročni menjalnik,,58,43,28
+
+Audi,A4,11490,265972,2008,diesel motor,avtomatski menjalnik,2698,190,140,29
+
+Mercedes-Benz,E-Razred,20900,96000,2014,diesel motor,avtomatski menjalnik,2143,170,125,30
+
+BMW,serija 5:,15900,274000,2014,diesel motor,avtomatski menjalnik,1995,184,135,31
+
+Kia,Rio,5190,135000,2012,bencinski motor,ročni menjalnik,1396,109,80,32
+
+Audi,A6,20490,81982,2015,diesel motor,ročni menjalnik,1968,190,140,33
+
+Volkswagen,Passat,6490,306399,2006,diesel motor,ročni menjalnik,1968,140,103,34
+
+Renault,Megane,650,240000,2004,diesel motor,ročni menjalnik,1461,82,60,35
+
+BMW,serija 5:,13990,241617,2010,diesel motor,ročni menjalnik,1995,184,135,36
+
+Mercedes-Benz,E-Razred,10840,269000,2011,diesel motor,avtomatski menjalnik,2143,136,100,37
+
+Mercedes-Benz,S-Razred,8990,172369,1980,bencinski motor,avtomatski menjalnik,2798,185,136,38
+
+Renault,Clio,2950,121430,2009,diesel motor,ročni menjalnik,1461,68,50,39
+
+Volvo,S60,1200,310000,2002,bencinski motor,ročni menjalnik,2435,200,147,40
+
+Volkswagen,Passat,9650,179000,2013,diesel motor,ročni menjalnik,1968,140,103,41
+
+Alfa Romeo,156,850,117900,2002,bencinski motor,ročni menjalnik,1598,120,88,42
+
+Mercedes-Benz,C-Razred,18990,175000,2016,diesel motor,avtomatski menjalnik,2143,170,125,43
+
+BMW,serija 5:,5000,502000,2003,diesel motor,avtomatski menjalnik,2993,218,160,44
+
+Renault,Megane,850,20200,2003,diesel motor,ročni menjalnik,1900,120,88,45
+
+Opel,Corsa,1200,217000,2004,diesel motor,ročni menjalnik,,69,51,46
+
+Volkswagen,Polo,1500,225000,2004,diesel motor,ročni menjalnik,,75,55,47
+
+Škoda,Fabia,333,165000,2001,bencinski motor,ročni menjalnik,1397,68,50,48
+
+BMW,serija 5:,2800,340000,2005,diesel motor,avtomatski menjalnik,3000,218,160,49
+
+Audi,A6,6590,294800,2008,diesel motor,ročni menjalnik,1968,140,103,50
+
+Volkswagen,Golf,500,230000,2001,bencinski motor,ročni menjalnik,,102,75,51
+
+Renault,Megane,330,182600,2002,bencinski motor,ročni menjalnik,1598,107,79,52
+
+Peugeot,407,1400,300000,2008,bencinski motor,ročni menjalnik,1997,140,103,53
+
+Chevrolet,Aveo,2250,85760,2010,bencinski motor,ročni menjalnik,1206,84,62,54
+
+Audi,A4,9900,274026,2008,diesel motor,ročni menjalnik,1968,143,105,55
+
+Audi,A4,370,325426,1996,bencinski motor,ročni menjalnik,1781,125,92,56
+
+Jaguar,XJ,18990,250000,2010,diesel motor,avtomatski menjalnik,2993,275,202,57
+
+Volkswagen,Passat,14990,239817,2017,diesel motor,avtomatski menjalnik,1598,120,88,58
+
+Audi,A4,9950,259000,2013,diesel motor,ročni menjalnik,1968,120,88,59
+
+BMW,serija 3:,5300,250405,2008,diesel motor,ročni menjalnik,1995,177,130,60
+
+Audi,A4,10800,163800,2011,diesel motor,avtomatski menjalnik,2967,239,176,61
+
+Audi,A6,3150,350000,2005,diesel motor,avtomatski menjalnik,2967,224,165,62
+
+BMW,serija 5:,3800,388000,2003,diesel motor,ročni menjalnik,2993,218,160,63
+
+Seat,Cordoba,450,263000,1995,diesel motor,ročni menjalnik,1896,75,55,64
+
+Audi,A4,14490,141800,2014,diesel motor,ročni menjalnik,1968,120,88,65
+
+Opel,Vectra,1390,350000,2004,diesel motor,ročni menjalnik,1896,101,74,66
+
+Audi,A6,14490,269910,2012,diesel motor,avtomatski menjalnik,1968,177,130,67
+
+Volkswagen,Passat,15680,128139,2017,diesel motor,ročni menjalnik,1968,150,110,68
+
+Volkswagen,Arteon,35950,57000,2018,bencinski motor,avtomatski menjalnik,1984,280,206,69
+
+Honda,Accord,1900,410000,2005,diesel motor,ročni menjalnik,2204,140,103,70
+
+Mercedes-Benz,C-Razred,5200,195000,2005,diesel motor,ročni menjalnik,2148,122,90,71
+
+Audi,S5,49000,48000,2017,bencinski motor,avtomatski menjalnik,,354,260,72
+
+BMW,serija 5:,8990,374964,2011,diesel motor,ročni menjalnik,1995,184,135,73
+
+BMW,serija 5:,15400,299143,2010,diesel motor,avtomatski menjalnik,1995,184,135,74
+
+Seat,Toledo,6450,239000,2014,diesel motor,ročni menjalnik,1598,105,77,75
+
+BMW,serija 5:,39990,111460,2017,diesel motor,avtomatski menjalnik,2993,265,195,76
+
+Audi,A6,10490,199488,2010,diesel motor,ročni menjalnik,1968,170,125,77
+
+Volkswagen,Polo,360,206000,2001,bencinski motor,ročni menjalnik,,50,37,78
+
+Audi,A4,940,270000,2001,bencinski motor,ročni menjalnik,1595,102,75,79
+
+Hyundai,Elantra,250,169000,2003,bencinski motor,ročni menjalnik,1599,107,79,80
+
+Audi,A6,6490,322477,2007,diesel motor,ročni menjalnik,2698,179,132,81
+
+BMW,serija 5:,15990,330447,2011,diesel motor,avtomatski menjalnik,2993,245,180,82
+
+BMW,serija 3:,13990,196524,2015,diesel motor,polavtomatski menjalnik,1995,143,105,83
+
+Audi,A4,4990,189100,2006,bencinski motor,ročni menjalnik,1595,102,75,84
+
+Volkswagen,Arteon,31900,47000,2018,diesel motor,avtomatski menjalnik,1968,239,176,85
+
+Mercedes-Benz,A-Razred,37452,9,2019,diesel motor,avtomatski menjalnik,1461,116,85,86
+
+Mercedes-Benz,E-Razred,15990,259885,2013,diesel motor,avtomatski menjalnik,2143,136,100,87
+
+BMW,serija 3:,21990,245102,2012,diesel motor,ročni menjalnik,1995,143,105,88
+
+Mercedes-Benz,C-Razred,41357,24,2019,diesel motor,avtomatski menjalnik,1950,194,143,89
+
+Volvo,S80,1000,224381,2000,LPG avtoplin,ročni menjalnik,2435,170,125,90
+
+Volvo,S80,5999,269855,2008,diesel motor,avtomatski menjalnik,2400,185,136,91
+
+Volkswagen,Passat,5990,247862,2008,diesel motor,ročni menjalnik,1968,140,103,92
+
+Mercedes-Benz,C-Razred,41057,25,2019,diesel motor,avtomatski menjalnik,1950,194,143,93
+
+Nissan,Primera,450,311000,1998,bencinski motor,ročni menjalnik,1998,150,110,94
+
+BMW,serija 7:,6000,331125,2007,diesel motor,avtomatski menjalnik,2993,231,170,95
+
+Hyundai,i40,8990,184569,2015,diesel motor,ročni menjalnik,1685,116,85,96
+
+Škoda,Octavia,1150,175610,2002,bencinski motor,ročni menjalnik,,116,85,97
+
+BMW,serija 5:,16790,283275,2010,diesel motor,avtomatski menjalnik,2993,245,180,98
+
+Škoda,Superb,15990,114686,2016,diesel motor,avtomatski menjalnik,1968,150,110,99
+
+Audi,A4,300,430,1997,bencinski motor,ročni menjalnik,1781,125,92,100
+
+Škoda,Superb,14500,161000,2015,diesel motor,ročni menjalnik,1968,150,110,101
+
+Audi,A4,10900,238000,2013,diesel motor,ročni menjalnik,1968,143,105,102
+
+Volkswagen,CC,12390,175470,2013,diesel motor,avtomatski menjalnik,1968,140,103,103
+
+Hyundai,Ioniq,31900,625,2020,elektro pogon,avtomatski menjalnik,,,100,104
+
+Audi,A6,3500,300000,2005,diesel motor,avtomatski menjalnik,2967,224,165,105
+
+Mercedes-Benz,C-Razred,9900,153000,2011,diesel motor,ročni menjalnik,2143,120,88,106
+
+Mazda,Mazda6,2590,88000,2003,bencinski motor,ročni menjalnik,1798,120,88,107
+
+BMW,serija 3:,1450,300000,2001,diesel motor,ročni menjalnik,1951,136,100,108
+
+Ford,Focus,17900,61810,2019,diesel motor,ročni menjalnik,1499,120,88,109
+
+BMW,serija 3:,7000,192874,2010,diesel motor,ročni menjalnik,1995,177,130,110
+
+BMW,serija 5:,14990,299420,2012,diesel motor,ročni menjalnik,1995,184,135,111
+
+Mazda,Mazda6,2000,220000,2006,bencinski motor,ročni menjalnik,2261,260,191,112
+
+Audi,A3,14980,168900,2017,diesel motor,avtomatski menjalnik,1598,110,81,113
+
+Audi,A3,3500,215000,2005,diesel motor,ročni menjalnik,19,105,77,114
+
+Lexus,GS,6000,500000,2006,hibridni pogon,avtomatski menjalnik,3456,296,218,115
+
+Mazda,Mazda3,1150,205358,2004,bencinski motor,ročni menjalnik,1349,84,62,116
+
+Volkswagen,Vento,150,300000,1995,bencinski motor,ročni menjalnik,1781,90,66,117
+
+BMW,serija 3:,4900,296000,2005,bencinski motor,ročni menjalnik,2996,258,190,118
+
+Audi,A6,1850,148000,1998,diesel motor,ročni menjalnik,1896,110,81,119
+
+Mercedes-Benz,E-Razred,7100,310000,2007,diesel motor,avtomatski menjalnik,2148,170,125,120
+
+Seat,Cordoba,650,176400,1997,bencinski motor,ročni menjalnik,1390,60,44,121
+
+Volvo,S60,8000,333000,2011,diesel motor,avtomatski menjalnik,1984,163,120,122
+
+Audi,A3,17980,118334,2017,diesel motor,avtomatski menjalnik,1968,150,110,123
+
+BMW,serija 3:,5700,201000,2005,bencinski motor,ročni menjalnik,2497,218,160,124
+
+BMW,serija 5:,2890,247000,2004,diesel motor,ročni menjalnik,1896,101,74,125
+
+Daewoo,Lanos,400,156500,1998,bencinski motor,ročni menjalnik,1498,86,63,126
+
+Audi,A4,9900,318948,2008,diesel motor,ročni menjalnik,1968,143,105,127
+
+Mercedes-Benz,E-Razred,1300,257200,2002,diesel motor,ročni menjalnik,2685,177,130,128
+
+Mercedes-Benz,S-Razred,4700,300000,2004,bencinski motor,avtomatski menjalnik,4966,306,225,129
+
+Mercedes-Benz,C-Razred,16890,173205,2014,diesel motor,avtomatski menjalnik,2143,170,125,130
+
+BMW,serija 3:,6500,238000,2010,diesel motor,ročni menjalnik,1995,116,85,131
+
+Mercedes-Benz,E-Razred,31999,173658,2016,diesel motor,avtomatski menjalnik,1950,194,143,132
+
+Audi,A4,9950,152000,2011,diesel motor,ročni menjalnik,1968,120,88,133
+
+Volkswagen,Bora,1390,223213,2002,diesel motor,ročni menjalnik,1896,90,66,134
+
+BMW,serija 3:,9500,120000,2011,diesel motor,ročni menjalnik,1995,184,135,135
+
+Volkswagen,Bora,1290,223000,2002,diesel motor,ročni menjalnik,1896,90,66,136
+
+BMW,serija 3:,6450,289000,2010,diesel motor,ročni menjalnik,1995,184,135,137
+
+Renault,Talisman,5950,138000,2011,bencinski motor,ročni menjalnik,1796,140,103,138
+
+BMW,serija 3:,2390,308350,2003,bencinski motor,ročni menjalnik,1995,143,105,139
+
+Volkswagen,Hroč,6200,56000,1973,bencinski motor,ročni menjalnik,,46,34,140
+
+Audi,80,570,280000,1998,diesel motor,ročni menjalnik,1896,75,55,141
+
+Volkswagen,Passat,5450,277000,2010,diesel motor,ročni menjalnik,1968,140,103,142
+
+Peugeot,508,8990,136951,2014,diesel motor,ročni menjalnik,1560,114,84,143
+
+BMW,serija 3:,16900,132000,2015,diesel motor,avtomatski menjalnik,2000,184,135,144
+
+Volkswagen,Passat,11850,248000,2014,diesel motor,ročni menjalnik,1968,177,130,145
+
+Volkswagen,Passat,14650,147000,2017,diesel motor,ročni menjalnik,1968,150,110,146
+
+Seat,Toledo,3000,307000,2004,diesel motor,ročni menjalnik,2148,150,110,147
+
+Kia,Optima,8900,180000,2012,diesel motor,ročni menjalnik,1685,136,100,148
+
+Audi,A4,2850,301456,2004,diesel motor,ročni menjalnik,2496,163,120,149
+
+Audi,A4,2100,270000,2002,bencinski motor,ročni menjalnik,1781,150,110,150
+
+BMW,serija 5:,19450,209000,2014,diesel motor,avtomatski menjalnik,1995,218,160,151
+
+Volkswagen,Passat,16980,116908,2016,diesel motor,ročni menjalnik,1968,150,110,152
+
+Audi,A6,15600,219000,2012,diesel motor,avtomatski menjalnik,2967,245,180,153
+
+BMW,serija 7:,33321,146000,2013,diesel motor,avtomatski menjalnik,2993,381,280,154
+
+Mazda,Mazda6,4590,217000,2008,diesel motor,ročni menjalnik,1998,140,103,155
+
+Audi,A6,4150,285000,2005,diesel motor,avtomatski menjalnik,2967,224,165,156
+
+Ford,Mondeo,650,320000,2005,diesel motor,ročni menjalnik,1998,116,85,157
+
+Volkswagen,Passat,28990,24900,2019,diesel motor,avtomatski menjalnik,1968,150,110,158
+
+Mercedes-Benz,E-Razred,29500,115000,2016,diesel motor,avtomatski menjalnik,1950,194,143,159
+
+Chevrolet,Cruze,3490,256000,2009,diesel motor,ročni menjalnik,1991,125,92,160
+
+BMW,serija 5:,1400,285000,1999,bencinski motor,ročni menjalnik,2494,170,125,161
+
+BMW,serija 3:,11990,144000,2012,diesel motor,ročni menjalnik,1995,116,85,162
+
+Saab,9-5,5700,300000,2004,diesel motor,ročni menjalnik,1995,143,105,163
+
+Mercedes-Benz,E-Razred,12500,165000,2011,diesel motor,avtomatski menjalnik,2143,204,150,164
+
+BMW,serija 3:,5300,450000,2008,diesel motor,avtomatski menjalnik,2993,245,180,165
+
+Volkswagen,Passat,1890,308000,2001,diesel motor,ročni menjalnik,1896,131,96,166
+
+BMW,serija 5:,13990,199000,2013,diesel motor,avtomatski menjalnik,1995,184,135,167
+
+Volkswagen,Polo,550,125000,1997,bencinski motor,ročni menjalnik,1595,75,55,168
+
+Citroen,C-Elysee,4600,140000,2014,diesel motor,ročni menjalnik,1560,92,68,169
+
+BMW,serija 3:,2000,225000,2006,bencinski motor,ročni menjalnik,2497,218,160,170
+
+Ford,Escort,800,53754,1993,bencinski motor,ročni menjalnik,1392,71,52,171
+
+Audi,A6,13850,268000,2013,diesel motor,avtomatski menjalnik,2967,204,150,172
+
+Mercedes-Benz,E-Razred,2300,242000,1991,bencinski motor,ročni menjalnik,1997,122,90,173
+
+Audi,A6,14000,240000,2014,diesel motor,ročni menjalnik,1968,190,140,174
+
+BMW,serija 3:,3990,330000,2005,diesel motor,avtomatski menjalnik,1995,163,120,175
+
+Audi,A4,1200,347000,1999,diesel motor,ročni menjalnik,1896,110,81,176
+
+Audi,A4,8950,226000,2011,diesel motor,ročni menjalnik,1968,143,105,177
+
+BMW,serija 3:,26900,90000,2017,diesel motor,avtomatski menjalnik,2993,258,190,178
+
+BMW,serija 3:,15650,189000,2008,diesel motor,ročni menjalnik,1968,150,110,179
+
+BMW,serija 3:,4100,299001,2005,diesel motor,avtomatski menjalnik,1995,163,120,180
+
+Ford,Mondeo,12800,112000,2016,diesel motor,ročni menjalnik,1499,120,88,181
+
+Mercedes-Benz,E-Razred,8750,187000,2008,bencinski motor,avtomatski menjalnik,2496,204,150,182
+
+Opel,Astra,8750,165282,2017,bencinski motor,ročni menjalnik,1362,140,103,183
+
+Mercedes-Benz,E-Razred,8990,386614,2012,diesel motor,avtomatski menjalnik,2143,170,125,184
+
+BMW,serija 5:,14850,264000,2013,diesel motor,avtomatski menjalnik,1995,184,135,185
+
+Audi,A6,4500,348000,2005,diesel motor,avtomatski menjalnik,2967,224,165,186
+
+Volkswagen,Passat,990,380000,2000,diesel motor,ročni menjalnik,1896,90,66,187
+
+Kia,Optima,9290,135450,2013,diesel motor,ročni menjalnik,1685,136,100,188
+
+Volkswagen,Passat,3850,388000,2007,diesel motor,ročni menjalnik,1968,140,103,189
+
+Seat,Cordoba,600,163115,2003,bencinski motor,ročni menjalnik,,60,44,190
+
+Chevrolet,Cruze,3990,171852,2012,bencinski motor,ročni menjalnik,1598,124,91,191
+
+Mercedes-Benz,C-Razred,6990,100000,2000,bencinski motor,avtomatski menjalnik,1998,163,120,192
+
+Honda,Accord,3200,208188,2004,diesel motor,ročni menjalnik,2204,140,103,193
+
+Renault,Laguna,1150,260000,2006,bencinski motor,ročni menjalnik,,111,82,194
+
+Audi,A6,790,350000,1995,diesel motor,ročni menjalnik,1896,90,66,195
+
+Opel,Astra,2500,237000,2008,bencinski motor,ročni menjalnik,1598,116,85,196
+
+Audi,A4,4650,259000,2004,diesel motor,ročni menjalnik,1896,101,74,197
+
+Mercedes-Benz,E-Razred,15990,173000,2013,diesel motor,avtomatski menjalnik,2143,170,125,198
+
+Cadillac,CTS,5990,53000,2005,bencinski motor,avtomatski menjalnik,3175,218,160,199
+
+Audi,A4,16290,119102,2016,diesel motor,ročni menjalnik,1968,150,110,200
+
+Audi,A4,29990,81000,2016,diesel motor,avtomatski menjalnik,1968,150,110,201
+
+BMW,serija 3:,900,240000,1993,bencinski motor,ročni menjalnik,1596,102,75,202
+
+Mercedes-Benz,E-Razred,35990,110712,2018,diesel motor,avtomatski menjalnik,1950,194,143,203
+
+Volkswagen,Passat,14390,163560,2017,diesel motor,ročni menjalnik,1968,150,110,204
+
+Mercedes-Benz,C-Razred,38999,85000,2018,bencinski motor,avtomatski menjalnik,2996,333,245,205
+
+BMW,serija 5:,3999,290000,2004,diesel motor,avtomatski menjalnik,2993,218,160,206
+
+Renault,Megane,1490,190000,2007,bencinski motor,ročni menjalnik,1390,98,72,207
+
+Audi,A6,21477,186500,2015,diesel motor,avtomatski menjalnik,1968,190,140,208
+
+Volvo,S80,6650,256000,2006,diesel motor,avtomatski menjalnik,2400,185,136,209
+
+Audi,A6,15950,264000,2012,diesel motor,avtomatski menjalnik,2967,204,150,210
+
+Volkswagen,Passat,5990,291200,2008,diesel motor,ročni menjalnik,1896,105,77,211
+
+Chrysler,Sebring,2790,250000,2010,bencinski motor,avtomatski menjalnik,2360,170,125,212
+
+Renault,Laguna,5990,225000,1997,diesel motor,ročni menjalnik,2231,177,130,213
+
+Peugeot,301,4490,99000,2013,bencinski motor,ročni menjalnik,1587,116,85,214
+
+Mazda,Mazda6,1500,179000,2009,diesel motor,ročni menjalnik,,121,89,215
+
+Jaguar,X-Type,3500,188000,2003,bencinski motor,avtomatski menjalnik,2495,196,144,216
+
+Audi,A6,14800,270000,2012,diesel motor,avtomatski menjalnik,2967,245,180,217
+
+BMW,serija 5:,35280,53520,2017,diesel motor,avtomatski menjalnik,1995,190,140,218
+
+Mercedes-Benz,E-Razred,4190,403000,2005,diesel motor,avtomatski menjalnik,3222,177,130,219
+
+Audi,A6,5750,262325,2005,diesel motor,ročni menjalnik,1968,140,103,220
+
+BMW,serija 3:,10999,191000,2012,diesel motor,ročni menjalnik,1995,116,85,221
+
+Honda,Accord,500,247000,2002,bencinski motor,ročni menjalnik,1590,116,85,222
+
+Peugeot,307,1200,165588,2002,bencinski motor,ročni menjalnik,,109,80,223
+
+Renault,Thalia,650,223000,2003,diesel motor,ročni menjalnik,1461,65,48,224
+
+Opel,Corsa,4550,416458,2001,diesel motor,ročni menjalnik,1995,143,105,225
+
+Kia,Cerato,850,196000,2006,diesel motor,ročni menjalnik,1493,102,75,226
+
+Mercedes-Benz,E-Razred,7590,323421,2008,diesel motor,avtomatski menjalnik,2987,224,165,227
+
+Audi,A4,1190,203400,2000,diesel motor,ročni menjalnik,1896,110,81,228
+
+Volkswagen,Passat,3000,252929,2005,diesel motor,ročni menjalnik,1968,136,100,229
+
+Volvo,S80,13650,169000,2000,diesel motor,avtomatski menjalnik,1995,218,160,230
+
+BMW,serija 3:,4500,267000,2008,diesel motor,ročni menjalnik,1995,143,105,231
+
+Mercedes-Benz,E-Razred,4350,309000,2005,diesel motor,avtomatski menjalnik,3222,204,150,232
+
+Opel,Insignia,8950,179000,2015,diesel motor,ročni menjalnik,1956,131,96,233
+
+Hyundai,Accent,650,135000,2001,bencinski motor,ročni menjalnik,1495,90,66,234
+
+Nissan,-,24990,42000,2017,diesel motor,avtomatski menjalnik,2143,170,125,235
+
+BMW,serija 3:,29980,151305,2017,hibridni pogon,avtomatski menjalnik,1998,184,135,236
+
+Volkswagen,Hroč,6500,46000,1975,bencinski motor,ročni menjalnik,1300,44,32,237
+
+Audi,A6,44999,14650,2019,bencinski motor,avtomatski menjalnik,1984,245,180,238
+
+BMW,serija 3:,4790,278000,2007,diesel motor,ročni menjalnik,1995,122,90,239
+
+Chrysler,300,5590,275000,2006,diesel motor,avtomatski menjalnik,2987,218,160,240
+
+Audi,A3,15850,122000,2014,diesel motor,ročni menjalnik,1968,150,110,241
+
+BMW,serija 5:,4000,329000,2006,diesel motor,ročni menjalnik,2497,177,130,242
+
+Audi,A4,380,233000,1995,bencinski motor,ročni menjalnik,1781,125,92,243
+
+Chevrolet,Lacetti,1299,165000,2009,diesel motor,ročni menjalnik,1991,121,89,244
+
+BMW,serija 5:,33900,72900,2017,diesel motor,avtomatski menjalnik,1995,190,140,245
+
+Volkswagen,Passat,20000,124700,2017,diesel motor,avtomatski menjalnik,1968,190,140,246
+
+Volkswagen,Passat,9650,249000,2012,diesel motor,ročni menjalnik,1968,140,103,247
+
+Mercedes-Benz,E-Razred,5000,336205,2005,diesel motor,avtomatski menjalnik,2987,224,165,248
+
+Mercedes-Benz,C-Razred,28900,9480,2019,diesel motor,avtomatski menjalnik,1597,122,90,249
+
+BMW,serija 5:,11600,229000,2011,diesel motor,ročni menjalnik,1995,184,135,250
+
+Renault,Fluence,3499,272000,2010,diesel motor,ročni menjalnik,1461,110,81,251
+
+Volkswagen,Arteon,30699,28854,2019,diesel motor,ročni menjalnik,1968,150,110,252
+
+Volkswagen,Passat,3399,391000,2008,diesel motor,ročni menjalnik,1896,105,77,253
+
+Audi,A6,37500,17000,2019,diesel motor,avtomatski menjalnik,1968,204,150,254
+
+Audi,A8,13490,205407,2008,diesel motor,avtomatski menjalnik,2967,232,171,255
+
+Volkswagen,Passat,13500,198000,2016,diesel motor,ročni menjalnik,1968,150,110,256
+
+Mercedes-Benz,E-Razred,26950,169000,2016,diesel motor,avtomatski menjalnik,1950,194,143,257
+
+Lexus,IS,16990,135758,2013,hibridni pogon,avtomatski menjalnik,2494,223,164,258
+
+Volkswagen,Passat,1400,311678,2001,diesel motor,ročni menjalnik,1896,131,96,259
+
+Mercedes-Benz,E-Razred,9000,260000,2010,diesel motor,ročni menjalnik,2143,204,150,260
+
+Volvo,S90,30600,30000,2018,bencinski motor,avtomatski menjalnik,1969,250,184,261
+
+BMW,serija 7:,86990,35000,2019,diesel motor,avtomatski menjalnik,2993,265,195,262
+
+BMW,serija 3:,10000,190000,2013,diesel motor,ročni menjalnik,1995,163,120,263
+
+Volkswagen,Jetta,3400,290000,2006,bencinski motor,ročni menjalnik,1595,102,75,264
+
+Opel,Vectra,1480,207785,2002,bencinski motor,ročni menjalnik,1796,125,92,265
+
+Peugeot,301,4490,121000,2013,bencinski motor,ročni menjalnik,1587,116,85,266
+
+Ford,Scorpio,12900,144890,1995,diesel motor,ročni menjalnik,1598,110,81,267
+
+Opel,Ascona,700,92000,1976,bencinski motor,ročni menjalnik,,90,66,268
+
+Mercedes-Benz,C-Razred,500,264000,1995,bencinski motor,ročni menjalnik,1799,122,90,269
+
+Volvo,S60,3200,307000,2005,diesel motor,ročni menjalnik,2401,163,120,270
+
+BMW,serija 3:,7940,107000,2010,diesel motor,avtomatski menjalnik,1995,143,105,271
+
+Mercedes-Benz,E-Razred,47500,18769,2019,diesel motor,avtomatski menjalnik,1950,194,143,272
+
+BMW,serija 7:,78400,27980,2019,diesel motor,avtomatski menjalnik,2993,265,195,273
+
+Opel,Insignia,11999,119100,2016,diesel motor,avtomatski menjalnik,1956,170,125,274
+
+Renault,Megane,450,162000,1999,bencinski motor,ročni menjalnik,1598,107,79,275
+
+Renault,Megane,1000,132000,2005,bencinski motor,ročni menjalnik,1598,113,83,276
+
+BMW,serija 5:,14000,266000,2011,diesel motor,avtomatski menjalnik,1995,184,135,277
+
+Peugeot,607,2600,252000,2006,diesel motor,ročni menjalnik,2179,170,125,278
+
+BMW,serija 3:,2600,271000,2000,bencinski motor,ročni menjalnik,1991,150,110,279
+
+Alfa Romeo,159,2790,165000,2006,diesel motor,ročni menjalnik,1910,150,110,280
+
+Audi,A8,78400,24700,2019,diesel motor,avtomatski menjalnik,2967,286,210,281
+
+Mercedes-Benz,E-Razred,9990,219765,2013,diesel motor,avtomatski menjalnik,2143,136,100,282
+
+Alfa Romeo,166,1250,145000,2006,diesel motor,ročni menjalnik,2387,175,129,283
+
+Peugeot,405,200,200000,1991,bencinski motor,ročni menjalnik,1360,75,55,284
+
+Škoda,Superb,7990,176000,2009,bencinski motor,avtomatski menjalnik,3580,260,191,285
+
+Audi,A8,31788,130500,2015,diesel motor,avtomatski menjalnik,2967,258,190,286
+
+Honda,Accord,9990,135000,2010,diesel motor,avtomatski menjalnik,2199,150,110,287
+
+BMW,serija 7:,50000,139000,2017,diesel motor,avtomatski menjalnik,2993,320,235,288
+
+BMW,serija 5:,13950,195000,2014,diesel motor,avtomatski menjalnik,1995,184,135,289
+
+Seat,Cordoba,600,20000,2001,bencinski motor,ročni menjalnik,1595,101,74,290
+
+BMW,serija 5:,9500,280000,2011,diesel motor,avtomatski menjalnik,2993,245,180,291
+
+Audi,A4,3900,249000,2006,diesel motor,ročni menjalnik,1896,116,85,292
+
+Mercedes-Benz,C-Razred,18999,90911,2014,diesel motor,avtomatski menjalnik,2143,170,125,293
+
+Chevrolet,Cruze,5890,44779,2009,bencinski motor,ročni menjalnik,1598,113,83,294
+
+BMW,serija 3:,2750,257568,2003,bencinski motor,ročni menjalnik,1796,116,85,295
+
+BMW,serija 5:,13750,223000,2012,diesel motor,avtomatski menjalnik,1995,184,135,296
+
+Škoda,Superb,19320,160007,2017,diesel motor,avtomatski menjalnik,1968,150,110,297
+
+BMW,serija 3:,2200,241000,2005,bencinski motor,ročni menjalnik,1796,116,85,298
+
+Smart,-,1800,115000,2004,bencinski motor,ročni menjalnik,7499,61,45,299
+
+Citroen,C-Elysee,6200,80561,2016,bencinski motor,ročni menjalnik,1587,116,85,300
+
+BMW,serija 3:,14300,167349,2013,diesel motor,ročni menjalnik,1995,116,85,301
+
+Volkswagen,Polo,2300,150000,2005,bencinski motor,ročni menjalnik,,61,45,302
+
+Audi,A4,12500,65333,2003,bencinski motor,avtomatski menjalnik,1598,170,125,303
+
+BMW,serija 5:,13990,171011,2012,diesel motor,avtomatski menjalnik,1995,184,135,304
+
+BMW,serija 5:,29900,37800,2017,diesel motor,ročni menjalnik,1995,190,140,305
+
+Audi,A4,4950,232048,2005,diesel motor,ročni menjalnik,1968,140,103,306
+
+Audi,A4,1490,172185,1996,bencinski motor,ročni menjalnik,1781,125,92,307
+
+Alfa Romeo,159,3950,203804,2006,diesel motor,ročni menjalnik,1910,150,110,308
+
+Audi,A4,10450,226000,2011,diesel motor,ročni menjalnik,1968,170,125,309
+
+BMW,serija 3:,4800,320000,2007,diesel motor,ročni menjalnik,1995,163,120,310
+
+Lexus,IS,6400,234000,2008,diesel motor,ročni menjalnik,,177,130,311
+
+Mercedes-Benz,E-Razred,3300,371000,2005,diesel motor,avtomatski menjalnik,2148,122,90,312
+
+BMW,serija 3:,770,285000,1999,bencinski motor,ročni menjalnik,1895,118,87,313
+
+Renault,Thalia,400,173000,2002,bencinski motor,ročni menjalnik,1390,98,72,314
+
+Renault,Thalia,1020,90000,2003,diesel motor,ročni menjalnik,1461,65,48,315
+
+BMW,serija 5:,6350,240000,2008,bencinski motor,avtomatski menjalnik,2497,190,140,316
+
+Ford,Mondeo,20500,25000,2019,hibridni pogon,avtomatski menjalnik,1999,188,138,317
+
+Mercedes-Benz,C-Razred,6300,280000,2007,diesel motor,ročni menjalnik,2148,170,125,318
+
+BMW,serija 7:,12490,377000,2009,diesel motor,avtomatski menjalnik,2993,245,180,319
+
+Honda,Civic,4000,202000,1999,bencinski motor,ročni menjalnik,1595,160,118,320
+
+Volkswagen,Passat,15200,74000,2015,diesel motor,ročni menjalnik,1968,150,110,321
+
+Audi,A4,8500,226000,2009,diesel motor,ročni menjalnik,1968,143,105,322
+
+Volkswagen,Passat,12500,187000,2013,diesel motor,ročni menjalnik,196,140,103,323
+
+Mercedes-Benz,C-Razred,2650,355000,2005,diesel motor,ročni menjalnik,2148,122,90,324
+
+Renault,Talisman,14750,148000,2016,diesel motor,avtomatski menjalnik,1598,160,118,325
+
+Alfa Romeo,159,2999,248254,2008,diesel motor,ročni menjalnik,1910,120,88,326
+
+Volkswagen,Polo,150,153421,1995,bencinski motor,ročni menjalnik,1391,60,44,327
+
+Volkswagen,Hroč,1190,12000,1976,bencinski motor,ročni menjalnik,,34,25,328
+
+Mercedes-Benz,S-Razred,76950,99000,2018,diesel motor,avtomatski menjalnik,2925,340,250,329
+
+Volvo,460,650,250000,1996,bencinski motor,ročni menjalnik,,190,140,330
+
+BMW,serija 5:,12490,181000,2010,bencinski motor,avtomatski menjalnik,2996,204,150,331
+
+Mercedes-Benz,E-Razred,24999,74500,2016,diesel motor,avtomatski menjalnik,1950,194,143,332
+
+BMW,serija 3:,1000,270000,2001,bencinski motor,ročni menjalnik,1895,105,77,333
+
+Volkswagen,Passat,8500,240000,2008,diesel motor,avtomatski menjalnik,1968,140,103,334
+
+Saab,9-3,8990,200383,2008,bencinski motor,avtomatski menjalnik,2792,280,206,335
+
+Ford,Mondeo,4850,254761,2008,diesel motor,ročni menjalnik,1753,125,92,336
+
+Jaguar,XE,19850,106000,2016,diesel motor,avtomatski menjalnik,1999,179,132,337
+
+Alfa Romeo,159,2000,230000,2006,diesel motor,ročni menjalnik,1910,116,85,338
+
+Seat,Cordoba,390,262352,2000,bencinski motor,ročni menjalnik,1391,60,44,339
+
+Volkswagen,Passat,2200,371000,2002,diesel motor,ročni menjalnik,1896,131,96,340
+
+BMW,serija 3:,5590,189000,2005,bencinski motor,avtomatski menjalnik,2497,218,160,341
+
+Audi,A6,4850,227000,2006,bencinski motor,ročni menjalnik,2393,177,130,342
+
+Volvo,S80,4950,440073,2006,diesel motor,avtomatski menjalnik,2400,185,136,343
+
+Honda,Accord,1500,299000,2005,diesel motor,ročni menjalnik,2204,140,103,344
+
+Audi,A3,900,237000,2002,bencinski motor,ročni menjalnik,,101,74,345
+
+Zastava,750,2500,69000,1979,bencinski motor,ročni menjalnik,767,30,22,346
+
+Opel,Astra,1700,248500,2005,diesel motor,ročni menjalnik,1686,101,74,347
+
+Audi,A6,20900,155000,2016,diesel motor,avtomatski menjalnik,1968,190,140,348
+
+Volkswagen,Passat,8200,178000,2013,diesel motor,ročni menjalnik,1598,105,77,349
+
+Audi,A6,5890,329000,2006,diesel motor,avtomatski menjalnik,2967,224,165,350
+
+Mercedes-Benz,C-Razred,10900,229000,2013,diesel motor,avtomatski menjalnik,2143,136,100,351
+
+Audi,A3,15650,149000,2016,diesel motor,ročni menjalnik,1968,150,110,352
+
+Audi,A4,14700,98500,2013,diesel motor,ročni menjalnik,1968,177,130,353
+
+Audi,A3,13699,195260,2014,diesel motor,ročni menjalnik,1968,150,110,354
+
+Volkswagen,Polo,650,240000,2005,bencinski motor,ročni menjalnik,,101,74,355
+
+Volkswagen,Phaeton,2700,300000,2005,diesel motor,avtomatski menjalnik,2967,224,165,356
+
+Volkswagen,Polo,990,126000,2000,bencinski motor,ročni menjalnik,1390,60,44,357
+
+Volkswagen,Jetta,7890,125800,2012,diesel motor,ročni menjalnik,1598,105,77,358
+
+BMW,serija 7:,15490,275225,2009,diesel motor,avtomatski menjalnik,2993,245,180,359
+
+Audi,A6,3700,285000,2004,diesel motor,avtomatski menjalnik,2967,224,165,360
+
+Volkswagen,Passat,14650,219000,2016,diesel motor,ročni menjalnik,1968,190,140,361
+
+Audi,A4,5370,262254,2007,diesel motor,ročni menjalnik,1968,140,103,362
+
+Mercedes-Benz,E-Razred,4999,320000,2004,diesel motor,ročni menjalnik,2148,122,90,363
+
+Audi,A4,4500,295000,2005,diesel motor,ročni menjalnik,1968,140,103,364
+
+Renault,Megane,2250,210000,2007,bencinski motor,ročni menjalnik,1598,111,82,365
+
+Citroen,Visa,1500,113000,1985,bencinski motor,ročni menjalnik,1124,49,36,366
+
+Citroen,C5,4590,299000,2008,diesel motor,avtomatski menjalnik,2720,204,150,367
+
+Peugeot,407,2500,309780,2005,diesel motor,ročni menjalnik,1997,136,100,368
+
+Audi,A6,4650,306000,2006,diesel motor,avtomatski menjalnik,2698,179,132,369
+
+Škoda,Superb,46990,99000,2019,diesel motor,avtomatski menjalnik,2993,265,195,370
+
+Renault,Fluence,4150,133665,2010,bencinski motor,ročni menjalnik,1598,110,81,371
+
+Renault,Megane,790,293000,2004,diesel motor,ročni menjalnik,1461,82,60,372
+
+Audi,A3,16590,148080,2016,diesel motor,ročni menjalnik,1968,150,110,373
+
+Peugeot,301,4850,134688,2013,bencinski motor,ročni menjalnik,1587,116,85,374
+
+Renault,Megane,180,170000,1997,bencinski motor,ročni menjalnik,1598,90,66,375
+
+Peugeot,307,1100,273000,2004,diesel motor,ročni menjalnik,,75,55,376
+
+Audi,A4,5750,215000,2007,diesel motor,ročni menjalnik,1896,116,85,377
+
+Renault,Thalia,700,141000,2005,bencinski motor,ročni menjalnik,1390,75,55,378
+
+Peugeot,301,4690,235000,2013,diesel motor,ročni menjalnik,1560,92,68,379
+
+Jaguar,X-Type,6290,122000,2009,diesel motor,ročni menjalnik,2198,145,107,380
+
+Volkswagen,Passat,3900,230000,2006,diesel motor,ročni menjalnik,1968,140,103,381
+
+Audi,A6,8900,219000,2008,diesel motor,avtomatski menjalnik,2967,232,171,382
+
+Ford,Mondeo,5000,223000,1997,diesel motor,ročni menjalnik,1598,105,77,383
+
+Opel,Corsa,1200,174000,2006,diesel motor,ročni menjalnik,1300,68,50,384
+
+Audi,A4,3999,245000,2006,bencinski motor,ročni menjalnik,1984,131,96,385
+
+Volkswagen,Passat,5500,250000,2007,diesel motor,avtomatski menjalnik,1968,170,125,386
+
+Volkswagen,Passat,300,180000,1993,bencinski motor,ročni menjalnik,1781,90,66,387
+
+BMW,serija 5:,35990,57000,2017,diesel motor,avtomatski menjalnik,1995,190,140,388
+
+BMW,serija 5:,62800,51000,2018,bencinski motor,avtomatski menjalnik,4395,462,340,389
+
+Renault,Clio,2950,122000,2007,bencinski motor,ročni menjalnik,1149,75,55,390
+
+Citroen,C5,8333,149000,2015,diesel motor,ročni menjalnik,1560,114,84,391
+
+BMW,serija 5:,6990,251400,2004,diesel motor,ročni menjalnik,2993,218,160,392
+
+Toyota,Corolla,11590,48161,2016,diesel motor,ročni menjalnik,1364,90,66,393
+
+Citroen,C5,10950,160000,2016,diesel motor,avtomatski menjalnik,1997,181,133,394
+
+BMW,serija 3:,5400,230000,2009,diesel motor,ročni menjalnik,1995,163,120,395
+
+Audi,A4,3999,284700,2007,diesel motor,ročni menjalnik,2967,232,171,396
+
+Mercedes-Benz,S-Razred,10000,265000,1992,bencinski motor,avtomatski menjalnik,,326,240,397
+
+Audi,A4,2550,320000,2003,diesel motor,ročni menjalnik,1896,131,96,398
+
+Opel,Vectra,1100,318500,2002,diesel motor,ročni menjalnik,1995,101,74,399
+
+Renault,Thalia,450,180000,2001,bencinski motor,ročni menjalnik,1390,75,55,400
+
+Opel,Insignia,6000,136000,2009,diesel motor,ročni menjalnik,1956,160,118,401
+
+BMW,serija 3:,699,328000,2000,bencinski motor,ročni menjalnik,1895,118,87,402
+
+Audi,A6,1200,270000,2000,diesel motor,ročni menjalnik,2496,150,110,403
+
+BMW,serija 5:,29950,142818,2017,diesel motor,avtomatski menjalnik,1995,190,140,404
+
+Mercedes-Benz,190,990,300000,1992,bencinski motor,ročni menjalnik,1797,109,80,405
+
+Mercedes-Benz,S-Razred,2200,380000,1993,diesel motor,ročni menjalnik,2996,179,132,406
+
+BMW,serija 5:,2500,310000,1998,bencinski motor,avtomatski menjalnik,2793,193,142,407
+
+Mercedes-Benz,E-Razred,970,513000,2002,diesel motor,ročni menjalnik,2148,150,110,408
+
+Volkswagen,Golf,2950,166000,2003,bencinski motor,ročni menjalnik,,95,70,409
+
+Mercedes-Benz,S-Razred,10750,299000,2007,diesel motor,ročni menjalnik,1995,184,135,410
+
+Opel,Corsa,1200,206000,2005,diesel motor,ročni menjalnik,1686,101,74,411
+
+Volkswagen,Golf,17000,214000,2014,diesel motor,ročni menjalnik,1998,184,135,412
+
+BMW,serija 3:,6400,215000,2011,diesel motor,ročni menjalnik,1995,116,85,413
+
+Ford,Focus,2590,159400,2006,bencinski motor,ročni menjalnik,1596,101,74,414
+
+BMW,serija 5:,15500,217000,2014,diesel motor,avtomatski menjalnik,1995,184,135,415
+
+Volkswagen,Arteon,34000,53000,2019,diesel motor,avtomatski menjalnik,1968,190,140,416
+
+Volvo,S60,5600,255000,2002,diesel motor,avtomatski menjalnik,2987,190,140,417
+
+Mercedes-Benz,E-Razred,3300,475500,1990,diesel motor,ročni menjalnik,,90,66,418
+
+BMW,serija 5:,4350,417000,2004,diesel motor,avtomatski menjalnik,2993,218,160,419
+
+BMW,serija 7:,51800,66800,2017,diesel motor,avtomatski menjalnik,2993,265,195,420
+
+Opel,Insignia,3900,345000,2010,diesel motor,ročni menjalnik,1956,160,118,421
+
+BMW,serija 3:,12950,177000,2016,diesel motor,ročni menjalnik,1995,116,85,422
+
+BMW,serija 3:,1200,290000,2000,bencinski motor,ročni menjalnik,2171,170,125,423
+
+Citroen,C5,1400,335000,2004,diesel motor,ročni menjalnik,1997,136,100,424
+
+BMW,serija 5:,2999,359000,2002,diesel motor,ročni menjalnik,2926,193,142,425
+
+Citroen,C5,13500,335000,2004,diesel motor,ročni menjalnik,1997,136,100,426
+
+Mazda,Mazda6,690,249000,2005,diesel motor,ročni menjalnik,1998,121,89,427
+
+Audi,A4,2150,355000,2001,diesel motor,ročni menjalnik,1896,131,96,428
+
+Renault,Megane,500,301616,2003,diesel motor,ročni menjalnik,1461,86,63,429
+
+Audi,A6,20900,146000,2016,diesel motor,avtomatski menjalnik,1968,190,140,430
+
+Volkswagen,Passat,2890,250188,2004,diesel motor,ročni menjalnik,1896,131,96,431
+
+Jaguar,X-Type,750,284000,2004,diesel motor,ročni menjalnik,1998,131,96,432
+
+BMW,serija 3:,4950,278000,2006,diesel motor,avtomatski menjalnik,1995,163,120,433
+
+Peugeot,407,1590,247000,2007,diesel motor,ročni menjalnik,1560,109,80,434
+
+Audi,A6,14850,249000,2014,diesel motor,avtomatski menjalnik,1968,177,130,435
+
+Saab,9-3,900,289000,2003,diesel motor,ročni menjalnik,2171,125,92,436
+
+BMW,serija 3:,11890,218000,2012,diesel motor,avtomatski menjalnik,1995,116,85,437
+
+Volkswagen,Passat,3890,302400,2006,diesel motor,ročni menjalnik,1968,140,103,438
+
+BMW,serija 5:,12850,219000,2012,diesel motor,avtomatski menjalnik,1995,184,135,439
+
+Volkswagen,Passat,4100,314000,2007,diesel motor,ročni menjalnik,1968,140,103,440
+
+Mercedes-Benz,E-Razred,36650,135000,2016,diesel motor,avtomatski menjalnik,1950,194,143,441
+
+Mercedes-Benz,CLS-Razred,21499,268656,2013,diesel motor,avtomatski menjalnik,2143,204,150,442
+
+Suzuki,Baleno,2490,77000,1996,bencinski motor,ročni menjalnik,1590,99,73,443
+
+Jaguar,XF,2800,271000,2010,diesel motor,ročni menjalnik,1896,131,96,444
+
+Peugeot,306,250,133250,1994,bencinski motor,ročni menjalnik,1360,75,55,445
+
+Lada,1300,3333,64333,1991,bencinski motor,ročni menjalnik,1294,65,48,446
+
+Volkswagen,Jetta,2400,140000,1984,diesel motor,ročni menjalnik,1588,50,37,447
+
+Chrysler,Sebring,3150,268000,2010,bencinski motor,avtomatski menjalnik,2360,170,125,448
+
+Citroen,C5,7650,189711,2010,diesel motor,ročni menjalnik,1997,140,103,449
+
+Audi,A6,13950,189000,2012,diesel motor,ročni menjalnik,2967,204,150,450
+
+BMW,serija 3:,2190,277129,2002,bencinski motor,ročni menjalnik,1995,143,105,451
+
+Mercedes-Benz,CLS-Razred,18990,218000,2013,diesel motor,avtomatski menjalnik,2143,204,150,452
+
+BMW,serija 3:,7780,177000,2009,diesel motor,ročni menjalnik,1995,143,105,453
+
+Honda,Accord,3190,255600,2006,diesel motor,ročni menjalnik,2204,140,103,454
+
+Mercedes-Benz,E-Razred,5000,500000,1988,diesel motor,ročni menjalnik,3000,116,85,455
+
+Mercedes-Benz,C-Razred,22800,91460,2016,diesel motor,avtomatski menjalnik,2143,136,100,456
+
+Mercedes-Benz,C-Razred,24950,139307,2017,diesel motor,avtomatski menjalnik,2143,136,100,457
+
+BMW,serija 5:,2300,365000,2004,diesel motor,avtomatski menjalnik,2993,218,160,458
+
+Toyota,Avensis,3490,130000,2005,bencinski motor,ročni menjalnik,1794,129,95,459
+
+Nissan,Maxima,4000,132000,2001,bencinski motor,ročni menjalnik,1995,140,103,460
+
+Volkswagen,Passat,7850,159000,2012,bencinski motor,ročni menjalnik,1798,160,118,461
+
+Saab,9-3,350,269999,2001,bencinski motor,ročni menjalnik,1985,150,110,462
+
+Audi,A6,19800,229000,2016,diesel motor,avtomatski menjalnik,1968,190,140,463
+
+Fiat,Tipo,9480,164215,2016,diesel motor,ročni menjalnik,1598,120,88,464
+
+Renault,Talisman,35900,2000,2020,diesel motor,avtomatski menjalnik,1997,200,147,465
+
+Honda,Civic,350,256766,2000,bencinski motor,ročni menjalnik,1396,90,66,466
+
+Mercedes-Benz,C-Razred,20900,32281,2013,diesel motor,avtomatski menjalnik,1995,116,85,467
+
+Mercedes-Benz,S-Razred,4500,331885,2003,diesel motor,avtomatski menjalnik,3222,204,150,468
+
+Škoda,Superb,9888,157000,2012,diesel motor,ročni menjalnik,1968,170,125,469
+
+BMW,serija 5:,16990,123000,2012,diesel motor,avtomatski menjalnik,1995,218,160,470
+
+Honda,Accord,1700,272000,2004,diesel motor,ročni menjalnik,2204,140,103,471
+
+Volkswagen,Passat,14630,103055,2016,diesel motor,ročni menjalnik,1598,120,88,472
+
+Volvo,S90,26990,58000,2017,diesel motor,avtomatski menjalnik,1969,190,140,473
+
+Citroen,C5,4490,159063,2010,diesel motor,avtomatski menjalnik,1997,163,120,474
+
+Mercedes-Benz,E-Razred,10000,215000,2008,bencinski motor,avtomatski menjalnik,2496,204,150,475
+
+Audi,A6,1400,250000,2001,diesel motor,ročni menjalnik,1900,110,81,476
+
+Mercedes-Benz,S-Razred,4290,290000,2002,diesel motor,avtomatski menjalnik,3222,197,145,477
+
+BMW,M3 Competition,61000,76365,2016,bencinski motor,avtomatski menjalnik,2979,450,331,478
+
+Audi,A4,5900,140000,2005,bencinski motor,ročni menjalnik,1984,131,96,479
+
+Mercedes-Benz,C-Razred,10850,209000,2012,diesel motor,avtomatski menjalnik,2143,136,100,480
+
+BMW,serija 5:,4490,330000,2004,diesel motor,avtomatski menjalnik,2993,218,160,481
+
+Renault,Laguna,2500,219003,2004,diesel motor,ročni menjalnik,1896,105,77,482
+
+Volvo,S60,15500,73500,2015,diesel motor,ročni menjalnik,1969,150,110,483
+
+Opel,Insignia,24990,98325,2018,diesel motor,avtomatski menjalnik,1956,170,125,484
+
+Volkswagen,Passat,7950,167000,2012,diesel motor,ročni menjalnik,1598,105,77,485
+
+Mercedes-Benz,C-Razred,29990,133000,2017,diesel motor,avtomatski menjalnik,2143,170,125,486
+
+BMW,serija 3:,2100,320000,2004,diesel motor,ročni menjalnik,2993,204,150,487
+
+BMW,serija 3:,6000,245742,2010,diesel motor,ročni menjalnik,1995,143,105,488
+
+BMW,serija 5:,5999,336000,2004,diesel motor,ročni menjalnik,2497,175,129,489
+
+Audi,A6,15800,217450,2012,diesel motor,avtomatski menjalnik,2967,204,150,490
+
+BMW,serija 5:,16850,154000,2014,diesel motor,avtomatski menjalnik,1995,190,140,491
+
+Audi,A4,800,2803,1999,diesel motor,ročni menjalnik,1896,110,81,492
+
+Mercedes-Benz,C-Razred,1800,370000,2001,diesel motor,avtomatski menjalnik,1950,194,143,493
+
+BMW,serija 5:,74990,10000,2020,diesel motor,avtomatski menjalnik,2993,265,195,494
+
+BMW,serija 3:,23880,40000,2018,diesel motor,avtomatski menjalnik,1995,150,110,495
+
+Mercedes-Benz,CLS-Razred,19550,250000,2012,diesel motor,avtomatski menjalnik,2987,265,195,496
+
+Volkswagen,Passat,4300,298000,2008,diesel motor,ročni menjalnik,1896,105,77,497
+
+Audi,A6,4800,270000,2006,diesel motor,avtomatski menjalnik,2967,232,171,498
+
+BMW,serija 5:,10700,199500,2010,diesel motor,ročni menjalnik,1995,184,135,499
+
+Peugeot,407,2400,190000,2008,diesel motor,ročni menjalnik,1560,109,80,500
+
+Mercedes-Benz,C-Razred,20990,79000,2016,diesel motor,avtomatski menjalnik,2143,170,125,501
+
+BMW,serija 3:,700,328594,1999,diesel motor,ročni menjalnik,1951,136,100,502
+
+Nissan,Primera,540,270000,2001,bencinski motor,ročni menjalnik,1769,114,84,503
+
+Audi,A4,480,270000,2001,bencinski motor,ročni menjalnik,1595,102,75,504
+
+Mercedes-Benz,E-Razred,10400,238458,2013,diesel motor,ročni menjalnik,2143,170,125,505
+
+Audi,A6,46990,15000,2019,diesel motor,avtomatski menjalnik,1968,204,150,506
+
+Mercedes-Benz,S-Razred,4600,280000,2004,diesel motor,avtomatski menjalnik,3222,204,150,507
+
+Renault,Clio,800,304000,1999,diesel motor,ročni menjalnik,1896,110,81,508
+
+Peugeot,306,500,144000,1996,bencinski motor,ročni menjalnik,1360,75,55,509
+
+Audi,A4,1990,346713,2001,diesel motor,ročni menjalnik,1896,131,96,510
+
+Opel,Insignia,8750,141660,2014,diesel motor,ročni menjalnik,1956,140,103,511
+
+Volkswagen,Passat,8500,309000,2009,diesel motor,avtomatski menjalnik,1968,170,125,512
+
+Audi,A6,3250,315000,2005,diesel motor,avtomatski menjalnik,2967,224,165,513
+
+Mercedes-Benz,C-Razred,16500,124565,2011,diesel motor,ročni menjalnik,2143,170,125,514
+
+BMW,serija 3:,15450,180000,2017,diesel motor,ročni menjalnik,1995,150,110,515
+
+Ford,Fiesta,690,200000,2002,bencinski motor,ročni menjalnik,1388,80,59,516
+
+Alfa Romeo,156,690,260000,2004,diesel motor,ročni menjalnik,1910,140,103,517
+
+Volkswagen,Passat,1100,371000,2001,diesel motor,ročni menjalnik,1896,131,96,518
+
+BMW,serija 3:,5290,133600,2006,bencinski motor,ročni menjalnik,1995,129,95,519
+
+Volkswagen,Passat,9950,228000,2013,diesel motor,ročni menjalnik,1968,140,103,520
+
+Mercedes-Benz,E-Razred,8900,145800,2008,bencinski motor,avtomatski menjalnik,2496,204,150,521
+
+Mercedes-Benz,A-Razred,33400,281,2020,bencinski motor,avtomatski menjalnik,1991,190,140,522
+
+BMW,serija 5:,22000,112332,2014,diesel motor,avtomatski menjalnik,1995,184,135,523
+
+Honda,Civic,500,196000,1995,bencinski motor,ročni menjalnik,,90,66,524
+
+Peugeot,407,2400,180000,2004,diesel motor,ročni menjalnik,1997,136,100,525
+
+Volkswagen,Passat,16950,33000,2016,diesel motor,ročni menjalnik,1968,150,110,526
+
+Audi,A4,27780,68978,2018,diesel motor,avtomatski menjalnik,1968,190,140,527
+
+BMW,serija 3:,17470,123042,2016,diesel motor,ročni menjalnik,1995,163,120,528
+
+BMW,serija 5:,16950,212000,2016,diesel motor,avtomatski menjalnik,1995,190,140,529
+
+BMW,serija 3:,14655,133421,2014,diesel motor,avtomatski menjalnik,1995,116,85,530
+
+Audi,A6,2000,314000,2000,diesel motor,ročni menjalnik,1896,110,81,531
+
+Mercedes-Benz,E-Razred,35550,140639,2017,diesel motor,avtomatski menjalnik,1950,194,143,532
+
+BMW,serija 5:,4500,378000,2004,diesel motor,ročni menjalnik,2993,218,160,533
+
+Mercedes-Benz,E-Razred,26999,157854,2016,diesel motor,avtomatski menjalnik,1950,194,143,534
+
+Audi,A4,8490,203104,2010,diesel motor,ročni menjalnik,1968,143,105,535
+
+Audi,A4,5950,154320,2007,diesel motor,ročni menjalnik,1968,140,103,536
+
+BMW,serija 5:,5450,298000,2010,diesel motor,ročni menjalnik,1995,163,120,537
+
+Mercedes-Benz,E-Razred,7450,182000,2007,diesel motor,ročni menjalnik,2148,136,100,538
+
+BMW,serija 5:,30990,57000,2017,diesel motor,avtomatski menjalnik,1995,190,140,539
+
+Opel,Insignia,8850,189000,2015,diesel motor,ročni menjalnik,1956,140,103,540
+
+Opel,Astra,550,166000,2000,bencinski motor,ročni menjalnik,1389,90,66,541
+
+Audi,A4,12950,268000,2015,diesel motor,ročni menjalnik,1968,150,110,542
+
+Volkswagen,Passat,2999,313000,2004,diesel motor,ročni menjalnik,1896,131,96,543
+
+Mercedes-Benz,E-Razred,14950,289000,2015,diesel motor,avtomatski menjalnik,2143,170,125,544
+
+Mercedes-Benz,C-Razred,1250,287000,1998,bencinski motor,ročni menjalnik,1799,122,90,545
+
+BMW,serija 5:,34950,80000,2017,diesel motor,avtomatski menjalnik,1995,190,140,546
+
+Mercedes-Benz,E-Razred,40900,25000,2019,diesel motor,avtomatski menjalnik,1950,194,143,547
+
+Opel,Insignia,10999,138000,2015,diesel motor,ročni menjalnik,1956,140,103,548
+
+Audi,A4,750,201000,2000,bencinski motor,ročni menjalnik,1595,101,74,549
+
+Mercedes-Benz,C-Razred,1111,230899,2002,bencinski motor,ročni menjalnik,1796,143,105,550
+
+Audi,A4,1850,219000,2003,bencinski motor,avtomatski menjalnik,2976,220,162,551
+
+BMW,serija 5:,13200,183400,2010,diesel motor,avtomatski menjalnik,2993,245,180,552
+
+Ford,Mondeo,500,270000,2004,diesel motor,ročni menjalnik,1998,131,96,553
+
+Audi,A4,8600,229000,2011,diesel motor,ročni menjalnik,1968,120,88,554
+
+Audi,A4,3190,335600,2004,diesel motor,ročni menjalnik,1896,131,96,555
+
+Seat,Cordoba,500,220000,1997,diesel motor,ročni menjalnik,1896,64,47,556
+
+Audi,A4,1200,260000,1996,bencinski motor,ročni menjalnik,1781,150,110,557
+
+Honda,Accord,3100,280000,2007,diesel motor,ročni menjalnik,2204,140,103,558
+
+Volkswagen,Passat,3950,348000,2007,diesel motor,ročni menjalnik,1968,140,103,559
+
+BMW,serija 3:,1100,400000,2001,diesel motor,ročni menjalnik,1951,136,100,560
+
+BMW,serija 3:,2250,283000,2003,diesel motor,ročni menjalnik,1995,116,85,561
+
+Audi,A6,1111,213000,1995,bencinski motor,ročni menjalnik,2598,150,110,562
+
+Citroen,C-Elysee,4490,213000,2014,bencinski motor,ročni menjalnik,1587,116,85,563
+
+BMW,serija 5:,32000,146000,2017,diesel motor,avtomatski menjalnik,1995,190,140,564
+
+Renault,Megane,899,287000,2005,diesel motor,ročni menjalnik,1461,106,78,565
+
+Mercedes-Benz,E-Razred,2200,385000,1991,diesel motor,ročni menjalnik,,75,55,566
+
+Opel,Astra,450,170000,1998,bencinski motor,ročni menjalnik,1400,90,66,567
+
+BMW,serija 7:,2900,390000,2004,diesel motor,avtomatski menjalnik,3901,258,190,568
+
+Alfa Romeo,Giulia,17250,138000,2017,diesel motor,ročni menjalnik,2143,150,110,569
+
+Audi,A6,19990,158000,2017,diesel motor,ročni menjalnik,1968,190,140,570
+
+Mercedes-Benz,E-Razred,33990,35968,2016,diesel motor,avtomatski menjalnik,1950,194,143,571
+
+Hyundai,Ioniq,32290,4057,2020,elektro pogon,avtomatski menjalnik,,,100,572
+
+Toyota,Avensis,1999,250000,2005,diesel motor,ročni menjalnik,1995,116,85,573
+
+BMW,serija 3:,2700,184000,2006,bencinski motor,ročni menjalnik,1390,80,59,574
+
+Mazda,Mazda6,7500,222000,2010,bencinski motor,ročni menjalnik,1798,120,88,575
+
+Citroen,C-Elysee,12490,206700,2014,diesel motor,ročni menjalnik,1995,184,135,576
+
+Jaguar,XF,24990,145441,2016,diesel motor,avtomatski menjalnik,1999,179,132,577
+
+BMW,serija 5:,4990,282000,2003,bencinski motor,avtomatski menjalnik,2979,231,170,578
+
+Renault,Latitude,4790,186000,2011,diesel motor,ročni menjalnik,1995,173,127,579
+
+BMW,serija 3:,11490,183622,2013,diesel motor,avtomatski menjalnik,1995,184,135,580
+
+BMW,serija 5:,13850,112000,2011,diesel motor,avtomatski menjalnik,1995,184,135,581
+
+BMW,serija 5:,21000,140000,2014,bencinski motor,avtomatski menjalnik,2979,306,225,582
+
+Škoda,Rapid,10250,43670,2017,bencinski motor,ročni menjalnik,1197,90,66,583
+
+Jaguar,XJ,4000,259000,2001,bencinski motor,avtomatski menjalnik,3996,284,209,584
+
+BMW,serija 5:,4750,231000,2005,diesel motor,avtomatski menjalnik,2993,272,200,585
+
+Honda,Civic,2600,330000,2006,diesel motor,ročni menjalnik,2204,140,103,586
+
+Mercedes-Benz,C-Razred,6990,242000,2009,diesel motor,ročni menjalnik,2148,136,100,587
+
+BMW,serija 7:,99992,18580,2020,diesel motor,avtomatski menjalnik,2993,320,235,588
+
+Volvo,S90,31900,91000,2016,bencinski motor,avtomatski menjalnik,1969,254,187,589
+
+BMW,serija 5:,28900,162000,2012,diesel motor,avtomatski menjalnik,2993,381,280,590
+
+Mercedes-Benz,C-Razred,7390,208000,2008,bencinski motor,ročni menjalnik,1796,156,115,591
+
+Mercedes-Benz,E-Razred,3700,430000,2004,diesel motor,avtomatski menjalnik,3222,204,150,592
+
+Seat,Ibiza,550,264660,2003,bencinski motor,ročni menjalnik,1400,75,55,593
+
+Alfa Romeo,166,890,293000,2002,diesel motor,ročni menjalnik,2387,136,100,594
+
+Tesla,Model S,49500,116000,2016,elektro pogon,avtomatski menjalnik,,,345,595
+
+Volkswagen,Passat,1250,385700,2004,diesel motor,ročni menjalnik,1896,101,74,596
+
+Mercedes-Benz,E-Razred,1200,169241,1990,bencinski motor,ročni menjalnik,,94,69,597
+
+BMW,serija 3:,11450,220000,2013,diesel motor,avtomatski menjalnik,1995,163,120,598
+
+Audi,A4,1750,388960,2007,diesel motor,ročni menjalnik,1896,131,96,599
+
+Ford,Focus,690,215000,2000,bencinski motor,ročni menjalnik,1596,101,74,600
+
+Renault,Megane,15800,320000,2006,diesel motor,avtomatski menjalnik,2967,250,184,601
+
+Mercedes-Benz,C-Razred,28990,162223,2017,diesel motor,ročni menjalnik,2143,170,125,602
+
+Fiat,Punto,1500,171000,2008,diesel motor,ročni menjalnik,1998,131,96,603
+
+Mercedes-Benz,E-Razred,11990,201068,2011,diesel motor,ročni menjalnik,2143,136,100,604
+
+Ford,Sierra,650,90000,1987,bencinski motor,ročni menjalnik,,82,60,605
+
+Mercedes-Benz,E-Razred,54900,55891,2018,diesel motor,avtomatski menjalnik,2987,258,190,606
+
+Citroen,C-Elysee,5790,28000,2014,bencinski motor,ročni menjalnik,1199,72,53,607
+
+Audi,A4,24990,36442,2016,diesel motor,avtomatski menjalnik,1968,150,110,608
+
+Mercedes-Benz,C-Razred,7950,151000,2009,bencinski motor,ročni menjalnik,1796,156,115,609
+
+BMW,serija 3:,6990,112000,1988,bencinski motor,ročni menjalnik,1596,102,75,610
+
+Hyundai,Elantra,6790,112250,2011,bencinski motor,ročni menjalnik,1591,132,97,611
+
+Chevrolet,Aveo,4800,57361,2013,bencinski motor,ročni menjalnik,1398,101,74,612
+
+Audi,A8,17800,372000,2010,diesel motor,avtomatski menjalnik,2967,250,184,613
+
+Alfa Romeo,156,1550,176000,2005,diesel motor,ročni menjalnik,1910,150,110,614
+
+Volkswagen,Passat,15160,157759,2015,diesel motor,ročni menjalnik,1968,150,110,615
+
+Chrysler,Sebring,3500,115684,2011,bencinski motor,avtomatski menjalnik,2360,170,125,616
+
+Volkswagen,Passat,3250,295800,2005,diesel motor,avtomatski menjalnik,1968,140,103,617
+
+BMW,serija 5:,39900,58000,2018,diesel motor,avtomatski menjalnik,1995,190,140,618
+
+Volkswagen,Passat,600,370000,1998,diesel motor,ročni menjalnik,1896,110,81,619
+
+Audi,A6,5900,268000,2008,diesel motor,avtomatski menjalnik,2967,232,171,620
+
+Audi,A4,1700,301234,2003,diesel motor,ročni menjalnik,1896,101,74,621
+
+BMW,serija 5:,6850,255000,2006,bencinski motor,ročni menjalnik,2497,218,160,622
+
+BMW,serija 3:,7850,266300,2011,diesel motor,ročni menjalnik,1995,143,105,623
+
+BMW,M3 -PERFORMANCE-KOT,49999,53735,2016,bencinski motor,avtomatski menjalnik,2979,431,317,624
+
+Škoda,Octavia,3000,26800,2007,diesel motor,ročni menjalnik,1896,105,77,625
+
+Mazda,121,1500,103000,1994,bencinski motor,ročni menjalnik,1324,73,54,626
+
+BMW,serija 5:,8100,350000,2005,diesel motor,avtomatski menjalnik,2993,272,200,627
+
+Škoda,Rapid,5000,170000,2013,bencinski motor,ročni menjalnik,1197,105,77,628
+
+Jaguar,XE,13990,160000,2017,diesel motor,ročni menjalnik,1999,163,120,629
+
+Volkswagen,Polo,350,39000,1997,diesel motor,ročni menjalnik,1400,75,55,630
+
+BMW,serija 5:,5700,295000,2004,diesel motor,avtomatski menjalnik,2993,218,160,631
+
+Chevrolet,Cruze,3200,102000,2011,diesel motor,ročni menjalnik,1600,124,91,632
+
+Audi,A6,4100,310000,2006,diesel motor,avtomatski menjalnik,2967,224,165,633
+
+Daewoo,Lanos,1000,63500,2000,bencinski motor,ročni menjalnik,1498,86,63,634
+
+Mercedes-Benz,C-Razred,5999,260000,2008,diesel motor,ročni menjalnik,2148,136,100,635
+
+Mercedes-Benz,C-Razred,33300,29600,2019,diesel motor,avtomatski menjalnik,1597,160,118,636
+
+Mercedes-Benz,C-Razred,14300,120000,2001,diesel motor,ročni menjalnik,1956,170,125,637
+
+Audi,A6,700,450000,2002,diesel motor,ročni menjalnik,2496,163,120,638
+
+Mercedes-Benz,C-Razred,19800,165000,2015,diesel motor,avtomatski menjalnik,2143,170,125,639
+
+BMW,serija 5:,5500,315000,2005,diesel motor,avtomatski menjalnik,2993,218,160,640
+
+Lexus,IS,15300,196600,2016,bencinski motor,avtomatski menjalnik,2494,181,133,641
+
+Audi,A6,12999,229855,2012,diesel motor,ročni menjalnik,1968,177,130,642
+
+BMW,serija 3:,12999,123000,2013,diesel motor,avtomatski menjalnik,1995,143,105,643
+
+BMW,serija 3:,11990,193200,2012,bencinski motor,avtomatski menjalnik,1997,184,135,644
+
+Volkswagen,Arteon,24890,123210,2018,diesel motor,ročni menjalnik,1968,150,110,645
+
+BMW,serija 3:,17490,115000,2016,diesel motor,ročni menjalnik,1968,136,100,646
+
+Peugeot,407,1600,133000,2005,bencinski motor,ročni menjalnik,1749,116,85,647
+
+Audi,A6,7000,220000,2004,diesel motor,avtomatski menjalnik,2967,224,165,648
+
+Mercedes-Benz,E-Razred,12500,282000,2011,diesel motor,avtomatski menjalnik,2143,170,125,649
+
+Mazda,323,350,110000,1996,bencinski motor,ročni menjalnik,1324,73,54,650
+
+Chevrolet,Cruze,5900,52000,2010,bencinski motor,ročni menjalnik,1796,141,104,651
+
+Audi,A6,3550,370000,2005,bencinski motor,avtomatski menjalnik,3123,256,188,652
+
+Volkswagen,Arteon,20700,19700,2018,diesel motor,ročni menjalnik,,150,110,653
+
+Mercedes-Benz,E-Razred,17990,219000,2017,diesel motor,avtomatski menjalnik,1950,194,143,654
+
+Honda,Accord,3500,251000,2004,bencinski motor,ročni menjalnik,1998,155,114,655
+
+Mazda,Mazda6,250,220000,2003,diesel motor,ročni menjalnik,1998,121,89,656
+
+Fiat,-,2800,40000,1976,bencinski motor,ročni menjalnik,750,30,22,657
+
+Volkswagen,Golf,999,124000,1999,bencinski motor,ročni menjalnik,1390,75,55,658
+
+Renault,Clio,350,184942,2000,bencinski motor,ročni menjalnik,1149,57,42,659
+
+BMW,serija 5:,17980,178100,2015,diesel motor,avtomatski menjalnik,1995,190,140,660
+
+BMW,serija 7:,21730,220000,2014,diesel motor,avtomatski menjalnik,2993,258,190,661
+
+Audi,A4,2900,400000,2004,diesel motor,ročni menjalnik,1896,131,96,662
+
+BMW,serija 3:,12190,160593,2014,diesel motor,ročni menjalnik,1995,136,100,663
+
+Ford,Mondeo,12999,138998,2015,bencinski motor,ročni menjalnik,1596,160,118,664
+
+Mercedes-Benz,C-Razred,28650,93252,2018,diesel motor,avtomatski menjalnik,2143,204,150,665
+
+Audi,A4,399,500000,2000,diesel motor,ročni menjalnik,1896,90,66,666
+
+Mercedes-Benz,C-Razred,4850,315899,2007,diesel motor,ročni menjalnik,2148,122,90,667
+
+BMW,serija 3:,13950,220000,2014,diesel motor,avtomatski menjalnik,1995,184,135,668
+
+BMW,serija 3:,11370,219500,2012,diesel motor,avtomatski menjalnik,1995,143,105,669
+
+Mercedes-Benz,A-Razred,48332,7750,2019,bencinski motor,avtomatski menjalnik,1332,163,120,670
+
+Seat,Cordoba,1200,218000,2005,diesel motor,ročni menjalnik,1896,101,74,671
+
+BMW,serija 3:,18470,139600,2016,diesel motor,avtomatski menjalnik,1995,190,140,672
+
+Volkswagen,Passat,890,398000,2000,diesel motor,ročni menjalnik,1896,90,66,673
+
+Volkswagen,Passat,16950,113000,2018,diesel motor,ročni menjalnik,1968,150,110,674
+
+Mercedes-Benz,E-Razred,11900,206221,2011,diesel motor,ročni menjalnik,2143,136,100,675
+
+Citroen,C5,2300,213865,2005,diesel motor,ročni menjalnik,1997,136,100,676
+
+BMW,serija 3:,11850,159000,2013,diesel motor,avtomatski menjalnik,1995,143,105,677
+
+BMW,serija 3:,5200,290000,2003,diesel motor,avtomatski menjalnik,2993,204,150,678
+
+Daewoo,Nubira,1000,170399,2000,bencinski motor,ročni menjalnik,1598,106,78,679
+
+Tesla,Model 3,50007,18000,2020,elektro pogon,avtomatski menjalnik,,,330,680
+
+Mercedes-Benz,E-Razred,2750,280000,2003,diesel motor,avtomatski menjalnik,2148,150,110,681
+
+Mercedes-Benz,E-Razred,2500,370000,1998,diesel motor,ročni menjalnik,2874,129,95,682
+
+Cadillac,DeVille,5000,100000,1972,bencinski motor,avtomatski menjalnik,7777,204,150,683
+
+Audi,A4,890,357000,1999,bencinski motor,ročni menjalnik,1781,150,110,684
+
+Mercedes-Benz,E-Razred,30880,160000,2017,diesel motor,avtomatski menjalnik,1950,194,143,685
+
+Jaguar,XE,18900,60000,2016,diesel motor,avtomatski menjalnik,1999,179,132,686
+
+Volkswagen,Polo,600,195000,2000,bencinski motor,ročni menjalnik,,60,44,687
+
+Renault,Laguna,1750,228714,2007,diesel motor,ročni menjalnik,1870,131,96,688
+
+BMW,serija 3:,12900,221000,2013,diesel motor,avtomatski menjalnik,1995,143,105,689
+
+Mercedes-Benz,S-Razred,4999,305000,1994,bencinski motor,ročni menjalnik,2794,194,143,690
+
+Lancia,Kappa,650,295000,2004,diesel motor,ročni menjalnik,2387,136,100,691
+
+Škoda,Octavia,5850,112555,2010,bencinski motor,ročni menjalnik,1390,80,59,692
+
+Alfa Romeo,156,1200,180000,2000,bencinski motor,ročni menjalnik,1970,155,114,693
+
+Volkswagen,Polo,450,180000,2001,bencinski motor,ročni menjalnik,1390,60,44,694
+
+Volkswagen,Passat,7800,145000,2010,bencinski motor,avtomatski menjalnik,1798,160,118,695
+
+BMW,serija 5:,9745,329859,2006,diesel motor,avtomatski menjalnik,2993,272,200,696
+
+BMW,serija 7:,79885,21461,2020,diesel motor,avtomatski menjalnik,2993,265,195,697
+
+Honda,Accord,4500,188000,2007,bencinski motor,ročni menjalnik,1998,155,114,698
+
+Škoda,Rapid,4990,194785,2015,diesel motor,ročni menjalnik,1598,90,66,699
+
+Škoda,Superb,15990,108000,2018,diesel motor,avtomatski menjalnik,1598,120,88,700
+
+Mercedes-Benz,C-Razred,8990,256000,2010,diesel motor,ročni menjalnik,2143,136,100,701
+
+BMW,serija 3:,37485,26059,2020,diesel motor,avtomatski menjalnik,1995,190,140,702
+
+BMW,serija 5:,10950,309000,2012,diesel motor,ročni menjalnik,1995,184,135,703
+
+BMW,serija 3:,35885,19871,2020,diesel motor,avtomatski menjalnik,1995,190,140,704
+
+BMW,serija 5:,32885,101530,2018,diesel motor,avtomatski menjalnik,1995,190,140,705
+
+Ford,Granada,3000,100000,1976,bencinski motor,ročni menjalnik,,75,55,706
+
+BMW,serija 3:,5500,246000,2006,diesel motor,ročni menjalnik,1995,163,120,707
+
+Alfa Romeo,Giulia,26990,32300,2017,diesel motor,avtomatski menjalnik,2143,179,132,708
+
+Renault,Laguna,220,230000,1998,bencinski motor,ročni menjalnik,1600,107,79,709
+
+Peugeot,406,1600,266000,2003,diesel motor,ročni menjalnik,,144,106,710
+
+Peugeot,407,1490,153000,2005,diesel motor,ročni menjalnik,1997,136,100,711
+
+Mercedes-Benz,C-Razred,3900,326748,2006,diesel motor,avtomatski menjalnik,2148,150,110,712
+
+BMW,serija 5:,4300,268000,2003,diesel motor,ročni menjalnik,2993,218,160,713
+
+Chevrolet,Cruze,5500,80000,2012,bencinski motor,ročni menjalnik,1598,124,91,714
+
+Volkswagen,Passat,7950,210000,2012,diesel motor,ročni menjalnik,1598,105,77,715
+
+BMW,serija 5:,15999,251000,2012,diesel motor,avtomatski menjalnik,2993,313,230,716
+
+BMW,serija 5:,13888,143994,2012,diesel motor,ročni menjalnik,1995,184,135,717
+
+Kia,CeeD,3800,98200,2010,bencinski motor,ročni menjalnik,1396,90,66,718
+
+Opel,Insignia,18990,19630,2017,diesel motor,ročni menjalnik,,170,125,719
+
+Opel,Insignia,6990,212900,2012,diesel motor,ročni menjalnik,1956,160,118,720
+
+Mercedes-Benz,C-Razred,10200,103800,2009,diesel motor,ročni menjalnik,2148,136,100,721
+
+Volkswagen,Passat,19750,149844,2016,diesel motor,avtomatski menjalnik,1968,190,140,722
+
+BMW,serija 3:,5499,300000,2006,diesel motor,ročni menjalnik,1995,163,120,723
+
+Volkswagen,Hroč,2000,46000,1975,bencinski motor,ročni menjalnik,1296,44,32,724
+
+Volkswagen,Passat,4000,212000,2007,diesel motor,ročni menjalnik,1968,140,103,725
+
+Audi,80,1000,272000,1992,diesel motor,ročni menjalnik,,75,55,726
+
+Volkswagen,Passat,16200,200000,2017,diesel motor,ročni menjalnik,1968,150,110,727
+
+Volvo,S80,9500,242000,2012,diesel motor,ročni menjalnik,1984,163,120,728
+
+Volkswagen,Passat,12850,113000,2014,diesel motor,ročni menjalnik,1968,140,103,729
+
+Audi,A3,16750,149798,2016,diesel motor,ročni menjalnik,1968,150,110,730
+
+Daewoo,Racer,700,45000,1990,bencinski motor,ročni menjalnik,150,102,75,731
+
+Volkswagen,Passat,21490,112103,2016,diesel motor,avtomatski menjalnik,1968,239,176,732
+
+Volkswagen,Passat,13950,198000,2016,diesel motor,ročni menjalnik,1968,150,110,733
+
+Volkswagen,Passat,9990,112697,2014,diesel motor,ročni menjalnik,1598,105,77,734
+
+Audi,A6,13990,228000,2011,diesel motor,avtomatski menjalnik,1968,177,130,735
+
+Audi,A4,10600,163000,2011,diesel motor,ročni menjalnik,1968,136,100,736
+
+Volkswagen,Bora,700,312000,1999,diesel motor,ročni menjalnik,1896,110,81,737
+
+Peugeot,407,1390,172000,2006,diesel motor,ročni menjalnik,1560,109,80,738
+
+Volvo,S80,7300,156000,2008,bencinski motor,ročni menjalnik,2521,200,147,739
+
+Mazda,Mazda3,2500,144910,2007,bencinski motor,ročni menjalnik,1598,105,77,740
+
+Rover,75,6399,266000,2000,diesel motor,avtomatski menjalnik,2987,224,165,741
+
+BMW,serija 5:,15999,199000,2012,diesel motor,avtomatski menjalnik,1995,184,135,742
+
+Audi,A6,58990,40000,2019,diesel motor,avtomatski menjalnik,2967,231,170,743
+
+BMW,serija 3:,3500,276000,2003,bencinski motor,ročni menjalnik,2494,192,141,744
+
+Mazda,Mazda6,4150,233000,2008,diesel motor,ročni menjalnik,1998,140,103,745
+
+Volkswagen,Passat,2000,320000,2007,bencinski motor,ročni menjalnik,1991,150,110,746
+
+BMW,serija 3:,26000,130000,2017,diesel motor,avtomatski menjalnik,1995,190,140,747
+
+Mercedes-Benz,S-Razred,7890,249000,2006,bencinski motor,avtomatski menjalnik,3498,272,200,748
+
+Audi,A4,800,319000,1997,diesel motor,ročni menjalnik,1896,110,81,749
+
+BMW,serija 5:,14500,215000,2010,diesel motor,ročni menjalnik,2993,204,150,750
+
+BMW,serija 5:,27990,217350,2017,diesel motor,avtomatski menjalnik,1995,190,140,751
+
+BMW,serija 5:,37990,14900,2017,diesel motor,avtomatski menjalnik,1995,190,140,752
+
+Mazda,Mazda6,6990,163914,2003,diesel motor,ročni menjalnik,1461,90,66,753
+
+BMW,serija 3:,4800,142772,2006,bencinski motor,ročni menjalnik,1995,129,95,754
+
+BMW,serija 3:,1499,217000,2002,bencinski motor,ročni menjalnik,2171,170,125,755
+
+Audi,A4,990,350000,2000,diesel motor,ročni menjalnik,1896,90,66,756
+
+Audi,A6,3690,300000,2005,diesel motor,avtomatski menjalnik,2967,224,165,757
+
+Audi,A6,5700,320000,2004,diesel motor,ročni menjalnik,1968,140,103,758
+
+Volvo,S60,11990,149663,2014,diesel motor,ročni menjalnik,1984,136,100,759
+
+Hyundai,Accent,500,150000,2002,diesel motor,ročni menjalnik,,90,66,760
+
+BMW,M5 Avt.700,38950,249876,2012,bencinski motor,avtomatski menjalnik,4395,560,412,761
+
+BMW,serija 3:,8490,200548,2011,diesel motor,ročni menjalnik,1995,143,105,762
+
+BMW,serija 5:,3000,350000,2002,diesel motor,ročni menjalnik,2926,193,142,763
+
+Mercedes-Benz,C-Razred,18500,159000,2014,diesel motor,avtomatski menjalnik,2143,170,125,764
+
+Audi,A4,500,300000,1999,bencinski motor,ročni menjalnik,1781,125,92,765
+
+Audi,A4,1999,279000,2002,bencinski motor,ročni menjalnik,1781,150,110,766
+
+Honda,Civic,550,245000,2001,bencinski motor,ročni menjalnik,1396,90,66,767
+
+Volvo,S60,1500,239500,2002,bencinski motor,ročni menjalnik,2435,170,125,768
+
+Opel,Astra,500,231144,2001,bencinski motor,ročni menjalnik,1199,75,55,769
+
+Mercedes-Benz,C-Razred,2300,325600,2003,diesel motor,ročni menjalnik,2148,143,105,770
+
+Peugeot,406,2000,200000,1998,diesel motor,ročni menjalnik,1910,150,110,771
+
+Renault,Laguna,1200,235000,2006,diesel motor,ročni menjalnik,1995,150,110,772
+
+Audi,A4,1200,250000,1999,bencinski motor,ročni menjalnik,2771,193,142,773
+
+Chevrolet,Lacetti,1380,165000,2009,diesel motor,ročni menjalnik,1991,121,89,774
+
+Audi,A4,450,207000,1996,bencinski motor,ročni menjalnik,1781,125,92,775
+
+Opel,Insignia,12200,91000,2016,diesel motor,ročni menjalnik,1956,170,125,776
+
+BMW,serija 3:,16999,119191,2017,diesel motor,avtomatski menjalnik,1995,190,140,777
+
+Peugeot,607,350,196000,2001,diesel motor,ročni menjalnik,,133,98,778
+
+Audi,A4,1600,350000,2003,diesel motor,ročni menjalnik,1896,131,96,779
+
+Hyundai,Accent,299,203000,1997,bencinski motor,ročni menjalnik,1495,90,66,780
+
+Mercedes-Benz,C-Razred,6599,230000,2008,diesel motor,ročni menjalnik,2148,170,125,781
+
+Citroen,C5,999,291000,2005,diesel motor,ročni menjalnik,1595,109,80,782
+
+BMW,serija 5:,13650,237000,2013,diesel motor,avtomatski menjalnik,1995,184,135,783
+
+BMW,serija 7:,12750,360000,2009,diesel motor,avtomatski menjalnik,2993,245,180,784
+
+Audi,A4,3150,248000,2006,diesel motor,ročni menjalnik,2000,140,103,785
+
+Audi,A4,3850,355000,2006,diesel motor,ročni menjalnik,1968,140,103,786
+
+Volvo,S40,9000,237000,2005,diesel motor,ročni menjalnik,1968,140,103,787
+
+BMW,serija 7:,1100,230000,1987,bencinski motor,ročni menjalnik,,218,160,788
+
+BMW,serija 3:,14499,230000,2013,diesel motor,ročni menjalnik,1995,184,135,789
+
+Mercedes-Benz,C-Razred,1999,310000,2003,diesel motor,ročni menjalnik,1597,118,87,790
+
+Opel,Kadett,2200,69000,1978,bencinski motor,ročni menjalnik,1196,52,38,791
+
+Ford,Focus,990,150000,2003,bencinski motor,ročni menjalnik,1389,79,58,792
+
+Suzuki,SX4,7800,98500,2013,bencinski motor,ročni menjalnik,1598,120,88,793
+
+BMW,serija 5:,3990,260000,2006,diesel motor,avtomatski menjalnik,2497,177,130,794
+
+Volkswagen,Passat,15900,219000,2016,diesel motor,avtomatski menjalnik,1968,190,140,795
+
+Audi,A6,6300,320000,2006,diesel motor,avtomatski menjalnik,2967,224,165,796
+
+BMW,serija 5:,3000,236000,2004,bencinski motor,ročni menjalnik,2171,170,125,797
+
+Volkswagen,Passat,1700,218345,2001,diesel motor,ročni menjalnik,1896,131,96,798
+
+Citroen,Xsara,250,25000,1998,bencinski motor,ročni menjalnik,1587,88,65,799
+
+Volkswagen,Polo,2600,190000,2008,diesel motor,ročni menjalnik,1422,69,51,800
+
+Volkswagen,Jetta,7300,203000,2012,diesel motor,avtomatski menjalnik,1598,105,77,801
+
+Aixam,-,600,74000,2002,diesel motor,avtomatski menjalnik,400,5,4,802
+
+Honda,Accord,9700,149000,2010,diesel motor,avtomatski menjalnik,2199,150,110,803
+
+Mazda,Mazda6,500,240000,2002,bencinski motor,ročni menjalnik,,120,88,804
+
+BMW,serija 5:,1500,219000,2001,diesel motor,ročni menjalnik,2497,163,120,805
+
+Volkswagen,Golf,2000,190000,2005,bencinski motor,ročni menjalnik,1595,102,75,806
+
+Peugeot,206,750,127193,2001,bencinski motor,ročni menjalnik,1360,75,55,807
+
+Chevrolet,Lacetti,790,227000,2008,diesel motor,ročni menjalnik,1991,121,89,808
+
+Renault,Twingo,350,134892,1995,bencinski motor,ročni menjalnik,1239,54,40,809
+
+Chevrolet,Aveo,3900,65000,2012,bencinski motor,ročni menjalnik,1229,69,51,810
+
+Audi,A3,2800,290000,2003,diesel motor,ročni menjalnik,,150,110,811
+
+Audi,A6,4300,301000,2006,diesel motor,ročni menjalnik,1968,140,103,812
+
+Opel,Corsa,1850,140000,2008,bencinski motor,ročni menjalnik,1364,90,66,813
+
+Opel,Corsa,650,171747,2004,bencinski motor,ročni menjalnik,1199,75,55,814
+
+Audi,A6,9100,147000,2008,bencinski motor,ročni menjalnik,2393,177,130,815
+
+Seat,Toledo,450,250000,2000,bencinski motor,ročni menjalnik,1595,101,74,816
+
+Volkswagen,Passat,450,424000,1997,diesel motor,ročni menjalnik,1896,110,81,817
+
+BMW,serija 5:,2900,244328,1999,diesel motor,ročni menjalnik,2497,143,105,818
+
+Renault,Laguna,1600,188000,2004,bencinski motor,polavtomatski menjalnik,1998,135,99,819
+
+Renault,Clio,780,248000,2001,bencinski motor,ročni menjalnik,,102,75,820
+
+Peugeot,407,2500,220000,2007,diesel motor,ročni menjalnik,1997,136,100,821
+
+BMW,serija 5:,3900,400000,2004,diesel motor,ročni menjalnik,2993,218,160,822
+
+Peugeot,106,400,999999,2001,bencinski motor,ročni menjalnik,,15,11,823
+
+BMW,serija 3:,12950,189000,2013,diesel motor,avtomatski menjalnik,1995,143,105,824
+
+Volkswagen,Passat,550,457000,1998,diesel motor,ročni menjalnik,,110,81,825
+
+Volkswagen,Polo,1300,186200,2003,diesel motor,ročni menjalnik,1900,64,47,826
+
+Toyota,Avensis,9990,126800,2014,diesel motor,ročni menjalnik,1998,124,91,827
+
+Opel,Astra,700,121000,2003,bencinski motor,ročni menjalnik,1598,84,62,828
+
+BMW,serija 5:,14950,225000,2011,diesel motor,avtomatski menjalnik,2993,245,180,829
+
+BMW,serija 5:,12800,230000,2013,diesel motor,ročni menjalnik,1995,184,135,830
+
+Opel,Insignia,16880,144000,2018,diesel motor,avtomatski menjalnik,1598,136,100,831
+
+Volkswagen,Passat,8950,198000,2013,diesel motor,ročni menjalnik,1968,140,103,832
+
+Citroen,C-Elysee,4900,380000,2004,diesel motor,avtomatski menjalnik,2993,218,160,833
+
+BMW,serija 5:,5900,280000,2008,diesel motor,ročni menjalnik,1995,177,130,834
+
+BMW,serija 3:,2750,283650,1999,diesel motor,ročni menjalnik,1951,136,100,835
+
+Ford,Focus,150,280000,1999,bencinski motor,ročni menjalnik,1596,101,74,836
+
+Kia,Rio,5490,99600,2012,diesel motor,ročni menjalnik,1396,90,66,837
+
+Peugeot,407,2100,270000,2005,diesel motor,ročni menjalnik,1997,136,100,838
+
+BMW,serija 5:,15800,259000,2015,diesel motor,avtomatski menjalnik,1995,184,135,839
+
+Audi,A6,1800,245000,2000,bencinski motor,ročni menjalnik,2393,165,121,840
+
+Mercedes-Benz,C-Razred,1099,228000,2002,bencinski motor,ročni menjalnik,1998,129,95,841
+
+Alfa Romeo,159,3500,244000,2008,diesel motor,ročni menjalnik,1910,116,85,842
+
+Ford,B-Max,8500,109000,2016,diesel motor,ročni menjalnik,1499,95,70,843
+
+Mercedes-Benz,E-Razred,5800,231000,2005,diesel motor,ročni menjalnik,2685,177,130,844
+
+Mercedes-Benz,S-Razred,14990,199800,2008,bencinski motor,avtomatski menjalnik,5461,387,285,845
+
+Renault,Twizy,3650,19000,2015,elektro pogon,avtomatski menjalnik,,,8,846
+
+Audi,A6,4950,290000,2008,diesel motor,avtomatski menjalnik,1968,140,103,847
+
+Volkswagen,Passat,27490,99500,2005,diesel motor,avtomatski menjalnik,1995,190,140,848
+
+Mercedes-Benz,S-Razred,42900,183900,2015,diesel motor,avtomatski menjalnik,2987,258,190,849
+
+Citroen,DS,8500,1,1969,bencinski motor,ročni menjalnik,,131,96,850
+
+BMW,serija 5:,8000,253000,2007,diesel motor,avtomatski menjalnik,2993,235,173,851
+
+Chevrolet,Aveo,1800,120000,2009,bencinski motor,ročni menjalnik,1399,94,69,852
+
+BMW,serija 3:,26900,90000,2017,diesel motor,avtomatski menjalnik,2993,258,190,853
+
+Audi,A6,650,350000,2000,bencinski motor,ročni menjalnik,1800,150,110,854
+
+Audi,A4,1100,342351,2005,diesel motor,ročni menjalnik,1995,150,110,855
+
+Audi,A6,26000,68000,2016,diesel motor,avtomatski menjalnik,1968,190,140,856
+
+BMW,serija 3:,6000,223000,2000,diesel motor,ročni menjalnik,1995,163,120,857
+
+Audi,A6,7850,160000,2007,diesel motor,ročni menjalnik,1968,140,103,858
+
+Mercedes-Benz,C-Razred,21550,141000,2015,diesel motor,avtomatski menjalnik,2143,170,125,859
+
+Alfa Romeo,159,3200,150000,2007,diesel motor,ročni menjalnik,1910,150,110,860
+
+Mercedes-Benz,E-Razred,14500,98300,2010,diesel motor,ročni menjalnik,2143,136,100,861
+
+Audi,A4,8600,286248,2011,diesel motor,ročni menjalnik,1968,143,105,862
+
+Audi,A6,20500,172000,2016,diesel motor,avtomatski menjalnik,1968,190,140,863
+
+Volkswagen,Passat,8400,250000,2008,diesel motor,avtomatski menjalnik,1968,170,125,864
+
+Seat,Cordoba,380,225000,2000,diesel motor,ročni menjalnik,1896,68,50,865
+
+Mercedes-Benz,C-Razred,12900,288000,2009,diesel motor,avtomatski menjalnik,2987,224,165,866
+
+BMW,serija 5:,5300,83000,1980,bencinski motor,ročni menjalnik,,90,66,867
+
+Volvo,S40,3990,90000,2006,bencinski motor,ročni menjalnik,1798,125,92,868
+
+Infiniti,Q70,24990,42000,2017,diesel motor,avtomatski menjalnik,2143,170,125,869
+
+Audi,A4,890,244003,1998,bencinski motor,ročni menjalnik,1781,125,92,870
+
+Volkswagen,Passat,14990,119000,2017,diesel motor,ročni menjalnik,1598,120,88,871
+
+Opel,Astra,490,305000,1999,bencinski motor,ročni menjalnik,1598,101,74,872
+
+BMW,serija 3:,15500,90000,2013,diesel motor,ročni menjalnik,1995,163,120,873
+
+Volvo,S60,15999,67677,2015,diesel motor,ročni menjalnik,1969,150,110,874
+
+BMW,serija 7:,13990,279000,2010,diesel motor,avtomatski menjalnik,2993,245,180,875
+
+BMW,serija 5:,14990,341000,2011,diesel motor,avtomatski menjalnik,2993,258,190,876
+
+Volvo,S40,4250,165000,2006,diesel motor,ročni menjalnik,1560,109,80,877
+
+Volkswagen,Passat,13850,189000,2017,diesel motor,ročni menjalnik,1968,150,110,878
+
+Mercedes-Benz,S-Razred,11990,350000,2007,diesel motor,avtomatski menjalnik,2987,235,173,879
+
+Renault,Megane,7700,230000,2004,diesel motor,ročni menjalnik,1968,143,105,880
+
+Ford,-,14000,5000,1949,bencinski motor,ročni menjalnik,1100,46,34,881
+
+Audi,A6,9990,186800,2009,diesel motor,ročni menjalnik,1968,136,100,882
+
+Audi,A4,1990,338900,2001,bencinski motor,ročni menjalnik,1781,150,110,883
+
+Hyundai,Ioniq,26990,250,2020,hibridni pogon,avtomatski menjalnik,1580,145,107,884
+
+Mercedes-Benz,C-Razred,51065,7650,2020,bencinski motor,avtomatski menjalnik,1497,184,135,885
+
+Volkswagen,Passat,3990,291310,2006,diesel motor,ročni menjalnik,1968,140,103,886
+
+BMW,serija 5:,3900,450000,2000,diesel motor,ročni menjalnik,2926,184,135,887
+
+Mercedes-Benz,C-Razred,2000,280000,2002,LPG avtoplin,ročni menjalnik,1796,122,90,888
+
+Renault,Talisman,19250,155000,2015,diesel motor,avtomatski menjalnik,1968,150,110,889
+
+Maserati,Quattroporte,32000,102000,1999,bencinski motor,ročni menjalnik,3217,336,247,890
+
+Jaguar,X-Type,3500,165000,2005,diesel motor,ročni menjalnik,1998,131,96,891
+
+Mercedes-Benz,E-Razred,13990,221795,2014,diesel motor,avtomatski menjalnik,2143,136,100,892
+
+Alfa Romeo,Giulia,34490,9200,2020,diesel motor,avtomatski menjalnik,2143,160,118,893
+
+Mercedes-Benz,E-Razred,15990,185621,2014,diesel motor,ročni menjalnik,2143,136,100,894
+
+BMW,serija 5:,5900,29700,2003,bencinski motor,ročni menjalnik,2979,231,170,895
+
+Ford,Mondeo,2490,259000,2008,diesel motor,ročni menjalnik,1997,140,103,896
+
+BMW,serija 3:,17999,48640,2017,bencinski motor,ročni menjalnik,1499,136,100,897
+
+BMW,serija 5:,42980,34950,2018,diesel motor,avtomatski menjalnik,1995,190,140,898
+
+Mercedes-Benz,E-Razred,3590,331848,2003,diesel motor,avtomatski menjalnik,2685,177,130,899
+
+Hyundai,Elantra,799,220000,2002,bencinski motor,ročni menjalnik,1599,107,79,900
+
+Fiat,-,8500,50000,1934,bencinski motor,ročni menjalnik,,46,34,901
+
+Volkswagen,Bora,850,330500,1999,diesel motor,ročni menjalnik,1896,90,66,902
+
+Opel,Insignia,6950,149000,2012,bencinski motor,ročni menjalnik,1796,140,103,903
+
+BMW,serija 3:,2600,226000,2002,diesel motor,ročni menjalnik,1995,150,110,904
+
+Alfa Romeo,Giulia,21350,61800,2018,diesel motor,avtomatski menjalnik,2143,136,100,905
+
+Volkswagen,Passat,2300,245900,2003,diesel motor,ročni menjalnik,1896,101,74,906
+
+BMW,serija 3:,3290,326000,2009,bencinski motor,ročni menjalnik,1850,136,100,907
+
+Mercedes-Benz,E-Razred,39990,30848,2019,diesel motor,avtomatski menjalnik,1950,194,143,908
+
+Mercedes-Benz,C-Razred,34900,25,2019,diesel motor,ročni menjalnik,1597,160,118,909
+
+BMW,serija 5:,4598,312886,2005,diesel motor,avtomatski menjalnik,2993,218,160,910
+
+Audi,A4,3500,258000,2005,diesel motor,ročni menjalnik,1896,116,85,911
+
+BMW,serija 7:,4800,338125,2004,diesel motor,avtomatski menjalnik,2993,218,160,912
+
+Opel,Ascona,1500,66000,1982,bencinski motor,ročni menjalnik,,75,55,913
+
+Audi,A4,16980,140000,2015,diesel motor,avtomatski menjalnik,1968,190,140,914
+
+Volkswagen,Passat,18570,121284,2018,diesel motor,avtomatski menjalnik,1968,150,110,915
+
+Citroen,C5,1790,290000,2006,diesel motor,ročni menjalnik,1997,136,100,916
+
+Mercedes-Benz,C-Razred,940,148000,1995,bencinski motor,ročni menjalnik,1360,75,55,917
+
+Jaguar,X-Type,1300,260000,2002,bencinski motor,ročni menjalnik,2500,196,144,918
+
+Alfa Romeo,166,500,20000,2001,plin,ročni menjalnik,1970,155,114,919
+
+Alfa Romeo,159,6900,144000,2009,diesel motor,ročni menjalnik,1910,150,110,920
+
+Mercedes-Benz,C-Razred,8700,200400,2010,diesel motor,avtomatski menjalnik,2143,136,100,921
+
+Opel,Manta,3200,60000,1982,bencinski motor,ročni menjalnik,2000,110,81,922
+
+Audi,A4,690,283337,2000,bencinski motor,ročni menjalnik,1595,101,74,923
+
+BMW,serija 3:,1390,343467,2004,diesel motor,ročni menjalnik,1995,150,110,924
+
+Audi,A4,9500,253000,2011,diesel motor,ročni menjalnik,1968,170,125,925
+
+BMW,serija 5:,8400,237210,2009,diesel motor,avtomatski menjalnik,1995,163,120,926
+
+Chevrolet,Cruze,4490,62000,2011,bencinski motor,ročni menjalnik,1598,124,91,927
+
+Opel,Astra,550,172600,1999,diesel motor,ročni menjalnik,1700,68,50,928
+
+Mazda,Xedos,210,220000,1997,bencinski motor,ročni menjalnik,,132,97,929
+
+Mercedes-Benz,E-Razred,27000,177000,2017,diesel motor,avtomatski menjalnik,1950,150,110,930
+
+Renault,Thalia,555,214000,2001,bencinski motor,ročni menjalnik,1390,75,55,931
+
+Ford,Mondeo,20860,23578,2019,hibridni pogon,avtomatski menjalnik,1998,140,103,932
+
+Audi,A8,2000,2021,2008,diesel motor,ročni menjalnik,1997,72,53,933
+
+BMW,serija 3:,3400,315000,2007,diesel motor,ročni menjalnik,1995,163,120,934
+
+Audi,S3,30990,67000,2015,bencinski motor,avtomatski menjalnik,1984,300,221,935
+
+Volvo,S60,950,325000,2004,diesel motor,ročni menjalnik,2401,131,96,936
+
+Citroen,C5,2190,269000,2006,diesel motor,ročni menjalnik,1997,136,100,937
+
+Audi,A4,10950,217500,2013,diesel motor,ročni menjalnik,1968,120,88,938
+
+Peugeot,407,2600,225000,2005,diesel motor,avtomatski menjalnik,1997,136,100,939
+
+Nissan,Primera,1290,258559,2004,diesel motor,ročni menjalnik,2184,126,93,940
+
+Renault,Thalia,1300,133000,2004,bencinski motor,ročni menjalnik,1390,75,55,941
+
+Volkswagen,Passat,15490,87000,2015,diesel motor,ročni menjalnik,1968,150,110,942
+
+Chevrolet,Cruze,3990,118000,2010,bencinski motor,ročni menjalnik,1796,141,104,943
+
+Mercedes-Benz,C-Razred,20490,110000,2015,diesel motor,avtomatski menjalnik,2143,170,125,944
+
+BMW,serija 7:,6490,275000,2005,bencinski motor,avtomatski menjalnik,4000,306,225,945
+
